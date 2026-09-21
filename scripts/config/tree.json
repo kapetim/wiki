@@ -1,0 +1,17 @@
+[
+  {
+    "path": "bookmarks.html",
+    "sha256": "7139efaa4f0dcac3e7fddeb376aded3ca03173e00a9010cb7f1d9505e905be5c",
+    "size": 10151
+  },
+  {
+    "path": "gear/device/iphone.png",
+    "sha256": "c8e84a4748011adae5d1dfcf2c55ac4a8ebd0e3ab03193b6e550d97a1cd34a63",
+    "size": 1654070
+  },
+  {
+    "path": "gear/device/xiaomi.jpg",
+    "sha256": "881e72fdb1aff473adf429dd7166be8ef66efc3ffc30ce8e13263a75c51dd51b",
+    "size": 1117965
+  }
+]

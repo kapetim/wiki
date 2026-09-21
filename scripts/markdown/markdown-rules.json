@@ -1,0 +1,82 @@
+{
+  "line_length": {
+    "line_length": 200,
+    "heading_line_length": 60,
+    "code_block_line_length": 200,
+    "code_blocks": true,
+    "tables": false,
+    "headings": true,
+    "strict": true,
+    "stern": false
+  },
+  "heading_trailing_punctuation": ".,;:!\u3002\uff0c\uff1b\uff1a\uff01",
+  "emphasis_as_heading_punctuation": ".,;:!?\u3002\uff0c\uff1b\uff1a\uff01\uff1f",
+  "fenced_code_languages": [
+    "mermaid",
+    "text",
+    "sh"
+  ],
+  "proper_names": [
+    "YouTube",
+    "GitHub",
+    "Google",
+    "Docker",
+    "Node.js",
+    "Twitter",
+    "Spotify",
+    "Reddit",
+    "ChatGPT",
+    "VSCode",
+    "WordPress",
+    "Wordle",
+    "Linux",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "WhatsApp"
+  ],
+  "proper_names_include_code": true,
+  "prohibited_link_texts": [
+    "click here",
+    "here",
+    "link",
+    "more",
+    "this",
+    "page",
+    "article",
+    "read",
+    "see"
+  ],
+  "reference_ignored_labels": [
+    "x"
+  ],
+  "reference_shortcut_syntax": false,
+  "reference_ignored_definitions": [
+    "//"
+  ],
+  "link_style": {
+    "autolink": true,
+    "inline": true,
+    "full": false,
+    "collapsed": false,
+    "shortcut": true,
+    "url_inline": true
+  },
+  "styles": {
+    "heading": "atx",
+    "ul": "dash",
+    "ol_prefix": "ordered",
+    "emphasis": "asterisk",
+    "strong": "asterisk",
+    "code_block": "fenced",
+    "code_fence": "backtick",
+    "hr": "---"
+  },
+  "list_indent": 2,
+  "list_marker_space": 1,
+  "blanks": {
+    "headings_above": 1,
+    "headings_below": 1
+  },
+  "table_cell_limit": 99
+}

@@ -1,0 +1,42 @@
+{
+  "name": "wiki",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "local": "npm run lint && npm run lint-shell && npm run lint-docker && npm run lint-ci && npm run test:unit",
+    "test": "node --test 'test/**/*.test.js'",
+    "test:unit": "node --test 'test/unit/**/*.test.js'",
+    "test:integration": "node --test 'test/integration/**/*.test.js'",
+    "lint": "SDIR=\"$PWD\" && cd \"${REPO_DIR:-..}\" && \"$SDIR/node_modules/.bin/eslint\" --config \"$SDIR/config/eslint.config.js\" scripts src .vscode .devcontainer",
+    "lint-shell": "shellcheck -x \"${REPO_DIR:-..}\"/scripts/*.sh",
+    "lint-docker": "hadolint \"${REPO_DIR:-..}/Dockerfile\"",
+    "lint-ci": "node tools/lint-ci.js",
+    "tree": "node tools/generate-tree.js",
+    "table-cols": "node tools/generate-table-columns.js",
+    "heading-coverage": "node tools/generate-heading-coverage.js",
+    "next-task": "node tools/next-task.js",
+    "zip": "node release/release-zip.js",
+    "verify": "node release/verify-release.js",
+    "release": "node release/publish-tag.js publish"
+  },
+  "config": {
+    "tree": "config/tree.json"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^2.0.1",
+    "eslint": "^10.9.1",
+    "globals": "^17.11.0",
+    "js-yaml": "^5.4.1",
+    "micromark": "^4.0.2",
+    "micromark-core-commonmark": "^2.0.3",
+    "micromark-extension-directive": "^4.0.0",
+    "micromark-extension-gfm-autolink-literal": "^2.1.0",
+    "micromark-extension-gfm-footnote": "^2.1.0",
+    "micromark-extension-gfm-table": "^2.1.1",
+    "micromark-extension-math": "^3.1.0"
+  }
+}
