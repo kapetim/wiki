@@ -1,0 +1,13 @@
+{
+  "title": "🏦 savings sync",
+  "labels": [
+    "government"
+  ],
+  "body": "# 🧭 Steps\n\n1. File the month's investment records and refresh the holdings section.\n2. Run the monthly savings routine: update balances, reconcile against statements, recompute metrics.\n\nPrivate instruction (not public): https://github.com/kapetim/private/blob/main/src/finance/savings.md\n\n## ✅ Done when\n\n- Month's records filed and reconciled\n- Holdings reflect current positions\n- Savings snapshot refreshed",
+  "priority": 2,
+  "tag": "government",
+  "recurrence": "months",
+  "interval": 1,
+  "deadline": "2026-10-01",
+  "enabled": true
+}

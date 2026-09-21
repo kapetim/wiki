@@ -1,0 +1,13 @@
+{
+  "title": "💇 haircut",
+  "labels": [
+    "health"
+  ],
+  "body": "# 🧭 Steps\n\n1. Book the barber per [the providers routine](./service-provider/providers.md) — thick, curvy hair, trim to eyebrow height, scissors only.\n\n## ✅ Done when\n\n- Cut done; next visit scheduled if needed",
+  "priority": 4,
+  "tag": "health",
+  "recurrence": "months",
+  "interval": 4,
+  "deadline": "2026-12-10",
+  "enabled": true
+}

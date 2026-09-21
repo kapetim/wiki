@@ -1,0 +1,13 @@
+{
+  "title": "🦷 dentist",
+  "labels": [
+    "health"
+  ],
+  "body": "# 🧭 Steps\n\n1. Book the dentist per [the providers routine](./service-provider/providers.md).\n2. Attend; note next recommended interval.\n\n## ✅ Done when\n\n- Appointment completed; next visit in calendar",
+  "priority": 3,
+  "tag": "health",
+  "recurrence": "months",
+  "interval": 4,
+  "deadline": "2026-12-10",
+  "enabled": true
+}

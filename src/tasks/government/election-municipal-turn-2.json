@@ -1,0 +1,13 @@
+{
+  "title": "🗳️ municipal election — 2nd turn",
+  "labels": [
+    "government"
+  ],
+  "body": "# 🧭 Steps\n\n1. If no majority in the 1st turn, vote in the mayoral runoff (cities >200k voters) — expect **29 Oct 2028**; confirm the official date. If no 2nd turn is needed, mark done and disable.\n2. Follow [the voting routine](./election/voting.md) — e-Titulo, in-person vote, or justificativa.\n\n## ✅ Done when\n\n- Voted in 2nd turn, or justified absence, or confirmed no 2nd turn needed\n- Deadline bumped to next cycle (2032-10-29)",
+  "priority": 2,
+  "tag": "government",
+  "recurrence": "years",
+  "interval": 4,
+  "deadline": "2028-10-29",
+  "enabled": true
+}

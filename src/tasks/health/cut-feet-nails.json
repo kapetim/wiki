@@ -1,0 +1,13 @@
+{
+  "title": "🦶 cut toenails",
+  "labels": [
+    "health"
+  ],
+  "body": "# 🧭 Steps\n\n1. Trim nails per [the nails routine](./solo/nails.md) — clip straight, file edges, clean the clipper.\n\n## ✅ Done when\n\n- Toes trimmed straight; edges filed smooth\n- No sharp corners catching socks; clipper cleaned and dry",
+  "priority": 4,
+  "tag": "health",
+  "recurrence": "weeks",
+  "interval": 2,
+  "deadline": "2026-09-21",
+  "enabled": true
+}

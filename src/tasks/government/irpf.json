@@ -1,0 +1,13 @@
+{
+  "title": "🧾 IRPF declaration",
+  "labels": [
+    "government"
+  ],
+  "body": "# 🧭 Steps\n\n1. File the declaration per [the IRPF procedure](./finance/irpf.md) — collect informes, open PGD, review, transmit before the deadline.\n\n## ✅ Done when\n\n- Informe for each institution with 31/12 balance\n- Declaration transmitted; declaração + recibo PDFs under cpf/irpf/<year> and indexed in finance/readme.md\n- Board last done set to that year's opening day; forced status cleared after transmit",
+  "priority": 1,
+  "tag": "government",
+  "recurrence": "years",
+  "interval": 1,
+  "deadline": "2027-05-31",
+  "enabled": true
+}

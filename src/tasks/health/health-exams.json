@@ -1,0 +1,13 @@
+{
+  "title": "🩺 health exams",
+  "labels": [
+    "health"
+  ],
+  "body": "# 🧭 Steps\n\n1. Book the lab appointment per [the providers routine](./service-provider/providers.md) (fasting if required).\n2. Attend; collect results when ready; file or note abnormal flags for follow-up.\n\n## ✅ Done when\n\n- Blood draw done; results reviewed or filed",
+  "priority": 3,
+  "tag": "health",
+  "recurrence": "months",
+  "interval": 12,
+  "deadline": "2027-08-10",
+  "enabled": true
+}

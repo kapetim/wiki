@@ -1,0 +1,13 @@
+{
+  "title": "⚖️ weigh-in",
+  "labels": [
+    "health"
+  ],
+  "body": "# 🧭 Steps\n\n1. Weigh in — same conditions (morning, before eating), same scale.\n2. Record weight in [diet status](../../food/diet/status.md); refresh intake/deficit if anything drifted.\n\n## ✅ Done when\n\n- Weight recorded; status tables reflect reality\n- Deficit/time-to-goal recomputed if anything moved",
+  "priority": 3,
+  "tag": "health",
+  "recurrence": "weeks",
+  "interval": 2,
+  "deadline": "2026-09-21",
+  "enabled": true
+}

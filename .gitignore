@@ -1,0 +1,21 @@
+# Dependencies / build
+node_modules/
+dist/
+/build/
+out/
+coverage/
+*.tsbuildinfo
+
+# opencode tooling
+.opencode/
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

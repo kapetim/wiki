@@ -1,0 +1,13 @@
+{
+  "title": "💰 expenses sync",
+  "labels": [
+    "government"
+  ],
+  "body": "# 🧭 Steps\n\n1. Run the monthly expenses routine: read pool balances, distribute income, top up when low, run recharges, reconcile.\n\nPrivate instruction (not public): https://github.com/kapetim/private/blob/main/src/finance/expenses.md\n\n## ✅ Done when\n\n- Every pool checked against its target\n- Recharges done — no duplicate subscriptions\n- Card and credit policy reconciled",
+  "priority": 2,
+  "tag": "government",
+  "recurrence": "months",
+  "interval": 1,
+  "deadline": "2026-10-01",
+  "enabled": true
+}

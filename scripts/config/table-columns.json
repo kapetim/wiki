@@ -1,0 +1,2607 @@
+{
+  "README.md": [
+    2,
+    2
+  ],
+  "src/characters/chocolate-factory/augustus-gloop.md": [
+    2,
+    2,
+    4,
+    3
+  ],
+  "src/characters/chocolate-factory/charlie-bucket.md": [
+    2,
+    2,
+    4,
+    3
+  ],
+  "src/characters/chocolate-factory/grandpa-joe.md": [
+    2,
+    2,
+    4,
+    3
+  ],
+  "src/characters/chocolate-factory/mike-teavee.md": [
+    2,
+    2,
+    4,
+    3
+  ],
+  "src/characters/chocolate-factory/readme.md": [
+    3,
+    3,
+    4
+  ],
+  "src/characters/chocolate-factory/the-oompa-loompas.md": [
+    3
+  ],
+  "src/characters/chocolate-factory/veruca-salt.md": [
+    2,
+    2,
+    4,
+    3
+  ],
+  "src/characters/chocolate-factory/violet-beauregarde.md": [
+    2,
+    2,
+    4,
+    3
+  ],
+  "src/characters/chocolate-factory/wonka.md": [
+    2,
+    2,
+    4,
+    3
+  ],
+  "src/characters/chowder/chowder.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/chowder/mung-daal.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/chowder/readme.md": [
+    3,
+    3
+  ],
+  "src/characters/chowder/shnitzel.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/chowder/the-kitchen.md": [
+    3
+  ],
+  "src/characters/chowder/the-neighbors.md": [
+    3
+  ],
+  "src/characters/chowder/truffles.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/dora-the-explorer/boots.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/dora-the-explorer/diego.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/dora-the-explorer/dora.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/dora-the-explorer/map-and-backpack.md": [
+    3
+  ],
+  "src/characters/dora-the-explorer/readme.md": [
+    3
+  ],
+  "src/characters/dora-the-explorer/swiper.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/dora-the-explorer/the-friends.md": [
+    3
+  ],
+  "src/characters/felix-the-cat/felix-the-cat.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/felix-the-cat/poindexter.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/felix-the-cat/readme.md": [
+    3,
+    3
+  ],
+  "src/characters/felix-the-cat/the-rogues.md": [
+    3
+  ],
+  "src/characters/finding/crush.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/finding/dory.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/finding/gill.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/finding/hank.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/finding/humans.md": [
+    3
+  ],
+  "src/characters/finding/marlin.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/finding/nemo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/finding/nigel.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/finding/readme.md": [
+    3,
+    3,
+    3
+  ],
+  "src/characters/finding/sharks.md": [
+    3
+  ],
+  "src/characters/finding/tank-gang.md": [
+    3
+  ],
+  "src/characters/finding/the-institute.md": [
+    3
+  ],
+  "src/characters/fosters-home/bloo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/cheese.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/coco.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/duchess.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/eduardo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/frankie.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/mac.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/madame-foster.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/mr-herriman.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/readme.md": [
+    3,
+    3
+  ],
+  "src/characters/fosters-home/terrence.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/fosters-home/the-house.md": [
+    3
+  ],
+  "src/characters/fosters-home/wilt.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/beauxbatons/fleur-delacour.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/beauxbatons/madame-maxime.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/creatures/dobby.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/creatures/the-house-elves.md": [
+    3
+  ],
+  "src/characters/harry-potter/death-eaters/bellatrix-lestrange.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/death-eaters/lucius-malfoy.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/death-eaters/peter-pettigrew.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/death-eaters/voldemort.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/durmstrang/igor-karkaroff.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/durmstrang/viktor-krum.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/arthur-weasley.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/fred-weasley.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/george-weasley.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/ginny-weasley.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/harry-potter.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/hermione-granger.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/james-potter.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/molly-weasley.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/neville-longbottom.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/percy-weasley.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/remus-lupin.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/ron-weasley.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/harry-potter/hogwarts/gryffindor/sirius-black.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/hufflepuff/cedric-diggory.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/ravenclaw/luna-lovegood.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/slytherin/draco-malfoy.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/sorting-hat.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/staff/albus-dumbledore.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/staff/mcgonagall.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/staff/severus-snape.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/harry-potter/hogwarts/the-ghosts.md": [
+    3
+  ],
+  "src/characters/harry-potter/readme.md": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "src/characters/harry-potter/the-dursleys.md": [
+    3
+  ],
+  "src/characters/looney-tunes/bugs-bunny.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/looney-tunes/coyote-and-road-runner.md": [
+    3
+  ],
+  "src/characters/looney-tunes/daffy-duck.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/looney-tunes/elmer-fudd.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/looney-tunes/foghorn-leghorn.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/looney-tunes/marvin-the-martian.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/looney-tunes/porky-pig.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/looney-tunes/readme.md": [
+    3,
+    3,
+    3
+  ],
+  "src/characters/looney-tunes/speedy-gonzales.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/looney-tunes/sylvester-and-tweety.md": [
+    3
+  ],
+  "src/characters/looney-tunes/taz.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/looney-tunes/yosemite-sam.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/madagascar/alex.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/madagascar/dubois.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/madagascar/gloria.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/madagascar/king-julien.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/madagascar/marty.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/madagascar/mason-and-phil.md": [
+    2
+  ],
+  "src/characters/madagascar/melman.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/madagascar/nana.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/madagascar/readme.md": [
+    3,
+    3
+  ],
+  "src/characters/madagascar/the-circus.md": [
+    3
+  ],
+  "src/characters/madagascar/the-lemurs.md": [
+    3
+  ],
+  "src/characters/madagascar/the-penguins.md": [
+    3
+  ],
+  "src/characters/madagascar/zuba-and-florrie.md": [
+    2
+  ],
+  "src/characters/naruto/characters.md": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "src/characters/naruto/cloud/a-raikage.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/cloud/darui.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/cloud/karui.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/0-gedo-mazo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/1-gaara.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/2-yugito-nii.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/3-yagura.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/4-roshi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/5-han.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/6-utakata.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/7-fu.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/8-killer-b.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/jinchuriki/9-naruto-uzumaki.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/jinchuriki/bijuu.md": [
+    4
+  ],
+  "src/characters/naruto/konoha/children/chocho-akimichi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/children/inojin-yamanaka.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/children/kawaki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/children/shikadai-nara.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hermaphrodite/metal-lee.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hermaphrodite/might-guy.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hermaphrodite/rock-lee.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hyuga/hanabi-hyuga.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hyuga/hiashi-hyuga.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hyuga/himawari.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hyuga/hinata-hyuga.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hyuga/hizashi-hyuga.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/hyuga/neji-hyuga.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/new-teachers/choji-akimichi.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/konoha/new-teachers/kiba-inuzuka.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/new-teachers/sai.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/new-teachers/shikamaru-nara.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/konoha/new-teachers/shino-aburame.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/old-teachers/danzo-shimura.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/old-teachers/ibiki-morino.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/old-teachers/iruka-umino.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/old-teachers/jiraiya.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/old-teachers/kakashi-hatake.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/konoha/old-teachers/minato-namikaze.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/old-teachers/prev-generation-isc.md": [
+    2
+  ],
+  "src/characters/naruto/konoha/old-teachers/shikaku-nara.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/old-teachers/yamato.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/old-teachers/yugao-uzuki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/sarutobi/asuma-sarutobi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/sarutobi/hiruzen-sarutobi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/sarutobi/konohamaru-sarutobi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/sarutobi/mirai-sarutobi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/senju/hashirama-senju.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/senju/tobirama-senju.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/senju/tsunade.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/konoha/uzumaki/boruto-uzumaki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/mist/chojuro.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/mist/haku.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/mist/juzo-biwa.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/mist/kisame.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/mist/mangetsu.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/mist/mei-terumi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/mist/suigetsu.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/mist/zabuza.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/otsutsuki/isshiki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/otsutsuki/kaguya.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/otsutsuki/kinshiki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/otsutsuki/momoshiki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/otsutsuki/zetsu.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/rain/hanzo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/rain/nagato.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/rain/yahiko.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/readme.md": [
+    3,
+    3,
+    3,
+    3,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    2,
+    4,
+    4
+  ],
+  "src/characters/naruto/sand/ebizo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sand/kankuro.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sand/karura.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sand/lady-chiyo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sand/rasa-kazekage.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sand/sasori.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sand/shinki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sand/third-kazekage.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/dosu-kinuta.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/jirobo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/jugo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/kabuto.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/kidoumaro.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/kimimaro.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/kin-tsuchi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/mitsuki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/orochimaru.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/sakon.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/tayuya.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/sound/zaku-abumi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/stone/deidara.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/stone/kurotsuchi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/stone/onoki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/takigakure/kakuzu.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/translation.md": [
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    4
+  ],
+  "src/characters/naruto/uchiha/fugaku-uchiha.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/uchiha/itachi-uchiha.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/uchiha/izuna-uchiha.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/uchiha/kagami-uchiha.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/uchiha/madara-uchiha.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/uchiha/mikoto-uchiha.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/uchiha/obito-uchiha.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/uchiha/sarada-uchiha.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/uchiha/sasuke-uchiha.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/uchiha/sharingan.md": [
+    3,
+    2,
+    5,
+    4,
+    4,
+    3,
+    3,
+    3,
+    2,
+    3
+  ],
+  "src/characters/naruto/uchiha/shisui-uchiha.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/women/anko-mitarashi.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/women/ino-yamanaka.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/women/karin.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/women/konan.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/women/kurenai-yuhi.md": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "src/characters/naruto/women/kushina-uzumaki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/women/rin-nohara.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/women/sakura-haruno.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/women/shizune.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/women/temari.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/women/tenten.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/naruto/yugakure/hidan.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/hero-association/a-class/sweet-mask.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/hero-association/a-class/the-a-class.md": [
+    3
+  ],
+  "src/characters/one-punch-man/hero-association/b-class/fubuki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/hero-association/b-class/the-b-class.md": [
+    3
+  ],
+  "src/characters/one-punch-man/hero-association/c-class/mumen-rider.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/hero-association/c-class/the-c-class.md": [
+    3
+  ],
+  "src/characters/one-punch-man/hero-association/readme.md": [
+    3,
+    3
+  ],
+  "src/characters/one-punch-man/hero-association/s-class/bang.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/hero-association/s-class/genos.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/hero-association/s-class/king.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/hero-association/s-class/tatsumaki.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/hero-association/s-class/the-s-class.md": [
+    3
+  ],
+  "src/characters/one-punch-man/hero-association/the-hero-association.md": [
+    3
+  ],
+  "src/characters/one-punch-man/non-heroes/dark-matter-thieves/boros.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/non-heroes/dark-matter-thieves/the-crew.md": [
+    3
+  ],
+  "src/characters/one-punch-man/non-heroes/house-of-evolution/the-house.md": [
+    3
+  ],
+  "src/characters/one-punch-man/non-heroes/monsters/the-monsters.md": [
+    3
+  ],
+  "src/characters/one-punch-man/non-heroes/solos/sonic.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/one-punch-man/readme.md": [
+    4,
+    4,
+    3,
+    3,
+    4
+  ],
+  "src/characters/one-punch-man/saitama.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/pink-panther/clouseau.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/pink-panther/dreyfus-and-cato.md": [
+    3
+  ],
+  "src/characters/pink-panther/pink-panther.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/pink-panther/readme.md": [
+    3,
+    4
+  ],
+  "src/characters/pink-panther/the-inspector.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/readme.md": [
+    3
+  ],
+  "src/characters/real-world-jobs.md": [
+    3
+  ],
+  "src/characters/rick-and-morty/beth.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/birdperson.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/evil-morty.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/jerry.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/morty.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/mr-poopybutthole.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/readme.md": [
+    3,
+    3
+  ],
+  "src/characters/rick-and-morty/rick.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/squanchy.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/summer.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/tammy.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/the-council-of-ricks.md": [
+    3
+  ],
+  "src/characters/rick-and-morty/the-meeseeks.md": [
+    3
+  ],
+  "src/characters/rick-and-morty/the-president.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/rick-and-morty/unity.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/apu-and-comic-book-guy.md": [
+    2
+  ],
+  "src/characters/simpsons/barney.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/bart-simpson.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/homer-simpson.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/krusty.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/lisa-simpson.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/maggie-simpson.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/marge-simpson.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/moe.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/mr-burns.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/ned-flanders.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/readme.md": [
+    3,
+    3,
+    3
+  ],
+  "src/characters/simpsons/sideshow-bob.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/smithers.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/simpsons/the-extended-family.md": [
+    3
+  ],
+  "src/characters/simpsons/the-plant.md": [
+    3
+  ],
+  "src/characters/simpsons/the-school-kids.md": [
+    3
+  ],
+  "src/characters/simpsons/the-school-staff.md": [
+    3
+  ],
+  "src/characters/simpsons/the-town.md": [
+    3
+  ],
+  "src/characters/south-park/big-gay-al.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/butters-stotch.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/chef.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/eric-cartman.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/gerald-broflovski.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/jimbo-and-ned.md": [
+    2
+  ],
+  "src/characters/south-park/kenny-mccormick.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/kyle-broflovski.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/mayor-mcdaniels.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/mr-garrison.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/mr-hankey-and-family.md": [
+    3
+  ],
+  "src/characters/south-park/officer-barbrady.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/randy-marsh.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/readme.md": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "src/characters/south-park/stan-marsh.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/the-absurd.md": [
+    3
+  ],
+  "src/characters/south-park/the-canadians.md": [
+    3
+  ],
+  "src/characters/south-park/the-goths.md": [
+    3
+  ],
+  "src/characters/south-park/the-parents.md": [
+    3
+  ],
+  "src/characters/south-park/the-school-kids.md": [
+    3
+  ],
+  "src/characters/south-park/the-school-staff.md": [
+    3
+  ],
+  "src/characters/south-park/towelie.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/south-park/wendy-testaburger.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/flying-dutchman.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/gary.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/karen.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/larry-the-lobster.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/mermaid-man-and-barnacle-boy.md": [
+    2
+  ],
+  "src/characters/spongebob/mr-krabs.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/mrs-puff.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/patrick.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/pearl.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/plankton.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/readme.md": [
+    3,
+    3
+  ],
+  "src/characters/spongebob/sandy-cheeks.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/spongebob.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/spongebob/squidward.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/woody-woodpecker/knothead-and-splinter.md": [
+    3
+  ],
+  "src/characters/woody-woodpecker/readme.md": [
+    3,
+    3,
+    3
+  ],
+  "src/characters/woody-woodpecker/the-nemeses.md": [
+    3
+  ],
+  "src/characters/woody-woodpecker/winnie-woodpecker.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/woody-woodpecker/woody-woodpecker.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/chase-young.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/clay.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/dashi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/dojo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/hannibal-roy-bean.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/jack-spicer.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/kimiko.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/master-fung.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/omi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/raimundo.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/xiaolin-showdown/readme.md": [
+    3,
+    3,
+    3
+  ],
+  "src/characters/xiaolin-showdown/wuya.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/joey-wheeler.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/mai-valentine.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/millennium/ishizu-ishtar.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/millennium/marik-ishtar.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/millennium/pegasus.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/millennium/ryou-bakura.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/millennium/shadi.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/millennium/yugi-muto.md": [
+    2,
+    2,
+    4
+  ],
+  "src/characters/yugioh/readme.md": [
+    4,
+    3,
+    3,
+    3,
+    3
+  ],
+  "src/characters/yugioh/seto-kaiba.md": [
+    2,
+    2,
+    4
+  ],
+  "src/food/diet/ingredients.md": [
+    3,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "src/food/diet/nutrition.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/food/diet/status.md": [
+    2,
+    4,
+    5,
+    5,
+    5,
+    2
+  ],
+  "src/food/recipes/seasoning.md": [
+    3,
+    3,
+    3
+  ],
+  "src/games/boardgame/checkers.md": [
+    2
+  ],
+  "src/games/boardgame/chess.md": [
+    2
+  ],
+  "src/games/boardgame/connect-four.md": [
+    2
+  ],
+  "src/games/boardgame/dominoes.md": [
+    2
+  ],
+  "src/games/boardgame/guess-who.md": [
+    2
+  ],
+  "src/games/boardgame/jenga.md": [
+    2
+  ],
+  "src/games/boardgame/monopoly.md": [
+    2
+  ],
+  "src/games/boardgame/uno.md": [
+    2
+  ],
+  "src/games/videogame/adventure.md": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/games/videogame/chill.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/games/videogame/hard.md": [
+    2,
+    2,
+    2
+  ],
+  "src/games/videogame/horror.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/games/videogame/management.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/games/videogame/nintendo/mario.md": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "src/games/videogame/nintendo/other.md": [
+    4,
+    4,
+    4,
+    3
+  ],
+  "src/games/videogame/nintendo/pokemon.md": [
+    4,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/games/videogame/survival.md": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/gear/cleaning.md": [
+    4
+  ],
+  "src/gear/consoles.md": [
+    3,
+    3
+  ],
+  "src/gear/desktop.md": [
+    2,
+    2
+  ],
+  "src/gear/device/readme.md": [
+    4,
+    3,
+    3
+  ],
+  "src/gear/edc.md": [
+    4
+  ],
+  "src/gear/hygiene.md": [
+    4
+  ],
+  "src/gear/kitchen.md": [
+    4
+  ],
+  "src/gear/portable.md": [
+    3,
+    4
+  ],
+  "src/gear/readme.md": [
+    2
+  ],
+  "src/gear/storage.md": [
+    2
+  ],
+  "src/gear/wardrobe.md": [
+    4
+  ],
+  "src/interpretations/achievements/budget.md": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/interpretations/achievements/list.md": [
+    4,
+    2
+  ],
+  "src/interpretations/achievements/obsolete-dreams.md": [
+    2,
+    2
+  ],
+  "src/interpretations/achievements/platinum.md": [
+    3,
+    3,
+    3,
+    2
+  ],
+  "src/interpretations/achievements/returns.md": [
+    4,
+    3,
+    2,
+    3,
+    2
+  ],
+  "src/interpretations/framework/balance.md": [
+    4,
+    2,
+    3
+  ],
+  "src/interpretations/framework/born.md": [
+    2,
+    4,
+    3,
+    3,
+    3,
+    2,
+    3
+  ],
+  "src/interpretations/framework/enjoyment.md": [
+    2
+  ],
+  "src/interpretations/framework/intra-thoughts.md": [
+    2,
+    3,
+    2
+  ],
+  "src/interpretations/framework/play.md": [
+    3,
+    2,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2
+  ],
+  "src/interpretations/framework/possibilities.md": [
+    3,
+    2,
+    5,
+    2,
+    3,
+    2,
+    3,
+    2,
+    3,
+    3,
+    2
+  ],
+  "src/interpretations/framework/restart.md": [
+    2,
+    3,
+    2,
+    2
+  ],
+  "src/interpretations/framework/structures.md": [
+    3,
+    4,
+    2,
+    2,
+    4,
+    2,
+    2,
+    3
+  ],
+  "src/interpretations/framework/substances.md": [
+    2,
+    3,
+    6,
+    2
+  ],
+  "src/interpretations/fundamentals/fear-triage.md": [
+    2,
+    2
+  ],
+  "src/interpretations/fundamentals/gates.md": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/interpretations/fundamentals/hard-limit.md": [
+    3,
+    2,
+    2
+  ],
+  "src/interpretations/fundamentals/harm.md": [
+    3,
+    3,
+    3,
+    2
+  ],
+  "src/interpretations/fundamentals/security.md": [
+    3,
+    3,
+    2,
+    2
+  ],
+  "src/interpretations/lore/naruto/arcs.md": [
+    2,
+    5,
+    5,
+    5
+  ],
+  "src/interpretations/lore/naruto/control-ladder.md": [
+    4,
+    2,
+    2,
+    5,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4,
+    2
+  ],
+  "src/interpretations/lore/naruto/dick-economics.md": [
+    3,
+    3
+  ],
+  "src/interpretations/lore/naruto/infinite-loop.md": [
+    3
+  ],
+  "src/interpretations/lore/naruto/orchestrator.md": [
+    3,
+    3,
+    2
+  ],
+  "src/interpretations/lore/naruto/power-guns.md": [
+    3,
+    4
+  ],
+  "src/interpretations/lore/naruto/power.md": [
+    3,
+    5
+  ],
+  "src/interpretations/lore/naruto/readme.md": [
+    2,
+    2,
+    2,
+    3
+  ],
+  "src/interpretations/lore/naruto/thoughts.md": [
+    3,
+    3
+  ],
+  "src/interpretations/lore/naruto/truco-hierarchy.md": [
+    4,
+    4,
+    3
+  ],
+  "src/interpretations/lore/readme.md": [
+    2
+  ],
+  "src/interpretations/media/aquarium.md": [
+    3,
+    2
+  ],
+  "src/interpretations/media/behavior.md": [
+    3,
+    2,
+    2,
+    3,
+    3,
+    2
+  ],
+  "src/interpretations/media/cartel-economics.md": [
+    3,
+    2
+  ],
+  "src/interpretations/media/civilization-ladder.md": [
+    3,
+    4
+  ],
+  "src/interpretations/media/fiction-pairs.md": [
+    4
+  ],
+  "src/interpretations/media/live-stream.md": [
+    3,
+    3,
+    2
+  ],
+  "src/interpretations/media/mastery-axis.md": [
+    3,
+    3,
+    3,
+    2
+  ],
+  "src/interpretations/media/patterns.md": [
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    3,
+    5,
+    5,
+    5
+  ],
+  "src/interpretations/media/stages.md": [
+    4,
+    2
+  ],
+  "src/interpretations/media/status-quo.md": [
+    2,
+    2
+  ],
+  "src/interpretations/media/trickster-archetype.md": [
+    3
+  ],
+  "src/interpretations/media/worlds.md": [
+    2
+  ],
+  "src/interpretations/perception/judgement.md": [
+    4,
+    3,
+    2,
+    5,
+    5,
+    3,
+    2
+  ],
+  "src/interpretations/perception/masks.md": [
+    3,
+    3,
+    3,
+    3,
+    2,
+    4
+  ],
+  "src/interpretations/perception/monitoring.md": [
+    3,
+    4
+  ],
+  "src/interpretations/perception/sentiment.md": [
+    4,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2
+  ],
+  "src/interpretations/problems/healthcare/readme.md": [
+    2
+  ],
+  "src/interpretations/problems/hunger-fund/readme.md": [
+    3,
+    3,
+    2,
+    3,
+    3,
+    5,
+    4
+  ],
+  "src/interpretations/problems/readme.md": [
+    4,
+    3,
+    3
+  ],
+  "src/interpretations/problems/sewage/readme.md": [
+    3,
+    3,
+    3
+  ],
+  "src/interpretations/problems/tiny-environment/readme.md": [
+    3,
+    3
+  ],
+  "src/interpretations/problems/underground/readme.md": [
+    3
+  ],
+  "src/interpretations/society/colors.md": [
+    3
+  ],
+  "src/interpretations/society/cultures.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/interpretations/society/futures.md": [
+    3,
+    3,
+    4,
+    2,
+    3,
+    3,
+    4,
+    3,
+    3,
+    3,
+    3
+  ],
+  "src/interpretations/society/society.md": [
+    2,
+    3,
+    4,
+    4,
+    4,
+    2,
+    2,
+    3
+  ],
+  "src/playlists/audiobooks/finished.md": [
+    2,
+    6
+  ],
+  "src/playlists/audiobooks/queue.md": [
+    2,
+    6,
+    4
+  ],
+  "src/playlists/music/cover/bass.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/cover/drums.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/cover/flute.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/cover/guitar.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/cover/harmonica.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/cover/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/cover/piano.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/cover/ukulele.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/cover/vocal.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/instrumental/chill.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/instrumental/dance.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/instrumental/dark.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/live/acoustic.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/live/live.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/live/orchestra.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/remix/slow-reverb.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/remix/vocal-dance.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/movies/harry-potter.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/movies/lotr.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/movies/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/movies/pirates.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/movies/spider-man.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/movies/transformers.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/tv-series/breaking-bad.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/tv-series/dragon-ball.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/tv-series/mr-robot.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/tv-series/naruto.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/tv-series/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/videogames/banjo.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/videogames/cuphead.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/videogames/gta.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/videogames/mario.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/videogames/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/videogames/skyrim.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/videogames/undertale.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/soundtrack/videogames/zelda.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/blues.md": [
+    11
+  ],
+  "src/playlists/music/standard/forro.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/funk.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/hip-hop.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/indie.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/latin.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/mpb.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/reggae.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/rock/alt-modern.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/rock/classic-metal-grunge.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/samba.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/sertanejo.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/soul-funk.md": [
+    11,
+    11
+  ],
+  "src/playlists/music/standard/vocal-dance.md": [
+    11,
+    11
+  ],
+  "src/playlists/podcasts/english.md": [
+    2,
+    4,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "src/playlists/podcasts/portuguese.md": [
+    2,
+    5
+  ],
+  "src/playlists/podcasts/spanish.md": [
+    2,
+    5
+  ],
+  "src/playlists/readme.md": [
+    2,
+    7,
+    6,
+    6,
+    4,
+    11,
+    4,
+    4
+  ],
+  "src/playlists/series/anime.md": [
+    2,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7
+  ],
+  "src/playlists/series/cartoon.md": [
+    2,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7
+  ],
+  "src/playlists/series/live-action.md": [
+    2,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7
+  ],
+  "src/playlists/sounds/colors.md": [
+    2,
+    4,
+    4,
+    4
+  ],
+  "src/playlists/sounds/natural.md": [
+    2,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "src/playlists/sounds/tools.md": [
+    2,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "src/readme.md": [
+    2
+  ],
+  "src/rules/readme.md": [
+    2
+  ],
+  "src/tasks/health/service-provider/providers.md": [
+    3
+  ],
+  "src/tasks/health/solo/pharmacy.md": [
+    8,
+    8,
+    5
+  ],
+  "src/tasks/readme.md": [
+    3
+  ]
+}

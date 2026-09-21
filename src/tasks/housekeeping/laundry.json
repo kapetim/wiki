@@ -1,0 +1,13 @@
+{
+  "title": "👕 laundry",
+  "labels": [
+    "housekeeping"
+  ],
+  "body": "# 🧭 Steps\n\n1. **Clothing load** — wearables, towels, bed linen; sort darks vs lights; normal detergent; softener optional on towels.\n2. **Start washer** — run the clothing cycle to completion (wash + dry).\n3. **Cleaning-cloth load** — bathroom, kitchen, and floor cloths only; **never** in the same drum as clothing.\n4. **No softener** on the cleaning-cloth load — keeps absorbency for floor passes.\n5. **Dry** — hang or machine-dry per fabric; put cloths back at their stations.\n\n## ✅ Done when\n\n- Clothing and towels are clean and dry\n- Cleaning cloths washed separately without softener\n- No mixed clothing + floor-cloth load",
+  "priority": 3,
+  "tag": "housekeeping",
+  "recurrence": "weeks",
+  "interval": 1,
+  "deadline": "2026-09-21",
+  "enabled": true
+}

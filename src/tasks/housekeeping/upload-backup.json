@@ -1,0 +1,13 @@
+{
+  "title": "☁️ upload backup",
+  "labels": [
+    "housekeeping"
+  ],
+  "body": "# 🧭 Steps\n\n1. **Export** — build/refresh `~/backup/git-tags/`:\n   - **Public repos** — export latest tag as **raw zip** into each folder: `browser-extensions/`, `browser-games/`, `interview/`, `radar-alerts/`.\n   - **Private wiki** — export as encrypted **`private.zip`** only (never raw tree).\n   - Split any file **> 4 GB** with `zip -s 4g` (FAT32 cap).\n2. Check every file is ≤ 4 GB before copy.\n3. **USB 1** — copy full tree; verify file count and size; label with pass date.\n4. **USB 2** — repeat copy (second FAT32 mirror).\n5. **iCloud Drive** — sync into `backup/git-tags/`.\n6. **OneDrive** — sync under Documents backup folder.\n7. **Proton Drive** — sync backup folder.\n8. **Google Drive** — sync shared backup folder.\n9. Wait for cloud uploads idle; eject USB safely.\n\nDrive credentials live in the private providers file.\n\n## 📁 Backup rules\n\n- **Fire and forget** — drives are best-effort: if you can access the data, great — but it may be deleted due to lack of usage. Always keep the USB pendrive as the reliable copy; drives are extra copies, not guarantees.\n- **Recommended flow** — build the raw backup on the USB pendrive first, then upload to all online drives in a row from there.\n- **Organization** — mirror the folder structure; one `.zip` per tag.\n- **Naming** — `reponame_yyyy-mm-dd_x.y.z.zip` (e.g. `records_2026-08-04_1.2.0.zip`).\n- **Repo sizes:**\n\n<!-- begin table -->\n| Repo | Per-tag size |\n|---|---|\n| public/* (all) | ~1 MB (max 8 MB) |\n| private/records | ~40 MB |\n<!-- end table -->\n\n## 🗂️ Canonical tree\n\n```bash\n~/backup/git-tags/\n├── browser-extensions/\n├── browser-games/\n├── control-plane/\n├── interview/\n├── radar-alerts/\n├── private.zip\n├── template/\n└── yugioh/\n```\n\n## 💾 Media\n\n2× USB pendrives, **FAT32**, cross-OS. Hard limit **4 GB per file**.\n\n## ✅ Done when\n\n- Local tree has all five entries (4 public folders + encrypted `private.zip`)\n- Both FAT32 USB sticks updated and date-labeled\n- All four cloud destinations show the same recent sync\n- No file on any destination exceeds 4 GB",
+  "priority": 2,
+  "tag": "housekeeping",
+  "recurrence": "weeks",
+  "interval": 2,
+  "deadline": "2026-09-21",
+  "enabled": true
+}

@@ -1,0 +1,13 @@
+{
+  "title": "🪒 shave",
+  "labels": [
+    "health"
+  ],
+  "body": "# 🧭 Steps\n\n1. Shave per [the shave routine](./solo/shave.md) — all zones, rinse between, clean tools after.\n\n## ✅ Done when\n\n- Shave zones done; tools rinsed, dry, stored\n- No nicks, ingrown risk, or dull-blade drag left unaddressed",
+  "priority": 4,
+  "tag": "health",
+  "recurrence": "weeks",
+  "interval": 1,
+  "deadline": "2026-09-21",
+  "enabled": true
+}

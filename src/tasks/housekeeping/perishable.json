@@ -1,0 +1,13 @@
+{
+  "title": "🥬 perishable groceries",
+  "labels": [
+    "housekeeping"
+  ],
+  "body": "# 🧭 Steps\n\n1. **Fridge scan** — skip rows still in stock.\n2. **Shop** the grocery list in alphabetical order.\n3. **Unpack** — freeze chicken portions.\n4. **Cook** — liver once; prep juice.\n5. **Update prices** on the grocery list from the receipt if prices shifted.\n\nAmounts: [ingredients.md](../../food/diet/ingredients.md) — the single source of truth — weekly need is fixed and validated. **Buy as** is the practical chunk (may overshoot). **Cadence — pick the column for your trip gap:** **½ wk** (every ~3.5 days), **Weekly** (1×), **1½ wk** (~every 10 days), **2 wk** (every 14 days). Less often than weekly = more food at once, but it keeps.\n\n## 🛒 Shopping list\n\n<!-- begin table -->\n| Item | ½ wk | Weekly | 1½ wk | 2 wk | Unit | Buy as | Unit price | Total |\n|------|------|--------|-------|------|------|--------|-----------|-------|\n| Bananas | 3.5 | 7 | 10.5 | 14 | units | ~1 bunch | xx,xx | xx,xx |\n| Beef (lean) | 100 | 200 | 300 | 400 | g | ~1 tray | xx,xx | xx,xx |\n| Beetroot | 2.5 | 5 | 7.5 | 10 | units | ~2 bunches | xx,xx | xx,xx |\n| Bovine liver | 50 | 100 | 150 | 200 | g | ~1 tray | xx,xx | xx,xx |\n| Chicken breast | 300 | 600 | 900 | 1200 | g | ~1 pack | xx,xx | xx,xx |\n| Eggs | 2.5 | 5 | 7.5 | 10 | units | 1 tray (10) | xx,xx | xx,xx |\n| Lemon | 1.25 | 2.5 | 3.75 | 5 | units | ~1 bag | xx,xx | xx,xx |\n| Pork loin | 100 | 200 | 300 | 400 | g | ~1 tray | xx,xx | xx,xx |\n| Tangerines | 3.5 | 7 | 10.5 | 14 | units | ~1 bag | xx,xx | xx,xx |\n| **Total** | | | | | | | | **xx,xx** |\n<!-- end table -->\n\n## 🚫 Do not buy\n\n<!-- begin table -->\n| Rule | Why |\n| --- | --- |\n| **No sugar** / **sugar-free treats** | Graze at home — prize instead |\n| **No prize food** | Chips, ice cream, frozen pizza, bakery |\n| **Grocery = fuel** | Core meat, greens, fruit, eggs |\n<!-- end table -->\n\n## ✅ Done when\n\n- Core list bought; no sugar or prize food\n- Liver scheduled; chicken portioned",
+  "priority": 2,
+  "tag": "housekeeping",
+  "recurrence": "weeks",
+  "interval": 1,
+  "deadline": "2026-09-21",
+  "enabled": true
+}

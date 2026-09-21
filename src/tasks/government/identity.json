@@ -1,0 +1,13 @@
+{
+  "title": "🪪 identity renewal",
+  "labels": [
+    "government"
+  ],
+  "body": "# 🧭 Steps\n\n1. Follow [the identity renewal procedure](./documentation/identity.md) — check expiry, gather documents, book, store securely.\n\n## ✅ Done when\n\n- Valid ID issued or renewal in progress with proof",
+  "priority": 3,
+  "tag": "government",
+  "recurrence": "years",
+  "interval": 10,
+  "deadline": "2035-09-01",
+  "enabled": true
+}

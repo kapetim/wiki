@@ -1,0 +1,13 @@
+{
+  "title": "🗳️ general election — 1st turn",
+  "labels": [
+    "government"
+  ],
+  "body": "# 🧭 Steps\n\n1. Vote in the 1st turn (president, governors, senators, federal/state deputies) — expect **4 Oct 2026**; confirm the official date.\n2. Follow [the voting routine](./election/voting.md) — e-Titulo, in-person vote, or justificativa.\n\n## ✅ Done when\n\n- Voted in 1st turn, or justified absence in e-Titulo\n- Deadline bumped to next cycle (2030-10-04)",
+  "priority": 2,
+  "tag": "government",
+  "recurrence": "years",
+  "interval": 4,
+  "deadline": "2026-10-04",
+  "enabled": true
+}

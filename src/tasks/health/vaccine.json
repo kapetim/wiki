@@ -1,0 +1,13 @@
+{
+  "title": "💉 flu vaccine",
+  "labels": [
+    "health"
+  ],
+  "body": "# 🧭 Steps\n\n1. Get the flu vaccine per [the providers routine](./service-provider/providers.md).\n2. Keep receipt or card if offered.\n\n## ✅ Done when\n\n- Flu vaccine administered this season",
+  "priority": 3,
+  "tag": "health",
+  "recurrence": "years",
+  "interval": 1,
+  "deadline": "2027-06-01",
+  "enabled": true
+}

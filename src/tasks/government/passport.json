@@ -1,0 +1,13 @@
+{
+  "title": "🛂 passport renewal",
+  "labels": [
+    "government"
+  ],
+  "body": "# 🧭 Steps\n\n1. Follow [the passport renewal procedure](./documentation/passport.md) — check expiry, gather documents, book, track.\n\n## ✅ Done when\n\n- Valid passport in hand or renewal submitted with tracking",
+  "priority": 2,
+  "tag": "government",
+  "recurrence": "years",
+  "interval": 10,
+  "deadline": "2029-01-01",
+  "enabled": true
+}

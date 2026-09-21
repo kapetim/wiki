@@ -1,0 +1,13 @@
+{
+  "title": "💊 pharmacy restock",
+  "labels": [
+    "health"
+  ],
+  "body": "# 🧭 Steps\n\n1. Restock per [the pharmacy plan](./solo/pharmacy.md) — buy the 4 wk column, skip rows on shelf, check on-hand meds lifespan.\n\n## ✅ Done when\n\n- Monthly restock covers ~30 days (or shelf already full)\n- On-hand meds checked; none past lifespan\n- Receipt prices updated on the buy plan",
+  "priority": 3,
+  "tag": "health",
+  "recurrence": "months",
+  "interval": 1,
+  "deadline": "2026-10-01",
+  "enabled": true
+}
