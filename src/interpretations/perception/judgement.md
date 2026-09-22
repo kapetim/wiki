@@ -169,6 +169,7 @@ Do not use this table to **minimize** emotional harm (“it's only feelings”).
 | STI duration stack | [§ STI stack](./judgement.md#-sti-stack--rank-by-duration-not-moral-theater) |
 | Law vs street vs personal cost | law-street-trust |
 | Prize vs price in choices | decisions |
+| Labelling a guess (prejudice) | [prejudice.md](./prejudice.md) |
 | Justice vs vengeance | society § fix |
 <!-- end table -->
 
