@@ -1,8 +1,8 @@
 # ♻️ Tiny self-maintaining environment — the closed loop
 
 **What this is:** a **perpetual-value wheel** — a small, self-sustaining environment built on **closed loops**: reusable water, self-producing food, and (near a volcano) renewable energy. It's the
-"one greenhouse that never needs hand-feeding" problem — the wheel that *could* spin forever, but needs the design to close each loop first. Related to [sewage](../sewage/readme.md)
-(the pipe system) and [hunger-fund](../hunger-fund/readme.md) (the endowment).
+"one greenhouse that never needs hand-feeding" problem — the wheel that *could* spin forever, but needs the design to close each loop first. Related to [sewage](./sewage.md)
+(the pipe system) and [hunger-fund](./hunger-fund.md) (the endowment).
 
 ## 📋 Problem statement
 

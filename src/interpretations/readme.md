@@ -14,6 +14,5 @@
 | `lore/` | Story reads — the naruto layer. |
 | `media/` | TV, film, and format reads — worlds, stages, archetypes. |
 | `perception/` | The HUD — judgement, masks, monitoring, sentiment, prejudice. |
-| `problems/` | Recurring societal problems — healthcare, hunger, sewage, and the rest. |
 | `society/` | Groups, cultures, and futures. |
 <!-- end table -->

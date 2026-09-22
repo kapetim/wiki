@@ -14,6 +14,7 @@ Everything under `src/` — the shareable personal wiki.
 | `gear/` | Durable stuff — devices and everyday carry |
 | `food/` | What to eat — diet and recipes |
 | `instruments/` | Instrument maps |
+| `problems/` | Problems with no easy road — solvable vs unsolvable |
 | `rules/` | Personal operating rules |
 | `tasks/` | The board — government, health, housekeeping — with their details |
 <!-- end table -->

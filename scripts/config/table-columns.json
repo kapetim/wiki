@@ -2160,35 +2160,6 @@
     2,
     2
   ],
-  "src/interpretations/problems/healthcare/readme.md": [
-    2
-  ],
-  "src/interpretations/problems/hunger-fund/readme.md": [
-    3,
-    3,
-    2,
-    3,
-    3,
-    5,
-    4
-  ],
-  "src/interpretations/problems/readme.md": [
-    4,
-    3,
-    3
-  ],
-  "src/interpretations/problems/sewage/readme.md": [
-    3,
-    3,
-    3
-  ],
-  "src/interpretations/problems/tiny-environment/readme.md": [
-    3,
-    3
-  ],
-  "src/interpretations/problems/underground/readme.md": [
-    3
-  ],
   "src/interpretations/readme.md": [
     2
   ],
@@ -2588,6 +2559,34 @@
     4,
     4,
     4
+  ],
+  "src/problems/readme.md": [
+    3,
+    3
+  ],
+  "src/problems/solvable/healthcare.md": [
+    2
+  ],
+  "src/problems/solvable/hunger-fund.md": [
+    3,
+    3,
+    2,
+    3,
+    3,
+    5,
+    4
+  ],
+  "src/problems/solvable/sewage.md": [
+    3,
+    3,
+    3
+  ],
+  "src/problems/solvable/tiny-environment.md": [
+    3,
+    3
+  ],
+  "src/problems/solvable/underground.md": [
+    3
   ],
   "src/readme.md": [
     2
