@@ -33,10 +33,10 @@ export async function checkIndexes(repoDir) {
   const errors = [];
 
   // problems/readme.md index ↔ files
-  const problemsDir = path.join(repoDir, ...NOTES, 'interpretations', 'problems');
+  const problemsDir = path.join(repoDir, ...NOTES, 'problems');
   const files = (await mdFiles(problemsDir)).filter((f) => f !== 'readme.md');
   const indexed = new Set();
-  for (const row of await tableRows(repoDir, 'src/interpretations/problems/readme.md')) {
+  for (const row of await tableRows(repoDir, 'src/problems/readme.md')) {
     const m = row.match(/\[([a-z0-9-]+\.md)\]\(\.\/\1\)/);
     if (m) indexed.add(m[1]);
   }
@@ -59,10 +59,19 @@ export async function checkIndexes(repoDir) {
 
 export async function checkProblems(repoDir) {
   const errors = [];
-  const problemsDir = path.join(repoDir, ...NOTES, 'interpretations', 'problems');
-  for (const f of (await mdFiles(problemsDir)).filter((x) => x !== 'readme.md')) {
-    const md = await readFile(path.join(problemsDir, f), 'utf8');
-    if (!/❓ Open questions/.test(md)) errors.push(`${f}: missing '❓ Open questions' section`);
+  const base = path.join(repoDir, ...NOTES, 'problems');
+  for (const sub of ['solvable', 'unsolvable']) {
+    const dir = path.join(base, sub);
+    let files;
+    try {
+      files = await mdFiles(dir);
+    } catch {
+      continue;
+    }
+    for (const f of files) {
+      const md = await readFile(path.join(dir, f), 'utf8');
+      if (!/❓ Open questions/.test(md)) errors.push(`problems/${sub}/${f}: missing '❓ Open questions' section`);
+    }
   }
   return errors;
 }
