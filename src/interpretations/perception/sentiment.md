@@ -90,7 +90,7 @@ People rarely say “I am buying attention for X.” They say love, calling, pat
 | **Consolidation** | Writing season notes **changes** the memory (therapy effect) |
 <!-- end table -->
 
-**Gap inventory:** [life-events-log](https://github.com/kapetim/private/blob/main/src/life-events-log/readme.md) — emotional holes and unresolved items you have not filed yet.
+**Gap inventory:** emotional holes and unresolved items.
 
 ## ⚙️ When sentiment should move ops
 

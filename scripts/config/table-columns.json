@@ -1983,9 +1983,7 @@
   ],
   "src/interpretations/framework/substances.md": [
     2,
-    3,
-    6,
-    2
+    3
   ],
   "src/interpretations/fundamentals/fear-triage.md": [
     2,
@@ -2136,8 +2134,6 @@
     3,
     2,
     5,
-    5,
-    3,
     2
   ],
   "src/interpretations/perception/masks.md": [
@@ -2598,6 +2594,12 @@
   ],
   "src/rules/readme.md": [
     2
+  ],
+  "src/rules/substances.md": [
+    4,
+    3,
+    3,
+    3
   ],
   "src/tasks/health/service-provider/providers.md": [
     3

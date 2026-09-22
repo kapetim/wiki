@@ -70,7 +70,7 @@ Result: **deterrence, not victory.** You make yourself expensive to hit; you don
 
 ## 🧠 Backups & memory
 
-- **Good tools + backups** mean one mistake costs time, not total loss — single failure ≠ catastrophe ([life-events-log readme](https://github.com/kapetim/private/blob/main/src/life-events-log/readme.md)).
+- **Good tools + backups** mean one mistake costs time, not total loss — single failure ≠ catastrophe.
 - But backups assume **access**. If enough people want it gone, they can make your data disappear everywhere — and there's nothing you can do.
 - **Memorization** is the last-resort copy: survive, get freed, type again.
 
@@ -91,11 +91,11 @@ Plan for the states where you still have agency, not the ones where you don't.
 **Movie vs video game:** if everyone were controlled, life would be a **movie** — a Disney film, everything working as expected, you just watch. If it's not a movie, it's a **video game**: anyone can
 do anything, including to you. There's no controlled middle ground.
 
-- Movies and news can all be **generated or edited** — but I can see police, and I have already seen a gun pointed at me. If there were no crime, there would be no police.
-- **Accept that shit exists** in this world. I don't know who is going to suffer and why, nor what my destiny is.
+- Movies and news can all be **generated or edited** — but police exist and guns are real. If there were no crime, there would be no police.
+- **Accept that harm exists** in this world — no one knows who will suffer and why.
 - If an individual is free to torture anyone, who is the target? **If they were controlled, there would be no torture and no police.** Their existence means harm is real.
 - **A live stream isn't bulletproof** — people would basically watch you dying during the stream.
-- **Everyone has free will, each in their own way.** I have done mistakes; people have done mistakes with me. Be grateful to not become a "lolita" and move on.
+- **Everyone has free will, each in their own way.** People make mistakes and are hurt by others — move on.
 - Some people become officers to pursue those who make lolita victims — but that itself proves **there is no control**.
 - If the system were perfect, there'd be no need for guns — people would simply know who is going to kill and **pause them before it**. Anything else means nobody knows who does what: you hear news,
   you hunt the criminal — but **who is the criminal, and who was the victim?**

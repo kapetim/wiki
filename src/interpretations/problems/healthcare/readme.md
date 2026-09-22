@@ -22,5 +22,5 @@ recoverable. Not a wheel: a ledger of what medicine can and cannot undo, with th
 ## 🔗 Related
 
 - [problems index](../readme.md) — the wheel shelf
-- [health](https://github.com/kapetim/private/blob/main/src/health) — personal records and exams
+- health — personal records and exams
 - [rules/allergies.md](../../../rules/allergies.md) · [rules/substances.md](../../../rules/substances.md)

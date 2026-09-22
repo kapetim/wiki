@@ -62,4 +62,3 @@ Home screen, top to bottom:
 ## 🔗 Related
 
 - [`../portable.md`](../portable.md) — phone roles and power modes
-- [`../../accounts/utilities.md`](https://github.com/kapetim/private/blob/main/src/accounts/utilities.md) — everyday app logins

@@ -87,67 +87,6 @@ You do not need a court to **rank** this for your own margins — see law-street
 
 ---
 
-## 📊 STI stack — rank by duration (not moral theater)
-
-**Among common infections**, rank by **how long the body ledger stays open** and **how heavy maintenance is** — not by how “gross” symptoms look the first week. Clinical detail: `health/` PDF vault.
-**Not medical advice** — test and treat with a clinic.
-
-<!-- begin table -->
-| Rank | Bug (examples) | Duration tier | Cure shape | Why it ranks here |
-| --- | --- | --- | --- | --- |
-| **1 — heaviest** | **HIV** | **B** — forever on the books | **No erase.** **ART** keeps virus **undetectable** — transmission risk drops when suppressed; **not** “cured.” | **Worst common STI in this model** — permanent identity + meds + disclosure math, even when controlled |
-| (cont.) | | | Cost often **manageable**; **tradeoffs** — metabolic shifts, weight/lipid effects, lifelong pharmacy tie-in | |
-| **2** | **HSV** (herpes) | **B** | Antivirals reduce outbreaks; body keeps virus | Lifelong; often manageable; stigma heavy |
-| **3** | **HPV** | **A → B** | **Vaccine** prevents many strains; **most infections clear in ~1–2 years** on their own | Less heavy than HIV — often **temporary carriage**; vaccine is real margin |
-| (cont.) | | | persistent high-risk strains → monitoring / wart / cancer pathway (**C** if bad outcome) | |
-| **4** | **Hep B** (if chronic) | **B** | Some clear; chronic needs monitoring / meds | Serious but not identical to HIV story |
-| **5 — lighter** | **Chlamydia, gonorrhea, syphilis (caught early)** | **A** | Antibiotics — **needs prompt care**; ugly/discomfort real; **often gone quickly** when treated | High **acute** annoyance; low **lifelong** rank if treated |
-| **6 — lightest** | **Trich, pubic lice, bacterial vaginosis-class** | **A** | Treat and move on | Immediate attention; short runway |
-<!-- end table -->
-
-```text
-HIV >>> HSV chronic > HPV (often clears) > bacterial "treat this week"
-```
-
-**HSV vs HPV:** herpes is **usually lifelong latent (B)**; HPV **often self-clears (A)** with a **two-year-ish** window — still get screened; still vaccinate if eligible.
-
-**HIV on ART:** think **tier B managed** — not **A** (you are maintained, not restored to “never happened”), not **D** (life and function usually continue). Side-effect lottery is real;
-**undetectable ≠ zero cost.**
-
----
-
-## 🧬 Acquisition — accident, story, and vectors
-
-**Ledger split:** **how bad if true** (tables above) ≠ **how you got it** (intent / accident / unknown). A **tier-B HIV** diagnosis from a **one-time condom break** is the **same body tier** as from
-betrayal — **moral** posting differs (accident vs forced); **clinic path** does not.
-
-### ⚠️ Accidental routes people fear
-
-<!-- begin table -->
-| Route (fear or story) | Typical real-world weight | Margin |
-| --- | --- | --- |
-| **Undisclosed partner / recent new contact** | **Highest plausibility** for most STIs | Test window, condoms, disclose, partner notify |
-| **Shared towel, gym seat, hot tub, pool** | **Very low** for HIV; **low** for most STIs — viruses/bacteria die fast outside host | Don't torture yourself; if anxious, **one test** then reconcile |
-| (cont.) | need **mucous membrane** or **blood-to-blood** | |
-| **Unknown / “no idea when”** | Common emotionally — biology is often **recent** partner or **prior** asymptomatic carriage | Timeline with clinician; repeat test at window end |
-| **Blood draw, dental, tattoo (licensed)** | **Extremely low** in regulated settings | Use licensed providers; report needlestick protocols |
-| **Mosquito / insect after blood exposure** | **Fear link:** HIV is **blood-borne** · **Established fact:** HIV **does not** transmit via mosquitoes | If worry is **outdoor blood anxiety**, rank the **fear** (voluntary/trauma); don't add fake physics |
-| (cont.) | virus does **not** replicate in the insect like malaria; no epidemiological pattern | |
-| **Pregnancy / birth** (vertical) | Real pathway for some infections — medical protocols exist | Prenatal screen |
-<!-- end table -->
-
-**Keep both books:**
-
-1. **Body tier** — if infected, rank the bug ([§ STI stack](#-sti-stack--rank-by-duration-not-moral-theater)).
-2. **Intent tier** — accident, reckless you, or another person’s concealment → different **karma** posting, same **clinic**.
-
-**Pool / towel / air:** mostly **anxiety-grade** for HIV; **not** zero for all germs in theory, but **far** below unprotected sex or shared needles. Post **test + stop furnishing**, not infinite “what
-if the deck chair” loops.
-
-**Mosquitoes:** other diseases (malaria, dengue, Zika) are **mosquito-real**; **HIV is not in that bucket.** Blood origin ≠ every blood-adjacent fantasy vector.
-
----
-
 ## 📖 How to use this (decisions, not rumination)
 
 1. **Name both channels** — emotional-only vs body involved.
@@ -166,7 +105,6 @@ Do not use this table to **minimize** emotional harm (“it's only feelings”).
 | --- | --- |
 | Ledger postings (+/−, −∞) | [harm § the loop](../fundamentals/harm.md#-the-loop--assess--post--reconcile) |
 | Death / pain / trauma cure detail | [fear-triage § cure](../fundamentals/fear-triage.md) · [hard-limit](../fundamentals/hard-limit.md) |
-| STI duration stack | [§ STI stack](./judgement.md#-sti-stack--rank-by-duration-not-moral-theater) |
 | Law vs street vs personal cost | law-street-trust |
 | Prize vs price in choices | decisions |
 | Labelling a guess (prejudice) | [prejudice.md](./prejudice.md) |
