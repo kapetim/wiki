@@ -94,7 +94,7 @@ The OS/terminal metaphor explains overriding commands to other people: **all pro
 ## 🏢 Kaiba methodology — protection via lack of privacy
 
 The methodology of protection is unfortunately the **lack of privacy**: the referee protects the championship by making everything visible — who owns which card, who uses it, where it was last seen.
-Monitoring as the cost of a fair game. The watcher is the tuner ([balance.md](../framework/balance.md)).
+Monitoring as the cost of a fair game ([fair-game.md](../framework/fair-game.md)). The watcher is the tuner ([balance.md](../framework/balance.md)).
 
 ---
 
