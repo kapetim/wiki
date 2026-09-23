@@ -1,10 +1,12 @@
-# 🧮 Fair game — pricing the acts
+# 🧮 Fair game — the judgement system
 
-**What this is:** an **abstract** frame for fairness — treat each player as a **manual car**: fully controllable and
+**What this is:** the **judgement system** — it **collects evidence** and **applies previously defined costs**. Pairs
+with [karma.md](karma.md), the **accounting system**: karma keeps the ledger, fair game runs the trial that prices the
+act. An **abstract** frame for fairness — treat each player as a **manual car**: fully controllable and
 able to take any action, including the worst. Fair game is the *organization* of what counts as fair through a
 **rules system**, and its job is to put a **cost / charge** on the acts that freedom allows. **Metaphor only.**
-Referee layer: [balance.md](./balance.md) · rules + judge: [structures.md](./structures.md) · freedom:
-[free-will.md](./free-will.md).
+Referee layer: [balance.md](../framework/balance.md) · rules + judge: [structures.md](../framework/structures.md) · freedom:
+[free-will.md](../framework/free-will.md).
 
 ---
 
@@ -12,13 +14,13 @@ Referee layer: [balance.md](./balance.md) · rules + judge: [structures.md](./st
 
 Assume a player can do **anything** — no built-in governor, no automatic lane-keeping. Agency is the wheel, the
 clutch, and the throttle. A "good" world is not one where nobody can cross the line; it is one where crossing the
-line has a **price** ([free-will.md](./free-will.md)).
+line has a **price** ([free-will.md](../framework/free-will.md)).
 
 ## 📒 Rules define fair
 
 Rules — law, league, treaty, taboo — are the thing that **defines** what counts as fair, and they do nothing on
 their own. They need a **judge** to confirm a result, so a score stands or a rematch is served
-([structures.md](./structures.md)). Without that confirmation the book stays open and the round never closes.
+([structures.md](../framework/structures.md)). Without that confirmation the book stays open and the round never closes.
 
 ## 🧾 Price, not prohibition
 
@@ -36,7 +38,7 @@ act draws the same charge**, whoever commits it.
 
 To establish a fair game: **state the rules**, **staff an independent referee**, **confirm results**, and **publish
 the price**. Each step is also its own failure mode — an unstated rule, a hired referee, an unconfirmed result, a
-secret price ([balance.md](./balance.md), [monitoring.md](../perception/monitoring.md)).
+secret price ([balance.md](../framework/balance.md), [monitoring.md](../perception/monitoring.md)).
 
 ## ❓ Open questions
 
@@ -45,7 +47,7 @@ secret price ([balance.md](./balance.md), [monitoring.md](../perception/monitori
 
 ## 🔗 Related
 
-- [free-will.md](./free-will.md) — the freedom that makes pricing necessary.
-- [structures.md](./structures.md) — rules, judge, and the closed book.
-- [balance.md](./balance.md) — referee layer and the secure environment.
+- [free-will.md](../framework/free-will.md) — the freedom that makes pricing necessary.
+- [structures.md](../framework/structures.md) — rules, judge, and the closed book.
+- [balance.md](../framework/balance.md) — referee layer and the secure environment.
 - [corruption.md](../../problems/unknown/corruption.md) — when the referee is the corrupt party.
