@@ -219,7 +219,7 @@ The moment you **normalize commanded fighting**, you **import hell’s job descr
 | **No judge** | Hell serves **extra** rounds; heaven **cannot** close the book → [harm § reconcile](../fundamentals/harm.md#-the-loop--assess--post--reconcile) |
 <!-- end table -->
 
-Price the acts: [fair-game.md](./fair-game.md) · why the model breaks: [free-will.md](./free-will.md).
+Price the acts: [fair-game.md](../justice/fair-game.md) · why the model breaks: [free-will.md](./free-will.md).
 
 **Fair vs unfair (operator read):** hell **slightly** ahead is **matchable**; hell **dominates** or heaven **never feels threat** → **invite chaos** or **creative mode**—[restart § operator
 balance](./restart.md#%EF%B8%8F-operator-balance--life-game-owner).
