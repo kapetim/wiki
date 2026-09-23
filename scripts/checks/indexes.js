@@ -60,7 +60,7 @@ export async function checkIndexes(repoDir) {
 export async function checkProblems(repoDir) {
   const errors = [];
   const base = path.join(repoDir, ...NOTES, 'problems');
-  for (const sub of ['solvable', 'unsolvable']) {
+  for (const sub of ['solvable', 'unsolvable', 'unknown']) {
     const dir = path.join(base, sub);
     let files;
     try {
