@@ -9,6 +9,7 @@ Everything under `src/` — the shareable personal wiki.
 | --- | --- |
 | `characters/` | Personality + life dossiers — one sheet per character, reference for personalities |
 | `observation/` | Frameworks, theories, and media reads |
+| `achievements/` | Goals, budgets, obsolete dreams, and returns |
 | `justice/` | Karma (accounting) and fair game (judgement) |
 | `playlists/` | What you watch and listen to — movies, series, audiobooks, music, podcasts, sounds |
 | `games/` | What you play — video and board games |

@@ -3,6 +3,33 @@
     2,
     2
   ],
+  "src/achievements/budget.md": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/achievements/list.md": [
+    4,
+    2
+  ],
+  "src/achievements/obsolete-dreams.md": [
+    2,
+    2
+  ],
+  "src/achievements/platinum.md": [
+    3,
+    3,
+    3,
+    2
+  ],
+  "src/achievements/returns.md": [
+    4,
+    3,
+    2,
+    3,
+    2
+  ],
   "src/characters/chocolate-factory/augustus-gloop.md": [
     2,
     2,
@@ -1900,33 +1927,6 @@
   "src/justice/readme.md": [
     2,
     3
-  ],
-  "src/observation/achievements/budget.md": [
-    2,
-    2,
-    2,
-    2
-  ],
-  "src/observation/achievements/list.md": [
-    4,
-    2
-  ],
-  "src/observation/achievements/obsolete-dreams.md": [
-    2,
-    2
-  ],
-  "src/observation/achievements/platinum.md": [
-    3,
-    3,
-    3,
-    2
-  ],
-  "src/observation/achievements/returns.md": [
-    4,
-    3,
-    2,
-    3,
-    2
   ],
   "src/observation/framework/balance.md": [
     4,

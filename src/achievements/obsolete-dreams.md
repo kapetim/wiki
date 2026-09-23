@@ -1,7 +1,7 @@
 # 🧮 Obsolete dreams — the abacus read
 
 **What this is:** what happens when a **fair, hard competition** gets outsmarted by a **calculator** — the dream doesn't fail, it becomes **irrelevant**. The competitor trained a lifetime; the machine
-one-shots it. Pair read with [futures.md](../society/futures.md) (automation fork) and [mastery-axis.md](../media/mastery-axis.md) (what the world asks you to master). **Metaphor only.**
+one-shots it. Pair read with [futures.md](../observation/society/futures.md) (automation fork) and [mastery-axis.md](../observation/media/mastery-axis.md) (what the world asks you to master). **Metaphor only.**
 
 ---
 
@@ -72,8 +72,8 @@ Life has **changed** from *training to become a problem solver* to something els
 <!-- begin table -->
 | Topic | Hub |
 | --- | --- |
-| The automation fork | [futures.md](../society/futures.md) |
-| What the era rewards now | [play § era meta](../framework/play.md#-life-dream-and-rat-wheel) |
-| Generalist vs specialist | [mastery-axis § Mario](../media/mastery-axis.md#-generalist-mario-axis) |
+| The automation fork | [futures.md](../observation/society/futures.md) |
+| What the era rewards now | [play § era meta](../observation/framework/play.md#-life-dream-and-rat-wheel) |
+| Generalist vs specialist | [mastery-axis § Mario](../observation/media/mastery-axis.md#-generalist-mario-axis) |
 | What to spend the freed time on | [returns.md](./returns.md), [list.md](./list.md) |
 <!-- end table -->

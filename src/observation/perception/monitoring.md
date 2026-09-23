@@ -395,3 +395,6 @@ go sideways and reactivate that volcano with enough bombs thrown into the bottom
 some depth.
 
 ## 🧭 How this connects
+
+- [problems/unknown/surveillance.md](../../problems/unknown/surveillance.md) — the deletable log, read as **monitoring of
+  thoughts** (Big Brother, the **Pokémon-daycare** loop, life as **The Sims**, escape only via death).

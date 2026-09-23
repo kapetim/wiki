@@ -1,7 +1,7 @@
 # 📈 Returns — the 80/90/100 curve
 
 **What this is:** the **return curve** of mastery and time allocation — where extra effort stops paying, and why **"good enough across many"** usually beats **"perfect at one."** Pairs with
-[pleasure.md](../framework/pleasure.md) (frequency) and [mastery-axis.md](../media/mastery-axis.md) (skill axes). **Metaphor only.**
+[pleasure.md](../observation/framework/pleasure.md) (frequency) and [mastery-axis.md](../observation/media/mastery-axis.md) (skill axes). **Metaphor only.**
 
 ---
 
@@ -35,7 +35,7 @@ everything.
 <!-- end table -->
 
 **6/10 across a real set of lanes** (instruments, fitness, languages, games, coding) is a **winning shape** — it keeps the board wide and the spikes frequent. It's the
-[Mario generalist axis](../media/mastery-axis.md#-generalist-mario-axis): top ~10% on many lanes beats top ~1% on one, unless you actually love the one.
+[Mario generalist axis](../observation/media/mastery-axis.md#-generalist-mario-axis): top ~10% on many lanes beats top ~1% on one, unless you actually love the one.
 
 **Why:** you never know when a **random hobby gives you an idea** — cross-pollination is where new combos come from.
 
@@ -83,8 +83,8 @@ Keep scanning for new folders — there's a **hard limit**, and once you're near
 <!-- begin table -->
 | Topic | Hub |
 | --- | --- |
-| The skill axes available | [mastery-axis.md](../media/mastery-axis.md) |
-| When to stop climbing (baseline) | [pleasure § spike-with-boring-baseline](../framework/pleasure.md#-spike-with-boring-baseline-model) |
+| The skill axes available | [mastery-axis.md](../observation/media/mastery-axis.md) |
+| When to stop climbing (baseline) | [pleasure § spike-with-boring-baseline](../observation/framework/pleasure.md#-spike-with-boring-baseline-model) |
 | The trading rules for time | [budget.md](./budget.md) |
 | The actual list with statuses | [list.md](./list.md) |
 <!-- end table -->

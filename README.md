@@ -13,6 +13,7 @@ Sensitive records stay in `private` only — accounts, government, health, inter
 | --- | --- |
 | [`characters/`](src/characters) | Personality + life dossiers — one sheet per character |
 | [`observation/`](src/observation) | Frameworks, theories, and media reads |
+| [`achievements/`](src/achievements) | Goals, budgets, obsolete dreams, and returns |
 | [`justice/`](src/justice) | Karma (accounting) and fair game (judgement) |
 | [`playlists/`](src/playlists) | Movies, series, audiobooks, music, podcasts, sounds |
 | [`games/`](src/games) | Video and board games |
@@ -30,7 +31,7 @@ The finance routines behind the money tasks stay in `private` (`src/finance/`).
 
 ### 📊 Coverage
 
-**Total: 3521 headings · 3521 with emoji · 100.00% coverage.**
+**Total: 3524 headings · 3524 with emoji · 100.00% coverage.**
 
 Files with headings missing an emoji: none.
 

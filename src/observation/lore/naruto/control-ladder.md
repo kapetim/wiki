@@ -161,7 +161,7 @@ It all started with the disobedient Gaara, who triggered a new tail pursuit in t
 Those who achieved a tail level **first** held the prize — the tailed beast. Doing it afterwards makes you just a cosplay. If you had the idea and the courage to execute, you deserve the prize — like
 a mentor of all others who tried the same afterwards.
 
-Cross-ref: [achievements/list.md](../../achievements/list.md) (the list mechanic — who actually earns it).
+Cross-ref: [achievements/list.md](../../../achievements/list.md) (the list mechanic — who actually earns it).
 
 ## 🛡️ Containment
 
@@ -185,7 +185,7 @@ Cross-ref: [hard-limit.md](../../fundamentals/hard-limit.md) (the physical ceili
 | The hunter theater / orchestrator | [orchestrator.md](./orchestrator.md) |
 | The all-streaming watcher | [monitoring.md](../../perception/monitoring.md) |
 | The truco card hierarchy | [truco-hierarchy.md](./truco-hierarchy.md) |
-| The achievement list mechanic | [achievements/list.md](../../achievements/list.md) |
+| The achievement list mechanic | [achievements/list.md](../../../achievements/list.md) |
 | The physical ceiling | [hard-limit.md](../../fundamentals/hard-limit.md) |
 | Beast names & holders | [Bijū table](../../../characters/naruto/jinchuriki/bijuu.md) |
 <!-- end table -->
