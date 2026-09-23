@@ -394,6 +394,16 @@ Any well-hidden bunker is hard to find and enter — no drone can see it from th
 go sideways and reactivate that volcano with enough bombs thrown into the bottom of it? They've somewhat hidden themselves in a place very hard to achieve — you'd need to dig from the surface to quite
 some depth.
 
+## 🪑 The chair — damage crosses the boundary
+
+If life is a game and you have a **physical body outside it**, then nothing inside the Matrix is contained: **any damage
+you take in-sim happens outside too**. The body sits in the **chair**; the simulation is only the input.
+
+- **Sex is the dark mirror of the chair** — have sex inside the Matrix and someone is probably **raping you outside
+  through the chair**; the in-sim pleasure has a real act behind it.
+- **Death is the same** — dying in the Matrix means the **body outside dies** (unplugged, not respawned).
+- The tank/pod read: [worlds.md](../media/worlds.md) (instances) · [aquarium.md](../media/aquarium.md) (the bubble).
+
 ## 🧭 How this connects
 
 - [problems/unknown/surveillance.md](../../problems/unknown/surveillance.md) — the deletable log, read as **monitoring of
