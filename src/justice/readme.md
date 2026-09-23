@@ -10,6 +10,7 @@ owed back), and **fair game** is the **judgement system** (collect evidence, the
 | --- | --- |
 | [karma.md](karma.md) | The accounting system — receivable, payable, and the cases that never balance |
 | [fair-game.md](fair-game.md) | The judgement system — pricing the acts that freedom allows |
+| [self-defense.md](self-defense.md) | The unprovable claim — survival, proof, and the house with no camera |
 <!-- end table -->
 
 ## 🧭 Who polices each layer
