@@ -49,4 +49,4 @@
 
 ## 🔗 Cross-refs
 
-- the archetype → [trickster-archetype.md](../../interpretations/media/trickster-archetype.md) · his favorite hunter → [elmer-fudd.md](elmer-fudd.md) · his frustrated mirror → [daffy-duck.md](daffy-duck.md) · the cousins → [felix-the-cat](../../characters/felix-the-cat/felix-the-cat.md) · [woody-woodpecker](../../characters/woody-woodpecker/woody-woodpecker.md)
+- the archetype → [trickster-archetype.md](../../observation/media/trickster-archetype.md) · his favorite hunter → [elmer-fudd.md](elmer-fudd.md) · his frustrated mirror → [daffy-duck.md](daffy-duck.md) · the cousins → [felix-the-cat](../../characters/felix-the-cat/felix-the-cat.md) · [woody-woodpecker](../../characters/woody-woodpecker/woody-woodpecker.md)

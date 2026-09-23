@@ -30,5 +30,5 @@ Contentless or one-gag (cut rule):
 
 ## 🔗 Theory
 
-- The shared trickster read: [media/trickster-archetype.md](../../interpretations/media/trickster-archetype.md)
+- The shared trickster read: [media/trickster-archetype.md](../../observation/media/trickster-archetype.md)
 - The cousins with the same escape grammar → [felix-the-cat/readme.md](../../characters/felix-the-cat/readme.md) · [woody-woodpecker/readme.md](../../characters/woody-woodpecker/readme.md)

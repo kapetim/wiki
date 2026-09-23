@@ -51,4 +51,4 @@
 ## 🔗 Cross-refs
 
 - Family → [hashirama-senju.md](hashirama-senju.md) (grandfather) · [tobirama-senju.md](tobirama-senju.md) (grand-uncle) · her heir in skill → [sakura-haruno.md](../../women/sakura-haruno.md) · her helper → [shizune.md](../../women/shizune.md)
-- Her era → [naruto/readme.md](../../readme.md) · [power.md](../../../../interpretations/lore/naruto/power.md) § Q
+- Her era → [naruto/readme.md](../../readme.md) · [power.md](../../../../observation/lore/naruto/power.md) § Q

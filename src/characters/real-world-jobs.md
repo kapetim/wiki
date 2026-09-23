@@ -22,4 +22,4 @@ Team Guy plus the curse-marked proctor — the first batch.
 - [Characters index](readme.md) — the universe organization
 - [Naruto universe](naruto/readme.md) — cast index
 - [characters.md](naruto/characters.md) § Real-life potential — the power → skill lens
-- [structures.md](../interpretations/framework/structures.md) — the work-team read
+- [structures.md](../observation/framework/structures.md) — the work-team read

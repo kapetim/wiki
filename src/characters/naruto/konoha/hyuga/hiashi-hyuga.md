@@ -49,4 +49,4 @@
 ## 🔗 Cross-refs
 
 - [Hyūga clan](../../readme.md#-clans) — the clan · [hizashi-hyuga.md](hizashi-hyuga.md) (twin) · [hinata-hyuga.md](hinata-hyuga.md) · [hanabi-hyuga.md](hanabi-hyuga.md)
-- [control-ladder.md](../../../../interpretations/lore/naruto/control-ladder.md) § Byakugan
+- [control-ladder.md](../../../../observation/lore/naruto/control-ladder.md) § Byakugan

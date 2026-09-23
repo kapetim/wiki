@@ -25,4 +25,4 @@ Felix's bag holds anything the gag needs — a prop that *is* the trickster's en
 
 ## 🔗 Theory
 
-- The archetype hub — [media/trickster-archetype.md](../../interpretations/media/trickster-archetype.md)
+- The archetype hub — [media/trickster-archetype.md](../../observation/media/trickster-archetype.md)

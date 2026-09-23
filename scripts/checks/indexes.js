@@ -78,7 +78,7 @@ export async function checkProblems(repoDir) {
 
 export async function checkInterpretations(repoDir) {
   const errors = [];
-  const base = path.join(repoDir, ...NOTES, 'interpretations');
+  const base = path.join(repoDir, ...NOTES, 'observation');
   const files = [];
   const walk = async (dir, rel) => {
     for (const e of await readdir(dir, { withFileTypes: true })) {
@@ -90,7 +90,7 @@ export async function checkInterpretations(repoDir) {
   await walk(base, '');
   for (const f of files) {
     const md = await readFile(path.join(base, f), 'utf8');
-    if (!md.includes('**What this is:**')) errors.push(`interpretations/${f}: missing '**What this is:**'`);
+    if (!md.includes('**What this is:**')) errors.push(`observation/${f}: missing '**What this is:**'`);
   }
   return errors;
 }

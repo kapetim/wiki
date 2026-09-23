@@ -49,4 +49,4 @@
 
 ## 🔗 Cross-refs
 
-- The ANBU world → [yamato.md](yamato.md) · the exams that took her love → [arcs.md](../../../../interpretations/lore/naruto/arcs.md)
+- The ANBU world → [yamato.md](yamato.md) · the exams that took her love → [arcs.md](../../../../observation/lore/naruto/arcs.md)

@@ -47,4 +47,4 @@
 ## 🔗 Cross-refs
 
 - [Uchiha clan](../readme.md#-uchiha-clan) — the clan · [madara-uchiha.md](madara-uchiha.md)
-- [sharingan.md](sharingan.md) § eye theft · [thoughts.md](../../../interpretations/lore/naruto/thoughts.md)
+- [sharingan.md](sharingan.md) § eye theft · [thoughts.md](../../../observation/lore/naruto/thoughts.md)

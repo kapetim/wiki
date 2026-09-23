@@ -40,6 +40,17 @@ as an excuse to offer revenge paths. An assassination in an unmonitored place le
 With monitoring, a set of people would know — like putting a warning if any individual dies, collecting the timestamp and evaluating the scene, pretty much like soccer VAR. If it's a video game, you
 can collect the event data and rewatch it from many angles.
 
+## 🔒 Private thoughts, private rooms
+
+A crime in a room **without cameras** — nobody can know what happened inside. **The same applies to what a person is thinking**: private, with no known monitoring proof and no methodology to confirm
+it.
+
+- **No law about it** — you can think anything; at most people complain about **written online messages** and **spoken words**, the outputs, never the mind.
+- **The flip side — surveillance is a known crime:** monitoring someone **at home and streaming it to everyone** *is* a crime — you invaded their privacy and shared it widely, **hacker-level**;
+  depending on how it spread, it is **psychological damage**.
+
+Related: [problems/unknown/online.md](../../problems/unknown/online.md) · [problems/unknown/surveillance.md](../../problems/unknown/surveillance.md).
+
 ## 💾 Evidence and the data-on-disk problem
 
 It's very hard to delete a single entry from a database without a log. You can throw out an HDD, but the game manager saw you writing to it and throwing it out — not like they lost it. You would

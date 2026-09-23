@@ -58,6 +58,6 @@
 
 ## 🔗 Cross-refs
 
-- [orchestrator.md](../../../interpretations/lore/naruto/orchestrator.md) · [characters.md](../characters.md) § antagonist ladder · [hell-heaven-bridge.md](../../../interpretations/lore/naruto/hell-heaven-bridge.md)
+- [orchestrator.md](../../../observation/lore/naruto/orchestrator.md) · [characters.md](../characters.md) § antagonist ladder · [hell-heaven-bridge.md](../../../observation/lore/naruto/hell-heaven-bridge.md)
 - Konan (his second) → [konan.md](../women/konan.md) · the org → [Uchiha](../uchiha/itachi-uchiha.md) · [Obito](../uchiha/obito-uchiha.md)
 - His statue → [0-gedo-mazo.md](../jinchuriki/0-gedo-mazo.md) · the friend whose body he wears → [yahiko.md](yahiko.md)

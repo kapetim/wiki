@@ -1,7 +1,7 @@
 # 🍥 Naruto
 
 **What this is:** universe home — the Naruto verse (anime · manga · Boruto), organized by village and faction. One file per character lives under its group; this readme indexes the whole
-universe. Deep theory stays in [`interpretations/lore/naruto/`](../../interpretations/lore/naruto/readme.md).
+universe. Deep theory stays in [`interpretations/lore/naruto/`](../../observation/lore/naruto/readme.md).
 
 ## 🍃 Konoha — the Leaf
 
@@ -331,7 +331,7 @@ Lookalike souls across factions — each row is a cluster that reads as one pers
 
 ## 🔗 Lore
 
-- [naruto/readme.md](../../interpretations/lore/naruto/readme.md) — series hub · [characters.md](characters.md) — the cast reference
+- [naruto/readme.md](../../observation/lore/naruto/readme.md) — series hub · [characters.md](characters.md) — the cast reference
 - Real-world employers → [../real-world-jobs.md](../real-world-jobs.md)
 - Translation → [translation.md](translation.md) — Naruto terms in real-world language
-- Theory weaves: [sharingan.md](uchiha/sharingan.md) (eyes) · [control-ladder.md](../../interpretations/lore/naruto/control-ladder.md)
+- Theory weaves: [sharingan.md](uchiha/sharingan.md) (eyes) · [control-ladder.md](../../observation/lore/naruto/control-ladder.md)

@@ -215,8 +215,8 @@ export async function checkTableColumns(repoDir) {
 // (file starts with an H1) and MD043 (exactly one H1).
 //   - every file: H1 starts with an emoji
 //   - accounts/*.md: H1 then `## 🧭 Index` (per-account nav)
-//   - interpretations/lore/*.md (series summaries): H1 then `## 📊 Metadata`
-//   - interpretations/lore/naruto/*.md (except readme): H1 then a
+//   - observation/lore/*.md (series summaries): H1 then `## 📊 Metadata`
+//   - observation/lore/naruto/*.md (except readme): H1 then a
 //     `**What this is:**` line
 const EMOJI_HEADING_RE = /^#[^\S\n]*\P{ASCII}/u;
 const LORE_META = '## 📊 Metadata';
@@ -246,7 +246,7 @@ export async function checkHeadingTemplates(repoDir) {
       }
     }
 
-    if (rel.startsWith('src/interpretations/lore/') && !rel.endsWith('readme.md') && !rel.includes('/lore/naruto/')) {
+    if (rel.startsWith('src/observation/lore/') && !rel.endsWith('readme.md') && !rel.includes('/lore/naruto/')) {
       const h2 = lines.slice(h1 + 1).findIndex((l) => /^#{2}\s+\S/.test(l.trim()));
       const second = h2 === -1 ? null : lines[h1 + 1 + h2].trim();
       if (second !== LORE_META) {
@@ -254,7 +254,7 @@ export async function checkHeadingTemplates(repoDir) {
       }
     }
 
-    if (rel.startsWith('src/interpretations/lore/naruto/') && !rel.endsWith('readme.md')) {
+    if (rel.startsWith('src/observation/lore/naruto/') && !rel.endsWith('readme.md')) {
       if (!lines.some((l) => l.includes(WHAT_THIS_IS))) {
         errors.push(`${rel} naruto subfile must contain a '${WHAT_THIS_IS}' line`);
       }

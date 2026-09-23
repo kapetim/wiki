@@ -48,6 +48,6 @@
 
 ## 🔗 Cross-refs
 
-- [arcs.md](../../../interpretations/lore/naruto/arcs.md) § Kazekage rescue · [characters.md](../characters.md) § antagonist ladder
+- [arcs.md](../../../observation/lore/naruto/arcs.md) § Kazekage rescue · [characters.md](../characters.md) § antagonist ladder
 - His grandmother who let him go → [lady-chiyo.md](../sand/lady-chiyo.md) · the rescue's target → [1-gaara.md](../jinchuriki/1-gaara.md) · the org → [pain.md](../rain/nagato.md)
 - **His parents** — Chiyo's son & daughter-in-law, canon-unnamed; they died in the war, and the puppets that finished him wear their faces. Kept as prose, not a file.

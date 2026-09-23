@@ -62,6 +62,6 @@ Trait-level: round glasses over an Uchiha face — the soft exterior of the firs
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) · [sharingan.md](sharingan.md) § Sarada
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) · [sharingan.md](sharingan.md) § Sarada
 - [uchiha.md](../readme.md#-uchiha-clan) · [sasuke-uchiha.md](sasuke-uchiha.md) · [sakura-haruno.md](../women/sakura-haruno.md)
-- Mirai comparison: [infinite-loop.md](../../../interpretations/lore/naruto/infinite-loop.md) § Mirai vs Sarada
+- Mirai comparison: [infinite-loop.md](../../../observation/lore/naruto/infinite-loop.md) § Mirai vs Sarada

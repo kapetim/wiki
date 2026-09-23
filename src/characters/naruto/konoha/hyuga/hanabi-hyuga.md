@@ -48,4 +48,4 @@
 ## 🔗 Cross-refs
 
 - [Hyūga clan](../../readme.md#-clans) — the clan · [hiashi-hyuga.md](hiashi-hyuga.md) · [hinata-hyuga.md](hinata-hyuga.md) · [himawari.md](himawari.md) (niece)
-- [power.md](../../../../interpretations/lore/naruto/power.md) § 7-hearts
+- [power.md](../../../../observation/lore/naruto/power.md) § 7-hearts

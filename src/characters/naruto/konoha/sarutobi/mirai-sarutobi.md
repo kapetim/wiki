@@ -48,5 +48,5 @@
 
 ## 🔗 Cross-refs
 
-- The console read (vs Sarada) → [infinite-loop.md](../../../../interpretations/lore/naruto/infinite-loop.md) § Mirai vs Sarada · her mother → [kurenai-yuhi.md](../../women/kurenai-yuhi.md) · her father → [asuma-sarutobi.md](asuma-sarutobi.md)
+- The console read (vs Sarada) → [infinite-loop.md](../../../../observation/lore/naruto/infinite-loop.md) § Mirai vs Sarada · her mother → [kurenai-yuhi.md](../../women/kurenai-yuhi.md) · her father → [asuma-sarutobi.md](asuma-sarutobi.md)
 - The resemblance thread → [shisui-uchiha.md](../../uchiha/shisui-uchiha.md) · the mirror she's measured against → [sarada-uchiha.md](../../uchiha/sarada-uchiha.md)

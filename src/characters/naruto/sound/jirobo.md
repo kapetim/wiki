@@ -47,5 +47,5 @@
 
 ## 🔗 Cross-refs
 
-- [arcs.md](../../../interpretations/lore/naruto/arcs.md) § Sasuke Retrieval
+- [arcs.md](../../../observation/lore/naruto/arcs.md) § Sasuke Retrieval
 - The Sound Four → [sakon.md](sakon.md) · [tayuya.md](tayuya.md) · [kidoumaro.md](kidoumaro.md)

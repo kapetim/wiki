@@ -52,4 +52,4 @@ Contentless or one-gag — no dossier of their own (cut rule):
 
 ## 🔗 Theory
 
-- The managed-bubble theory both films run on — [media/aquarium.md](../../interpretations/media/aquarium.md)
+- The managed-bubble theory both films run on — [media/aquarium.md](../../observation/media/aquarium.md)

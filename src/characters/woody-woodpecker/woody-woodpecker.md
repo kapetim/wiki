@@ -50,4 +50,4 @@ and  who  provokes  authority  then  escapes  by  pure  chaos.
 
 ## 🔗 Cross-refs
 
-- the archetype → [trickster-archetype.md](../../interpretations/media/trickster-archetype.md) · the ones who chase him → [the-nemeses.md](the-nemeses.md) · his girlfriend → [winnie-woodpecker.md](winnie-woodpecker.md) · his kid sidekicks → [knothead-and-splinter.md](knothead-and-splinter.md)
+- the archetype → [trickster-archetype.md](../../observation/media/trickster-archetype.md) · the ones who chase him → [the-nemeses.md](the-nemeses.md) · his girlfriend → [winnie-woodpecker.md](winnie-woodpecker.md) · his kid sidekicks → [knothead-and-splinter.md](knothead-and-splinter.md)

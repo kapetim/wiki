@@ -47,5 +47,5 @@
 
 ## 🔗 Cross-refs
 
-- [arcs.md](../../../interpretations/lore/naruto/arcs.md) § Sasuke Retrieval
+- [arcs.md](../../../observation/lore/naruto/arcs.md) § Sasuke Retrieval
 - The Sound Four → [sakon.md](sakon.md) · [kidoumaro.md](kidoumaro.md) · [jirobo.md](jirobo.md) · her mind-duel rival (Shikamaru) → [ino-shika-cho.md](../konoha/new-teachers/shikamaru-nara.md)

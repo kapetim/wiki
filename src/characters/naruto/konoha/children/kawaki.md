@@ -48,4 +48,4 @@
 
 ## 🔗 Cross-refs
 
-- The family that took him in → [9-naruto-uzumaki.md](../../jinchuriki/9-naruto-uzumaki.md) (father) · [boruto-uzumaki.md](../uzumaki/boruto-uzumaki.md) (brother-in-fate) · the orphan thread → [arcs.md](../../../../interpretations/lore/naruto/arcs.md)
+- The family that took him in → [9-naruto-uzumaki.md](../../jinchuriki/9-naruto-uzumaki.md) (father) · [boruto-uzumaki.md](../uzumaki/boruto-uzumaki.md) (brother-in-fate) · the orphan thread → [arcs.md](../../../../observation/lore/naruto/arcs.md)

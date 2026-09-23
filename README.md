@@ -1,6 +1,6 @@
 # 📖 Wiki
 
-Personal wiki — the **shareable half** of [`private`](https://github.com/kapetim/private): characters, interpretations, playlists, games, gear, food, instruments, rules, and tasks.
+Personal wiki — the **shareable half** of [`private`](https://github.com/kapetim/private): characters, observation, playlists, games, gear, food, instruments, rules, and tasks.
 
 **What this is:** the non-sensitive life reference, public and easy to browse.
 
@@ -12,7 +12,7 @@ Sensitive records stay in `private` only — accounts, government, health, inter
 | Folder | What goes here |
 | --- | --- |
 | [`characters/`](src/characters) | Personality + life dossiers — one sheet per character |
-| [`interpretations/`](src/interpretations) | Frameworks, theories, and media interpretations |
+| [`observation/`](src/observation) | Frameworks, theories, and media reads |
 | [`playlists/`](src/playlists) | Movies, series, audiobooks, music, podcasts, sounds |
 | [`games/`](src/games) | Video and board games |
 | [`gear/`](src/gear) | Durable stuff — devices and everyday carry |
@@ -28,7 +28,7 @@ The finance routines behind the money tasks stay in `private` (`src/finance/`).
 
 ### 📊 Coverage
 
-**Total: 3501 headings · 3501 with emoji · 100.00% coverage.**
+**Total: 3509 headings · 3509 with emoji · 100.00% coverage.**
 
 Files with headings missing an emoji: none.
 

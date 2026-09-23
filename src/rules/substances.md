@@ -48,5 +48,5 @@ Emergency brakes — stop a heartbeat that runs too high.
 
 ## 🔗 Related
 
-- [interpretations/framework/substances.md](../interpretations/framework/substances.md) — the car read (concept)
+- [interpretations/framework/substances.md](../observation/framework/substances.md) — the car read (concept)
 - [allergies.md](allergies.md) — allergens to avoid

@@ -39,7 +39,7 @@
 ## 🗣️ Signature
 
 - Speaks in certainties about destiny — a boy hurt by fate lecturing others on it
-- The 64-palms rhythm — a circle that grows, the loop the theory files borrow ([orchestrator.md](../../../../interpretations/lore/naruto/orchestrator.md))
+- The 64-palms rhythm — a circle that grows, the loop the theory files borrow ([orchestrator.md](../../../../observation/lore/naruto/orchestrator.md))
 - Tells: the seal on his forehead he never lets anyone forget
 
 ## 🎯 Channeling
@@ -51,5 +51,5 @@
 ## 🔗 Cross-refs
 
 - [Hyūga clan](../../readme.md#-clans) — the clan · [hizashi-hyuga.md](hizashi-hyuga.md) · [hinata-hyuga.md](hinata-hyuga.md) · team: [team-guy.md](../../readme.md#-teams--mentors)
-- [characters.md](../../characters.md) § Team Guy · [control-ladder.md](../../../../interpretations/lore/naruto/control-ladder.md) · [orchestrator.md](../../../../interpretations/lore/naruto/orchestrator.md)
+- [characters.md](../../characters.md) § Team Guy · [control-ladder.md](../../../../observation/lore/naruto/control-ladder.md) · [orchestrator.md](../../../../observation/lore/naruto/orchestrator.md)
 - Real-world employer → [../../../real-world-jobs.md](../../../real-world-jobs.md)

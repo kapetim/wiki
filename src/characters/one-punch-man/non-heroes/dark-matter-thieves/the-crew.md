@@ -10,7 +10,7 @@
 | Groribas | the brute | The close-combat alien — Boros's heavy, one-punched like the rest |
 <!-- end table -->
 
-**The read:** the ship is a [temporary aquarium](../../../../interpretations/media/aquarium.md) — a contained, monitored world that arrives over Earth and ends the same way every contained world ends: boring for Saitama.
+**The read:** the ship is a [temporary aquarium](../../../../observation/media/aquarium.md) — a contained, monitored world that arrives over Earth and ends the same way every contained world ends: boring for Saitama.
 
 ## 🔗 Cross-refs
 

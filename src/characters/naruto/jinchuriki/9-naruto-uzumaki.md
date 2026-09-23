@@ -62,6 +62,6 @@
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) · [characters.md](../characters.md) § Team 7
-- [truco-hierarchy.md](../../../interpretations/lore/naruto/truco-hierarchy.md) — the 7♦ · [orchestrator.md](../../../interpretations/lore/naruto/orchestrator.md) — the mayor
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) · [characters.md](../characters.md) § Team 7
+- [truco-hierarchy.md](../../../observation/lore/naruto/truco-hierarchy.md) — the 7♦ · [orchestrator.md](../../../observation/lore/naruto/orchestrator.md) — the mayor
 - Siblings of the wheel: [sasuke-uchiha.md](../uchiha/sasuke-uchiha.md) · [itachi-uchiha.md](../uchiha/itachi-uchiha.md) · [1-gaara.md](1-gaara.md)
