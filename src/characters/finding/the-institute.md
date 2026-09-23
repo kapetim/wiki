@@ -10,7 +10,7 @@
 | Jenny · Charlie | Dory's parents | Never stopped calling — the shell-path that kept the door open |
 <!-- end table -->
 
-**The  read:**  the  institute  is  the  [managed bubble](../../interpretations/media/aquarium.md)  made  kindly  —  the  place  that  held  her  family  while  she  forgot  them.  The  sea  lions
+**The  read:**  the  institute  is  the  [managed bubble](../../observation/media/aquarium.md)  made  kindly  —  the  place  that  held  her  family  while  she  forgot  them.  The  sea  lions
 (Fluke,  Rudder,  Gerald)  and  Becky  the  loon  are  the  harbor's  one-gag  neighbors  —  prose  in  the  [universe readme](readme.md).
 
 ## 🔗 Cross-refs

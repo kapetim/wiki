@@ -54,5 +54,5 @@ Trait-level: the pink-haired girl the story first judged by looks — grows into
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) · [characters.md](../characters.md) § Team 7 · [infinite-loop.md](../../../interpretations/lore/naruto/infinite-loop.md) § the wheel
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) · [characters.md](../characters.md) § Team 7 · [infinite-loop.md](../../../observation/lore/naruto/infinite-loop.md) § the wheel
 - [9-naruto-uzumaki.md](../jinchuriki/9-naruto-uzumaki.md) · [sasuke-uchiha.md](../uchiha/sasuke-uchiha.md) · [sarada-uchiha.md](../uchiha/sarada-uchiha.md)

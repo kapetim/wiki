@@ -15,4 +15,4 @@
 
 - [justice.md](justice.md) — the liked killer
 - [../unknown/underground.md](../unknown/underground.md) — disappear, untraced
-- [../../interpretations/fundamentals/hard-limit.md](../../interpretations/fundamentals/hard-limit.md) — a tool used the other way
+- [../../interpretations/fundamentals/hard-limit.md](../../observation/fundamentals/hard-limit.md) — a tool used the other way

@@ -41,4 +41,4 @@ Contentful but not deep enough to stand alone (cut rule):
 
 ## 🔗 Theory
 
-- The managed-bubble frame the franchise runs on: [media/aquarium.md](../../interpretations/media/aquarium.md) — zoo comfort as the aquarium, the wild as zoo-to-jungle odds
+- The managed-bubble frame the franchise runs on: [media/aquarium.md](../../observation/media/aquarium.md) — zoo comfort as the aquarium, the wild as zoo-to-jungle odds

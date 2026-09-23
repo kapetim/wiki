@@ -47,7 +47,7 @@
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) · [sharingan.md](sharingan.md) — mentorship
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) · [sharingan.md](sharingan.md) — mentorship
 - [tobirama-senju.md](../konoha/senju/tobirama-senju.md) · [shisui-uchiha.md](shisui-uchiha.md) · [uchiha.md](../readme.md#-uchiha-clan)
 
 ## 📝 Note

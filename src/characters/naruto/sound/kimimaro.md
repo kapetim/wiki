@@ -49,5 +49,5 @@
 
 ## 🔗 Cross-refs
 
-- [arcs.md](../../../interpretations/lore/naruto/arcs.md) § Sasuke Retrieval
+- [arcs.md](../../../observation/lore/naruto/arcs.md) § Sasuke Retrieval
 - Master → [orochimaru.md](orochimaru.md) · the squad he guarded → [sakon.md](sakon.md) · his battle's other half → [1-gaara.md](../jinchuriki/1-gaara.md)

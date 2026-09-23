@@ -80,14 +80,14 @@
 
 ## 🌀 naruto
 
-> ~405h total · see [naruto.md](../../interpretations/lore/naruto/readme.md)
+> ~405h total · see [naruto.md](../../observation/lore/naruto/readme.md)
 
 <!-- begin table -->
 | Season | Year | Episodes | Runtime | Rating | Status | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Naruto | 2002–2007 | 220 | 88h | 8.0 👍 | 🟢 | [naruto.md](../../interpretations/lore/naruto/readme.md) |
-| Naruto Shippuden | 2007–2017 | 500 | 200h | 8.4 👍 | 🟢 | [naruto.md](../../interpretations/lore/naruto/readme.md) |
-| Boruto: Naruto Next Generations | 2017–2023 | 293 | 117h12m | 6.5 😐 | 🟢 | [naruto.md](../../interpretations/lore/naruto/readme.md) |
+| Naruto | 2002–2007 | 220 | 88h | 8.0 👍 | 🟢 | [naruto.md](../../observation/lore/naruto/readme.md) |
+| Naruto Shippuden | 2007–2017 | 500 | 200h | 8.4 👍 | 🟢 | [naruto.md](../../observation/lore/naruto/readme.md) |
+| Boruto: Naruto Next Generations | 2017–2023 | 293 | 117h12m | 6.5 😐 | 🟢 | [naruto.md](../../observation/lore/naruto/readme.md) |
 <!-- end table -->
 
 ## ☠️ one piece

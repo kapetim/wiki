@@ -48,5 +48,5 @@
 
 ## 🔗 Cross-refs
 
-- [orchestrator.md](../../../interpretations/lore/naruto/orchestrator.md) · [characters.md](../characters.md) § desire/risk axis
+- [orchestrator.md](../../../observation/lore/naruto/orchestrator.md) · [characters.md](../characters.md) § desire/risk axis
 - Nagato (her center) → [pain.md](../rain/nagato.md) · Obito's end of her story → [obito-uchiha.md](../uchiha/obito-uchiha.md)

@@ -48,5 +48,5 @@
 
 ## 🔗 Cross-refs
 
-- [truco-hierarchy.md](../../../interpretations/lore/naruto/truco-hierarchy.md) · [hell-heaven-bridge.md](../../../interpretations/lore/naruto/hell-heaven-bridge.md)
+- [truco-hierarchy.md](../../../observation/lore/naruto/truco-hierarchy.md) · [hell-heaven-bridge.md](../../../observation/lore/naruto/hell-heaven-bridge.md)
 - The implementer → [kabuto.md](kabuto.md) · the org he left → [akatsuki](../rain/nagato.md) · Anko (his student) → [anko-mitarashi.md](../women/anko-mitarashi.md)

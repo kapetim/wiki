@@ -52,4 +52,4 @@
 
 - Her grandson → [sasori.md](../sand/sasori.md) · the life she gave → [1-gaara.md](../jinchuriki/1-gaara.md) · the student she passed puppetry to → [kankuro.md](kankuro.md)
 - **Her son & daughter-in-law** (Sasori's parents, canon-unnamed) — died in the war; the wound that made Sasori and the faces on the puppets that ended him. Prose only.
-- The rescue → [arcs.md](../../../interpretations/lore/naruto/arcs.md) § Kazekage Rescue
+- The rescue → [arcs.md](../../../observation/lore/naruto/arcs.md) § Kazekage Rescue

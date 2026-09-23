@@ -35,5 +35,5 @@ Contentless one-offs — no dossier of their own (cut rule):
 
 ## 🔗 Theory
 
-- The archetype hub: [media/trickster-archetype.md](../../interpretations/media/trickster-archetype.md)
+- The archetype hub: [media/trickster-archetype.md](../../observation/media/trickster-archetype.md)
 - The trickster read lives in the [universe readme's](readme.md) neighbors: [felix-the-cat.md](../../characters/felix-the-cat/felix-the-cat.md) · [looney-tunes/readme.md](../../characters/looney-tunes/readme.md)

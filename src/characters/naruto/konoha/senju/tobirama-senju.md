@@ -49,7 +49,7 @@
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../../interpretations/lore/naruto/readme.md) · [sharingan.md](../../uchiha/sharingan.md) — Tobirama line
+- [naruto/readme.md](../../../../observation/lore/naruto/readme.md) · [sharingan.md](../../uchiha/sharingan.md) — Tobirama line
 - [kagami-uchiha.md](../../uchiha/kagami-uchiha.md) · [Uchiha clan](../../readme.md#-uchiha-clan)
 
 ## 📝 Note

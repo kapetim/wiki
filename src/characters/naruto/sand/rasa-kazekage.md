@@ -50,4 +50,4 @@
 ## 🔗 Cross-refs
 
 - The son he misjudged → [1-gaara.md](../jinchuriki/1-gaara.md) · [kankuro.md](kankuro.md) · [temari.md](../women/temari.md) · the killer who wore his face → [orochimaru.md](../sound/orochimaru.md)
-- The crush → [arcs.md](../../../interpretations/lore/naruto/arcs.md) § Konoha Crush · his birth → [1-gaara.md](../jinchuriki/1-gaara.md)
+- The crush → [arcs.md](../../../observation/lore/naruto/arcs.md) § Konoha Crush · his birth → [1-gaara.md](../jinchuriki/1-gaara.md)

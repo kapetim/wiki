@@ -1893,39 +1893,39 @@
   "src/gear/wardrobe.md": [
     4
   ],
-  "src/interpretations/achievements/budget.md": [
+  "src/observation/achievements/budget.md": [
     2,
     2,
     2,
     2
   ],
-  "src/interpretations/achievements/list.md": [
+  "src/observation/achievements/list.md": [
     4,
     2
   ],
-  "src/interpretations/achievements/obsolete-dreams.md": [
+  "src/observation/achievements/obsolete-dreams.md": [
     2,
     2
   ],
-  "src/interpretations/achievements/platinum.md": [
+  "src/observation/achievements/platinum.md": [
     3,
     3,
     3,
     2
   ],
-  "src/interpretations/achievements/returns.md": [
+  "src/observation/achievements/returns.md": [
     4,
     3,
     2,
     3,
     2
   ],
-  "src/interpretations/framework/balance.md": [
+  "src/observation/framework/balance.md": [
     4,
     2,
     3
   ],
-  "src/interpretations/framework/born.md": [
+  "src/observation/framework/born.md": [
     2,
     4,
     3,
@@ -1934,15 +1934,15 @@
     2,
     3
   ],
-  "src/interpretations/framework/enjoyment.md": [
+  "src/observation/framework/enjoyment.md": [
     2
   ],
-  "src/interpretations/framework/intra-thoughts.md": [
+  "src/observation/framework/intra-thoughts.md": [
     2,
     3,
     2
   ],
-  "src/interpretations/framework/play.md": [
+  "src/observation/framework/play.md": [
     3,
     2,
     2,
@@ -1952,7 +1952,7 @@
     2,
     2
   ],
-  "src/interpretations/framework/possibilities.md": [
+  "src/observation/framework/possibilities.md": [
     3,
     2,
     5,
@@ -1965,13 +1965,13 @@
     3,
     2
   ],
-  "src/interpretations/framework/restart.md": [
+  "src/observation/framework/restart.md": [
     2,
     3,
     2,
     2
   ],
-  "src/interpretations/framework/structures.md": [
+  "src/observation/framework/structures.md": [
     3,
     4,
     2,
@@ -1981,162 +1981,162 @@
     2,
     3
   ],
-  "src/interpretations/framework/substances.md": [
+  "src/observation/framework/substances.md": [
     2,
     3
   ],
-  "src/interpretations/fundamentals/fear-triage.md": [
+  "src/observation/fundamentals/fear-triage.md": [
     2,
     2
   ],
-  "src/interpretations/fundamentals/gates.md": [
+  "src/observation/fundamentals/gates.md": [
     2,
     2,
     2,
     2
   ],
-  "src/interpretations/fundamentals/hard-limit.md": [
-    3,
-    2,
-    2
-  ],
-  "src/interpretations/fundamentals/harm.md": [
-    3,
-    3,
-    3,
-    2
-  ],
-  "src/interpretations/fundamentals/security.md": [
-    3,
+  "src/observation/fundamentals/hard-limit.md": [
     3,
     2,
     2
   ],
-  "src/interpretations/lore/naruto/arcs.md": [
-    2,
-    5,
-    5,
-    5
-  ],
-  "src/interpretations/lore/naruto/control-ladder.md": [
-    4,
-    2,
-    2,
-    5,
-    2,
-    2,
-    2,
-    2,
-    3,
-    4,
-    2
-  ],
-  "src/interpretations/lore/naruto/dick-economics.md": [
-    3,
-    3
-  ],
-  "src/interpretations/lore/naruto/infinite-loop.md": [
-    3
-  ],
-  "src/interpretations/lore/naruto/orchestrator.md": [
-    3,
-    3,
-    2
-  ],
-  "src/interpretations/lore/naruto/power-guns.md": [
-    3,
-    4
-  ],
-  "src/interpretations/lore/naruto/power.md": [
-    3,
-    5
-  ],
-  "src/interpretations/lore/naruto/readme.md": [
-    2,
-    2,
-    2,
-    3
-  ],
-  "src/interpretations/lore/naruto/thoughts.md": [
-    3,
-    3
-  ],
-  "src/interpretations/lore/naruto/truco-hierarchy.md": [
-    4,
-    4,
-    3
-  ],
-  "src/interpretations/lore/readme.md": [
-    2
-  ],
-  "src/interpretations/media/aquarium.md": [
-    3,
-    2
-  ],
-  "src/interpretations/media/behavior.md": [
-    3,
-    2,
-    2,
-    3,
-    3,
-    2
-  ],
-  "src/interpretations/media/cartel-economics.md": [
-    3,
-    2
-  ],
-  "src/interpretations/media/civilization-ladder.md": [
-    3,
-    4
-  ],
-  "src/interpretations/media/fiction-pairs.md": [
-    4
-  ],
-  "src/interpretations/media/live-stream.md": [
-    3,
-    3,
-    2
-  ],
-  "src/interpretations/media/mastery-axis.md": [
+  "src/observation/fundamentals/harm.md": [
     3,
     3,
     3,
     2
   ],
-  "src/interpretations/media/patterns.md": [
-    2,
-    2,
+  "src/observation/fundamentals/security.md": [
+    3,
     3,
     2,
+    2
+  ],
+  "src/observation/lore/naruto/arcs.md": [
     2,
-    2,
-    3,
     5,
     5,
     5
   ],
-  "src/interpretations/media/stages.md": [
+  "src/observation/lore/naruto/control-ladder.md": [
+    4,
+    2,
+    2,
+    5,
+    2,
+    2,
+    2,
+    2,
+    3,
     4,
     2
   ],
-  "src/interpretations/media/status-quo.md": [
+  "src/observation/lore/naruto/dick-economics.md": [
+    3,
+    3
+  ],
+  "src/observation/lore/naruto/infinite-loop.md": [
+    3
+  ],
+  "src/observation/lore/naruto/orchestrator.md": [
+    3,
+    3,
+    2
+  ],
+  "src/observation/lore/naruto/power-guns.md": [
+    3,
+    4
+  ],
+  "src/observation/lore/naruto/power.md": [
+    3,
+    5
+  ],
+  "src/observation/lore/naruto/readme.md": [
+    2,
+    2,
+    2,
+    3
+  ],
+  "src/observation/lore/naruto/thoughts.md": [
+    3,
+    3
+  ],
+  "src/observation/lore/naruto/truco-hierarchy.md": [
+    4,
+    4,
+    3
+  ],
+  "src/observation/lore/readme.md": [
+    2
+  ],
+  "src/observation/media/aquarium.md": [
+    3,
+    2
+  ],
+  "src/observation/media/behavior.md": [
+    3,
+    2,
+    2,
+    3,
+    3,
+    2
+  ],
+  "src/observation/media/cartel-economics.md": [
+    3,
+    2
+  ],
+  "src/observation/media/civilization-ladder.md": [
+    3,
+    4
+  ],
+  "src/observation/media/fiction-pairs.md": [
+    4
+  ],
+  "src/observation/media/live-stream.md": [
+    3,
+    3,
+    2
+  ],
+  "src/observation/media/mastery-axis.md": [
+    3,
+    3,
+    3,
+    2
+  ],
+  "src/observation/media/patterns.md": [
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    3,
+    5,
+    5,
+    5
+  ],
+  "src/observation/media/stages.md": [
+    4,
+    2
+  ],
+  "src/observation/media/status-quo.md": [
     2,
     2
   ],
-  "src/interpretations/media/trickster-archetype.md": [
+  "src/observation/media/trickster-archetype.md": [
     3
   ],
-  "src/interpretations/media/worlds.md": [
+  "src/observation/media/worlds.md": [
     2
   ],
-  "src/interpretations/perception/judgement.md": [
+  "src/observation/perception/judgement.md": [
     4,
     3,
     2,
     5,
     2
   ],
-  "src/interpretations/perception/masks.md": [
+  "src/observation/perception/masks.md": [
     3,
     3,
     3,
@@ -2144,14 +2144,17 @@
     2,
     4
   ],
-  "src/interpretations/perception/monitoring.md": [
+  "src/observation/perception/monitoring.md": [
     3,
     4
   ],
-  "src/interpretations/perception/prejudice.md": [
+  "src/observation/perception/prejudice.md": [
     3
   ],
-  "src/interpretations/perception/sentiment.md": [
+  "src/observation/perception/readme.md": [
+    2
+  ],
+  "src/observation/perception/sentiment.md": [
     4,
     3,
     3,
@@ -2160,13 +2163,13 @@
     2,
     2
   ],
-  "src/interpretations/readme.md": [
+  "src/observation/readme.md": [
     2
   ],
-  "src/interpretations/society/colors.md": [
+  "src/observation/society/colors.md": [
     3
   ],
-  "src/interpretations/society/cultures.md": [
+  "src/observation/society/cultures.md": [
     2,
     2,
     2,
@@ -2184,7 +2187,7 @@
     2,
     2
   ],
-  "src/interpretations/society/futures.md": [
+  "src/observation/society/futures.md": [
     3,
     3,
     4,
@@ -2197,7 +2200,7 @@
     3,
     3
   ],
-  "src/interpretations/society/society.md": [
+  "src/observation/society/society.md": [
     2,
     3,
     4,

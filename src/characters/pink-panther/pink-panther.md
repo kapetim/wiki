@@ -49,4 +49,4 @@ inspectors  who  can't  touch  his  dignity.
 
 ## 🔗 Cross-refs
 
-- the archetype → [trickster-archetype.md](../../interpretations/media/trickster-archetype.md) · his chaser → [the-inspector.md](the-inspector.md) · the live-action mirror → [clouseau.md](clouseau.md) · the cousins → [felix-the-cat](../../characters/felix-the-cat/felix-the-cat.md) · [woody-woodpecker](../../characters/woody-woodpecker/woody-woodpecker.md)
+- the archetype → [trickster-archetype.md](../../observation/media/trickster-archetype.md) · his chaser → [the-inspector.md](the-inspector.md) · the live-action mirror → [clouseau.md](clouseau.md) · the cousins → [felix-the-cat](../../characters/felix-the-cat/felix-the-cat.md) · [woody-woodpecker](../../characters/woody-woodpecker/woody-woodpecker.md)

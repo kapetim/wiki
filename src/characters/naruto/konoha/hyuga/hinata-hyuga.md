@@ -58,4 +58,4 @@ Trait-level: pale-eyed and soft — the shy heiress whose gentle face hides the 
 
 - [Hyūga clan](../../readme.md#-clans) — the clan · [neji-hyuga.md](neji-hyuga.md) · [hanabi-hyuga.md](hanabi-hyuga.md) · [hiashi-hyuga.md](hiashi-hyuga.md)
 - [himawari.md](himawari.md) · [9-naruto-uzumaki.md](../../jinchuriki/9-naruto-uzumaki.md) (husband) · team: [team-8.md](../../readme.md#-teams--mentors)
-- [characters.md](../../characters.md) § Team 8 · Fiona parallel · [odd-people.md](../../../../interpretations/lore/naruto/odd-people.md)
+- [characters.md](../../characters.md) § Team 8 · Fiona parallel · [odd-people.md](../../../../observation/lore/naruto/odd-people.md)

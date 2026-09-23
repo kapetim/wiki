@@ -54,6 +54,6 @@ Trait-level: the red-haired boy with the gourd and the raccoon eyes — menace t
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) · [characters.md](../characters.md) § antagonist ladder · [bijuu.md](bijuu.md)
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) · [characters.md](../characters.md) § antagonist ladder · [bijuu.md](bijuu.md)
 - [9-naruto-uzumaki.md](9-naruto-uzumaki.md) — the mirror that broke the loop
 - Siblings → [kankuro.md](../sand/kankuro.md) · [temari.md](../women/temari.md) · father → [rasa-kazekage.md](../sand/rasa-kazekage.md) · the life given for him → [lady-chiyo.md](../sand/lady-chiyo.md)

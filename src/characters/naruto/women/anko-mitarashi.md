@@ -62,5 +62,5 @@ Trait-level: the dark-clothed, snack-obsessed jonin — looks like a threat, rea
 
 ## 🔗 Cross-refs
 
-- [anko-server.md](../../../interpretations/lore/naruto/anko-server.md) · [characters.md](../characters.md) § axis · [odd-people.md](../../../interpretations/lore/naruto/odd-people.md)
+- [anko-server.md](../../../observation/lore/naruto/anko-server.md) · [characters.md](../characters.md) § axis · [odd-people.md](../../../observation/lore/naruto/odd-people.md)
 - Real-world employer → [../../real-world-jobs.md](../../real-world-jobs.md)

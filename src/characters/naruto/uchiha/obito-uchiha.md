@@ -63,5 +63,5 @@
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) · [sharingan.md](sharingan.md) — death reports
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) · [sharingan.md](sharingan.md) — death reports
 - [uchiha.md](../readme.md#-uchiha-clan) · [madara-uchiha.md](../uchiha/madara-uchiha.md) · [kakashi-hatake.md](../konoha/old-teachers/kakashi-hatake.md)

@@ -48,4 +48,4 @@
 
 ## 🔗 Cross-refs
 
-- Her master → [tsunade.md](../konoha/senju/tsunade.md) · the heir in skill → [sakura-haruno.md](sakura-haruno.md) · the Q read → [power.md](../../../interpretations/lore/naruto/power.md) § Q
+- Her master → [tsunade.md](../konoha/senju/tsunade.md) · the heir in skill → [sakura-haruno.md](sakura-haruno.md) · the Q read → [power.md](../../../observation/lore/naruto/power.md) § Q

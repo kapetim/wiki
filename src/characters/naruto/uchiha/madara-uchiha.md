@@ -64,7 +64,7 @@ Trait-level: founder-era menace — the long hair and armor of an age of giants;
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) · [sharingan.md](sharingan.md) — psycho ladder · [thoughts.md](../../../interpretations/lore/naruto/thoughts.md)
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) · [sharingan.md](sharingan.md) — psycho ladder · [thoughts.md](../../../observation/lore/naruto/thoughts.md)
 - [uchiha.md](../readme.md#-uchiha-clan) · [obito-uchiha.md](../uchiha/obito-uchiha.md) · [sasuke-uchiha.md](sasuke-uchiha.md)
 
 ## 📝 Note

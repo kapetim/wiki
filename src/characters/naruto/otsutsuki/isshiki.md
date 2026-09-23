@@ -50,4 +50,4 @@
 
 ## 🔗 Cross-refs
 
-- His vessel-mark → [kawaki.md](../konoha/children/kawaki.md) · the betrayer → [kaguya.md](kaguya.md) · the clan → [momoshiki.md](momoshiki.md) · the future thread → [arcs.md](../../../interpretations/lore/naruto/arcs.md)
+- His vessel-mark → [kawaki.md](../konoha/children/kawaki.md) · the betrayer → [kaguya.md](kaguya.md) · the clan → [momoshiki.md](momoshiki.md) · the future thread → [arcs.md](../../../observation/lore/naruto/arcs.md)

@@ -13,7 +13,7 @@ by  beings  the  fish  can't  fully  comprehend.
 | MLI staff | California | The institute's keepers — they mean well and know nothing of the souls in the tanks |
 <!-- end table -->
 
-**The read:** to the fish they are weather — incomprehensible, powerful, occasionally kind. The bubble's walls are theirs, and [the exit is the exception, not the rule — aquarium read](../../interpretations/media/aquarium.md).
+**The read:** to the fish they are weather — incomprehensible, powerful, occasionally kind. The bubble's walls are theirs, and [the exit is the exception, not the rule — aquarium read](../../observation/media/aquarium.md).
 
 ## 🔗 Cross-refs
 

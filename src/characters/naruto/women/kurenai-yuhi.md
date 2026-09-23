@@ -62,5 +62,5 @@ Trait-level: reads as appearance-over-power — the soft face that hides a truth
 
 ## 🔗 Cross-refs
 
-- [characters.md](../characters.md) § masked Uchiha · [orchestrator.md](../../../interpretations/lore/naruto/orchestrator.md) · [infinite-loop.md](../../../interpretations/lore/naruto/infinite-loop.md)
+- [characters.md](../characters.md) § masked Uchiha · [orchestrator.md](../../../observation/lore/naruto/orchestrator.md) · [infinite-loop.md](../../../observation/lore/naruto/infinite-loop.md)
 - Mirai connection: [shisui-uchiha.md](../uchiha/shisui-uchiha.md) · team: [team-8.md](../readme.md#-teams--mentors) · Asuma: [asuma-sarutobi.md](../konoha/sarutobi/asuma-sarutobi.md) · their daughter → [mirai-sarutobi.md](../konoha/sarutobi/mirai-sarutobi.md)

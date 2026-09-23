@@ -48,4 +48,4 @@
 
 ## 🔗 Cross-refs
 
-- Master and heart → [zabuza.md](zabuza.md) · the arc → [arcs.md](../../../interpretations/lore/naruto/arcs.md) § Land of Waves
+- Master and heart → [zabuza.md](zabuza.md) · the arc → [arcs.md](../../../observation/lore/naruto/arcs.md) § Land of Waves

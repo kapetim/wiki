@@ -24,4 +24,4 @@ Contentful but not deep enough to stand alone (cut rule):
 
 ## 🔗 Theory
 
-- The explorer/questioner read: [media/aquarium.md](../../interpretations/media/aquarium.md)
+- The explorer/questioner read: [media/aquarium.md](../../observation/media/aquarium.md)

@@ -48,4 +48,4 @@
 
 ## 🔗 Cross-refs
 
-- The archetype hub → [trickster-archetype.md](../../interpretations/media/trickster-archetype.md) · his bag thieves → [the-rogues.md](the-rogues.md)
+- The archetype hub → [trickster-archetype.md](../../observation/media/trickster-archetype.md) · his bag thieves → [the-rogues.md](the-rogues.md)

@@ -48,5 +48,5 @@
 
 ## 🔗 Cross-refs
 
-- [sharingan.md](../uchiha/sharingan.md) § death reports · [arcs.md](../../../interpretations/lore/naruto/arcs.md) § Kazekage rescue
+- [sharingan.md](../uchiha/sharingan.md) § death reports · [arcs.md](../../../observation/lore/naruto/arcs.md) § Kazekage rescue
 - The rival who read his art → [sasuke-uchiha.md](../uchiha/sasuke-uchiha.md) · the org → [pain.md](../rain/nagato.md)

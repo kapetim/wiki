@@ -62,7 +62,7 @@
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) — his truth · sabotage read
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) — his truth · sabotage read
 - [sharingan.md](sharingan.md) · [uchiha.md](../readme.md#-uchiha-clan) · [sasuke-uchiha.md](../uchiha/sasuke-uchiha.md) · [shisui-uchiha.md](../uchiha/shisui-uchiha.md)
 
 ## ❓ Open thread

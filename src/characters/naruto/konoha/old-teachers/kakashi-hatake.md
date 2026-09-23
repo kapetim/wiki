@@ -60,5 +60,5 @@
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../../interpretations/lore/naruto/readme.md) · [characters.md](../../characters.md) § Team 7 · [sharingan.md](../../uchiha/sharingan.md)
+- [naruto/readme.md](../../../../observation/lore/naruto/readme.md) · [characters.md](../../characters.md) § Team 7 · [sharingan.md](../../uchiha/sharingan.md)
 - [obito-uchiha.md](../../uchiha/obito-uchiha.md) · [9-naruto-uzumaki.md](../../jinchuriki/9-naruto-uzumaki.md) · [sasuke-uchiha.md](../../uchiha/sasuke-uchiha.md)

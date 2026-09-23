@@ -14,7 +14,7 @@ Their  leader  [gill.md](gill.md)  has  his  own  file;  the  outside-the-glass 
 | Deb | damselfish | Talks to her reflection "Flo" — the twin she invented |
 <!-- end table -->
 
-**The bubble read:** the tank is the [managed bubble](../../interpretations/media/aquarium.md) — safer, bounded, manager outside comprehension; the escape is the [narrative exception — aquarium read](../../interpretations/media/aquarium.md).
+**The bubble read:** the tank is the [managed bubble](../../observation/media/aquarium.md) — safer, bounded, manager outside comprehension; the escape is the [narrative exception — aquarium read](../../observation/media/aquarium.md).
 
 ## 🔗 Cross-refs
 

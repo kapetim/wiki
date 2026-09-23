@@ -48,4 +48,4 @@
 
 ## 🔗 Cross-refs
 
-- The leaf's intelligence web → [yamato.md](yamato.md) · the exam he ran → [arcs.md](../../../../interpretations/lore/naruto/arcs.md) · the proctor's student → [shino-aburame.md](../new-teachers/shino-aburame.md)
+- The leaf's intelligence web → [yamato.md](yamato.md) · the exam he ran → [arcs.md](../../../../observation/lore/naruto/arcs.md) · the proctor's student → [shino-aburame.md](../new-teachers/shino-aburame.md)

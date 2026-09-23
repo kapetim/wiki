@@ -66,7 +66,7 @@ Trait-level: the cold handsome prodigy — looks that broadcast *stay away*, the
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) · [sharingan.md](sharingan.md) — EMS — his ending
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) · [sharingan.md](sharingan.md) — EMS — his ending
 - [uchiha.md](../readme.md#-uchiha-clan) · [itachi-uchiha.md](../uchiha/itachi-uchiha.md) · [9-naruto-uzumaki.md](../jinchuriki/9-naruto-uzumaki.md) · [sarada-uchiha.md](sarada-uchiha.md)
 
 ## ❓ Open thread

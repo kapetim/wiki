@@ -109,7 +109,7 @@ Any guaranteed income — hunger benefit, UBI, pension — **is a trust fund**. 
 1. **Who holds the principal `P`** and can they lose it (war, default, theft)?
 2. **What is it invested in** — and does the "safe" yield beat inflation after tax?
 3. **Who audits the wheel** so the top is never eaten by managers? See the
-   [control pole](../../interpretations/society/futures.md#-control-pole-who-steers-the).
+   [control pole](../../observation/society/futures.md#-control-pole-who-steers-the).
 4. **Who decides the stipend** when the wheel is bigger than one life — and can a future government *stop* feeding it?
 
 The money is the easy part. The **governance of the wheel** is the unsolved problem.

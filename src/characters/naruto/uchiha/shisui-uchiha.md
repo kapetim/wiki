@@ -2,7 +2,7 @@
 
 **What this is:** personality + life dossier — Shisui Uchiha from Naruto (anime). The quiet Uchiha who edits wills — and possibly never died at all.
 
-Sparse by design; deep theory stays in [lore/naruto/](../../../interpretations/lore/naruto/readme.md) — links at the bottom.
+Sparse by design; deep theory stays in [lore/naruto/](../../../observation/lore/naruto/readme.md) — links at the bottom.
 
 ## 📊 Identity
 
@@ -13,7 +13,7 @@ Sparse by design; deep theory stays in [lore/naruto/](../../../interpretations/l
 | Role / line | Prodigy · peace broker · hidden card — **Tobirama → Kagami → Shisui → Itachi** (village-first) |
 | Nickname | "Shisui of the Body Flicker" |
 | Ability / rank | Body Flicker · **Kotoamatsukami** — edit a target's will · **#3** on the persuasion ladder |
-| Archetype | The gas station — middle of hell and heaven ([power-guns.md](../../../interpretations/lore/naruto/power-guns.md)) · **4♣** hidden top ([truco-hierarchy.md](../../../interpretations/lore/naruto/truco-hierarchy.md)) |
+| Archetype | The gas station — middle of hell and heaven ([power-guns.md](../../../observation/lore/naruto/power-guns.md)) · **4♣** hidden top ([truco-hierarchy.md](../../../observation/lore/naruto/truco-hierarchy.md)) |
 | Lore | sharingan (links in Cross-refs) |
 <!-- end table -->
 
@@ -81,11 +81,11 @@ Voice and tells merged:
 
 ## 🔗 Cross-refs
 
-- [naruto/readme.md](../../../interpretations/lore/naruto/readme.md) — series hub
+- [naruto/readme.md](../../../observation/lore/naruto/readme.md) — series hub
 - [characters.md](../characters.md) — Tobirama line, masked-Uchiha read, Kurenai ≈ sister
 - [sharingan.md](sharingan.md) — Mangekyō ladder, temperament fork, death reports
 - Sync partners → [yahiko.md](../rain/yahiko.md) · [kushina-uzumaki.md](../women/kushina-uzumaki.md) — the three-deaths pattern
-- [truco-hierarchy.md](../../../interpretations/lore/naruto/truco-hierarchy.md) — **4♣** hidden top · [power-guns.md](../../../interpretations/lore/naruto/power-guns.md) — the gas station
+- [truco-hierarchy.md](../../../observation/lore/naruto/truco-hierarchy.md) — **4♣** hidden top · [power-guns.md](../../../observation/lore/naruto/power-guns.md) — the gas station
 
 ## ❓ Open thread
 
