@@ -27,6 +27,7 @@ compress to role + `→ sheet` pointers once a sheet exists; theory that *refere
 | Universe | Home | Contents |
 | --- | --- | --- |
 | Naruto | [naruto/readme.md](naruto/readme.md) | Konoha (Leaf) · Uchiha · Jinchūriki · villages · orgs |
+| Nintendo | [nintendo/readme.md](nintendo/readme.md) | Mario — Wario (anti-Mario) · franchise hub |
 | Harry Potter | [harry-potter/readme.md](harry-potter/readme.md) | Hogwarts (all four houses · staff) · Beauxbatons · Durmstrang · Death Eaters · creatures · Dursleys |
 | Yu-Gi-Oh! | [yugioh/readme.md](yugioh/readme.md) | Millennium holders · main cast · Duelist Kingdom & Battle City field |
 | Finding Nemo · Dory | [finding/readme.md](finding/readme.md) | The ocean world — Marlin · Nemo · Dory · Hank · Gill · Crush · Nigel + tank · sharks · humans |

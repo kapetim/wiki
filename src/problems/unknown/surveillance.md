@@ -18,6 +18,8 @@ At best the watching is run as a **Big Brother over persons of interest** — a 
 
 - Put **choices together** and watch **how they react**.
 - Once **bored**, **remove them one by one** — and justify the loop with a **prize for whoever survived longest**.
+- **Wario as the micro-game survivor** — the contestant who keeps **swapping quick games with no meaning** and **jumping to the solution**; the elimination loop *is* WarioWare — play, survive,
+  get removed when the show gets bored.
 
 The prize is the **carrot that keeps the wheel spinning**; the elimination is the **entertainment**.
 
