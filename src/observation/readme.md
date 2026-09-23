@@ -8,7 +8,6 @@ signal, to be **proved or dropped later** ([perception/prejudice.md](perception/
 <!-- begin table -->
 | Folder | What it holds |
 | --- | --- |
-| `achievements/` | Goals, budgets, obsolete dreams, and returns. |
 | `framework/` | The big engines — born, play, balance, structures, restart. |
 | `fundamentals/` | Hard limits, gates, harm, and security. |
 | `lore/` | Story reads — the naruto layer. |

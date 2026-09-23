@@ -1,7 +1,7 @@
 # 🚪 Gates — rooms, flags, and endless stairs
 
 **What this is:** a game-stage read on **which rooms in life actually work for you** — welcomed vs forbidden doors, hidden prerequisites (**flags**), and the trap of **endless stairs** (effort that
-feels like forward motion). The wisdom: **spend most days in rooms that work.** Pairs with [returns.md](../achievements/returns.md) (effort allocation) and [harm.md](./harm.md) (the loop).
+feels like forward motion). The wisdom: **spend most days in rooms that work.** Pairs with [returns.md](../../achievements/returns.md) (effort allocation) and [harm.md](./harm.md) (the loop).
 **Metaphor only.**
 
 ---
@@ -63,7 +63,7 @@ Many "impossible" rooms in life are that simple once the right prerequisite exis
 2. If you must engage: check for a real trick; if none, **main quest** (build flags) or **welcomed queue**.
 3. **Infinite climb** only when nothing better to do — boredom burn, not heroism.
 
-**Where does the effort best go?** — the same principle drives [returns.md § allocation](../achievements/returns.md#-generalist-vs-specialist-allocation): put hours where they pay, not where they only
+**Where does the effort best go?** — the same principle drives [returns.md § allocation](../../achievements/returns.md#-generalist-vs-specialist-allocation): put hours where they pay, not where they only
 feel heroic.
 
 ---
@@ -88,7 +88,7 @@ feel heroic.
 <!-- begin table -->
 | Topic | Hub |
 | --- | --- |
-| Effort allocation (where 80% pays) | [returns.md](../achievements/returns.md) |
+| Effort allocation (where 80% pays) | [returns.md](../../achievements/returns.md) |
 | The flag/stairs short-hand on the HUD | [hud § Mario 64](../perception/hud.md#-short-handle--mario-64-stairs) |
 | Stop-or-act loop | [harm.md](./harm.md) |
 | Which fears to spend on | [fear-triage.md](./fear-triage.md) |
