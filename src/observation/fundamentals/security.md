@@ -3,7 +3,7 @@
 **What this is:** layered defense is worth building, but **every layer has a break** — perfect health can be attacked, perfect storage can be coerced open, infinite backups die to a gun to the head.
 The honest stance is **you can always lose**: margins reduce the tail, they don't delete it.
 
-Plus the reminder that the world is **not controlled** — police and guns exist because harm is real ([enforcement paradox](../perception/monitoring.md#-enforcement-paradox)). Pairs with
+Plus the reminder that the world is **not controlled** — police and guns exist because harm is real ([enforcement paradox](../monitoring.md#-enforcement-paradox)). Pairs with
 [hard-limit.md](./hard-limit.md) (prevention-only levers) and [fear-triage.md](./fear-triage.md) (don't rehearse the unpreventable). **Metaphor only.**
 
 ---
@@ -47,7 +47,7 @@ No technical key survives **physical control** of the person holding it.
 - Backups don't help when someone **points a gun and makes you share the password**.
 - Biometrics are worse: your **face is the last key and it's always on you** — it unlocks the phone, which opens the online stuff, which leaks the location.
 - Worst case: you're sedated in a bed, and **there's no execution from your side**. People can kill, sedate indefinitely, and torture as long as you survive.
-- The hard target is the **person**, not the object — kidnapping the owner beats stealing the card ([monitoring § the person, not the object](../perception/monitoring.md#-enforcement-paradox)).
+- The hard target is the **person**, not the object — kidnapping the owner beats stealing the card ([monitoring § the person, not the object](../monitoring.md#-enforcement-paradox)).
 
 ---
 
@@ -124,6 +124,6 @@ do anything, including to you. There's no controlled middle ground.
 | Prevention-only levers | [hard-limit.md](./hard-limit.md) |
 | Stop-or-act loop | [harm.md](./harm.md) |
 | When fear is worth thinking about | [fear-triage.md](./fear-triage.md) |
-| Why crime happens anyway | [monitoring § enforcement paradox](../perception/monitoring.md#-enforcement-paradox) |
+| Why crime happens anyway | [monitoring § enforcement paradox](../monitoring.md#-enforcement-paradox) |
 | Golden rule under threat | golden-rule.md |
 <!-- end table -->

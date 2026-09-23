@@ -41,6 +41,6 @@ When **money**, **work**, **geography**, **dream**, or **wheel** changes **next 
 
 ## 🎮 Short handle — Mario 64 stairs
 
-Feature flag off → endless climb. Main quest until flag or new path. [gates § Mario 64](../fundamentals/gates.md#-mario-64--bowsers-endless-stairs).
+Feature flag off → endless climb. Main quest until flag or new path. [gates § Mario 64](fundamentals/gates.md#-mario-64--bowsers-endless-stairs).
 
 ## 🧭 How this connects

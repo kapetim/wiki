@@ -15,7 +15,7 @@
 | **Another person / forced** | They chose harm | Highest — evidence + boundaries |
 <!-- end table -->
 
-The who changes the *response*, not always the *damage*. See [judgement.md](../perception/judgement.md) for ranking the damage itself.
+The who changes the *response*, not always the *damage*. See [judgement.md](../judgement.md) for ranking the damage itself.
 
 ---
 
@@ -25,7 +25,7 @@ The who changes the *response*, not always the *damage*. See [judgement.md](../p
 | Hit | Meaning | Reference |
 | --- | --- | --- |
 | **Run ended** | The hard limit — no cure, prevention only | [hard-limit.md](./hard-limit.md) |
-| **Body hurt** | Pain, disability, chronic — tier by duration | [judgement § duration](../perception/judgement.md#-duration--cure-maintenance-or-forever) |
+| **Body hurt** | Pain, disability, chronic — tier by duration | [judgement § duration](../judgement.md#-duration--cure-maintenance-or-forever) |
 | **Mind hurt** | Trauma, shame, loops — often partial cure | [fear-triage.md](./fear-triage.md) |
 <!-- end table -->
 
@@ -62,7 +62,7 @@ flowchart LR
 <!-- begin table -->
 | Topic | Hub |
 | --- | --- |
-| Ranking the damage (A–E) | [judgement.md](../perception/judgement.md) |
+| Ranking the damage (A–E) | [judgement.md](../judgement.md) |
 | What the fear actually is | [fear-triage.md](./fear-triage.md) |
 | When the board breaks | [play § board breaks](../framework/play.md#-when-the-board-breaks) |
 <!-- end table -->

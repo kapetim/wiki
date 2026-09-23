@@ -70,7 +70,7 @@ Understanding **who you are**, **which things you like**, and **what makes you h
 
 > **Diet for health, time allocation for happiness.**
 
-Cross-refs: [fear-triage § opposite poles](../fundamentals/fear-triage.md#%EF%B8%8F-understand-opposites-and-take-notes) (know your poles) · [hud.md](../perception/hud.md) (self-sheet) ·
+Cross-refs: [fear-triage § opposite poles](../fundamentals/fear-triage.md#%EF%B8%8F-understand-opposites-and-take-notes) (know your poles) · [hud.md](../hud.md) (self-sheet) ·
 [play.md § routine](./play.md#-life-dream-and-rat-wheel).
 
 ## 🧭 How this connects

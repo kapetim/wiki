@@ -38,7 +38,7 @@ act draws the same charge**, whoever commits it.
 
 To establish a fair game: **state the rules**, **staff an independent referee**, **confirm results**, and **publish
 the price**. Each step is also its own failure mode — an unstated rule, a hired referee, an unconfirmed result, a
-secret price ([balance.md](../observation/framework/balance.md), [monitoring.md](../observation/perception/monitoring.md)).
+secret price ([balance.md](../observation/framework/balance.md), [monitoring.md](../observation/monitoring.md)).
 
 ## ❓ Open questions
 

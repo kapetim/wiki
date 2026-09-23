@@ -3,7 +3,7 @@
 **What this is:** the premise that everyone is a sim streaming life 24/7 — and what that does to security, privacy, and meaning. **Foundation:** everyone is a monitored sim, and who
 you become is shaped by those who raise you (same choices, similar lines of thought) — which is why power matches the person, and why impersonation is detectable.
 
-Pairs with [balance.md](../framework/balance.md) (the watcher is the tuner) and [aquarium.md](../media/aquarium.md) (the managed bubble). **Metaphor only.**
+Pairs with [balance.md](framework/balance.md) (the watcher is the tuner) and [aquarium.md](media/aquarium.md) (the managed bubble). **Metaphor only.**
 
 **Closest game reads:** The Sims · The Truman Show · The Matrix.
 
@@ -59,7 +59,7 @@ Privacy is only relevant when the individual feels like it. Otherwise, you lose 
 
 ## 🌱 What survives (included)
 
-Still, regardless of being a streamer, you pretty much have a **normal life** — needs, routine, work, relationships ([play.md](../framework/play.md)). Just some things aren't applicable. Privacy
+Still, regardless of being a streamer, you pretty much have a **normal life** — needs, routine, work, relationships ([play.md](framework/play.md)). Just some things aren't applicable. Privacy
 re-enters only as a **felt** toggle — a subjective switch, not a structural guarantee.
 
 ---
@@ -80,21 +80,21 @@ The creator can attach a superpower to an object. The **Millennium Eye** is the 
 artifact — the owner who watches made monitoring itself a power.
 
 Same family: the **Millennium Ring** as a compass (mapping/nudging people into place) and the **Millennium Puzzle** as a DJ of personalities (persona-swapping). See
-[balance.md § item examples](../framework/balance.md#-item-examples).
+[balance.md § item examples](framework/balance.md#-item-examples).
 
 ---
 
 ## 🎛️ Rod override
 
 The OS/terminal metaphor explains overriding commands to other people: **all processes run in the same OS, so all of them can be killed or updated.** Use a terminal to force a signal. The
-**Millennium Rod** (Marik) is the dramatized version — mind control, forced obedience. See [balance.md § referee](../framework/balance.md#%EF%B8%8F-referee-the-secure-environment).
+**Millennium Rod** (Marik) is the dramatized version — mind control, forced obedience. See [balance.md § referee](framework/balance.md#%EF%B8%8F-referee-the-secure-environment).
 
 ---
 
 ## 🏢 Kaiba methodology — protection via lack of privacy
 
 The methodology of protection is unfortunately the **lack of privacy**: the referee protects the championship by making everything visible — who owns which card, who uses it, where it was last seen.
-Monitoring as the cost of a fair game ([fair-game.md](../../justice/fair-game.md)). The watcher is the tuner ([balance.md](../framework/balance.md)).
+Monitoring as the cost of a fair game ([fair-game.md](../justice/fair-game.md)). The watcher is the tuner ([balance.md](framework/balance.md)).
 
 ---
 
@@ -133,7 +133,7 @@ The worst case is being **Truman**: everyone watches you, you watch no one. But 
 
 Truman himself is among those who **suffer the most** — still, he's **not a victim of physical torture**. Could have been way worse.
 
-**The plumbing of this premise** — camera → server → client, and a rare streamer being watched by family instead of a director — is the [live-stream read](../media/live-stream.md).
+**The plumbing of this premise** — camera → server → client, and a rare streamer being watched by family instead of a director — is the [live-stream read](media/live-stream.md).
 
 **Black Mirror lanes:** *Nosedive* is the score version — reputation as a visible currency, everyone watching everyone's number; *Fifteen Million Merits* is the grind that earns the score in the first place.
 
@@ -246,9 +246,9 @@ Kind of confused about cost: people can monitor a person **buying and consuming 
 ## 🎨 Color tiers — paired axes
 
 **Who knows what about the stream.** The always-streaming world read as **paired axes** — each pair is a line with a **−∞ pole**, a **middle** (the healthy balance), and a **+∞ pole**. Same grammar as
-[play § personal poles](../framework/play.md#-personal-poles-middles) and the paired opposites in [masks.md](./masks.md).
+[play § personal poles](framework/play.md#-personal-poles-middles) and the paired opposites in [masks.md](./masks.md).
 
-Mirrors [structures § hell vs heaven](../framework/structures.md#%EF%B8%8F-hell-vs-heaven--two-teams-not-afterlife) and [restart § operator balance](../framework/restart.md#%EF%B8%8F-operator-balance--life-game-owner).
+Mirrors [structures § hell vs heaven](framework/structures.md#%EF%B8%8F-hell-vs-heaven--two-teams-not-afterlife) and [restart § operator balance](framework/restart.md#%EF%B8%8F-operator-balance--life-game-owner).
 **Metaphor only — no claim about real people's knowledge.**
 
 <!-- begin table -->
@@ -276,7 +276,7 @@ perfect world needing nothing.
 
 - **Green's shortcut** — "why not just shoot the person?" If it were about assassination there'd be no job interview — go to the office, collect the payment directly from the rich interviewer. The
   ceremony exists because the gun path has a cost ([Truman's artificial institutions collapse](#-trumans-artificial-institutions-collapse)). The unfair competition, or fair violence when possible.
-- **Purple's engine** — [society § vengeance wheel](../society/society.md#%EF%B8%8F-vengeance-wheel--group-conflict-engine) · [structures § rules/judge](../framework/structures.md#-rules-fair-vs-unfair-judge).
+- **Purple's engine** — [society § vengeance wheel](society/society.md#%EF%B8%8F-vengeance-wheel--group-conflict-engine) · [structures § rules/judge](framework/structures.md#-rules-fair-vs-unfair-judge).
 
 ### 🎯 Purpose — pink gives the what, yellow the why
 
@@ -324,7 +324,7 @@ flowchart LR
 ## 🤖 Suffering at scale — bot pain
 
 **What this is:** the moral-scale question of the sim premise — at what **complexity** does a simulated player genuinely suffer, and why the creator never feels it. Pairs with
-[structures § species layer](../framework/structures.md#-species-layer-humans-on-top) (zooming out) — this is the reverse, zooming **in**.
+[structures § species layer](framework/structures.md#-species-layer-humans-on-top) (zooming out) — this is the reverse, zooming **in**.
 
 - **Bot-to-bot is all we have** — interaction is limited to sims. The creator doesn't comprehend what pain is within a bot player.
 - **Complexity threshold** — start a Sims container and there's no sentiment over the video-game player. But a game complex enough — GTA with five senses and a mental
@@ -402,9 +402,9 @@ you take in-sim happens outside too**. The body sits in the **chair**; the simul
 - **Sex is the dark mirror of the chair** — have sex inside the Matrix and someone is probably **raping you outside
   through the chair**; the in-sim pleasure has a real act behind it.
 - **Death is the same** — dying in the Matrix means the **body outside dies** (unplugged, not respawned).
-- The tank/pod read: [worlds.md](../media/worlds.md) (instances) · [aquarium.md](../media/aquarium.md) (the bubble).
+- The tank/pod read: [worlds.md](media/worlds.md) (instances) · [aquarium.md](media/aquarium.md) (the bubble).
 
 ## 🧭 How this connects
 
-- [problems/unknown/surveillance.md](../../problems/unknown/surveillance.md) — the deletable log, read as **monitoring of
+- [problems/unknown/surveillance.md](../problems/unknown/surveillance.md) — the deletable log, read as **monitoring of
   thoughts** (Big Brother, the **Pokémon-daycare** loop, life as **The Sims**, escape only via death).

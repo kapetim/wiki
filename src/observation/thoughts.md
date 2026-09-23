@@ -49,7 +49,7 @@ it.
 - **The flip side — surveillance is a known crime:** monitoring someone **at home and streaming it to everyone** *is* a crime — you invaded their privacy and shared it widely, **hacker-level**;
   depending on how it spread, it is **psychological damage**.
 
-Related: [problems/unknown/online.md](../../problems/unknown/online.md) · [problems/unknown/surveillance.md](../../problems/unknown/surveillance.md).
+Related: [problems/unknown/online.md](../problems/unknown/online.md) · [problems/unknown/surveillance.md](../problems/unknown/surveillance.md).
 
 ## 💾 Evidence and the data-on-disk problem
 

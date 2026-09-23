@@ -2,7 +2,7 @@
 
 **What this is:** the practical rule for fear and rumination —
 **understand the things you fear the most and avoid those happening; the rest are less relevant since you can probably handle them with ease.** Plus the **"is further thinking useful?"** template for
-any worry, the boot essence for acute spin-up, the **"mood ≠ forecast"** stance, and the opposite-pole note. Pairs with [harm.md](./harm.md) (the loop) and [monitoring.md](../perception/monitoring.md)
+any worry, the boot essence for acute spin-up, the **"mood ≠ forecast"** stance, and the opposite-pole note. Pairs with [harm.md](./harm.md) (the loop) and [monitoring.md](../monitoring.md)
 (paranoia). **Metaphor only.**
 
 ---
@@ -88,8 +88,8 @@ The method that replaced the old trait rankings: every concept has a **pole**, a
 <!-- begin table -->
 | Topic | Hub |
 | --- | --- |
-| Cure tiers (what's fixable) | [judgement § duration](../perception/judgement.md#-duration--cure-maintenance-or-forever) |
-| Paranoia / monitored fears | [monitoring.md](../perception/monitoring.md) |
+| Cure tiers (what's fixable) | [judgement § duration](../judgement.md#-duration--cure-maintenance-or-forever) |
+| Paranoia / monitored fears | [monitoring.md](../monitoring.md) |
 | The stop-or-act loop | [harm.md](./harm.md) |
 | One outward step | [play § one outward step](../framework/play.md#-one-outward-step-after-spin-down) |
 | Which rooms to spend time in | [gates.md](./gates.md) |

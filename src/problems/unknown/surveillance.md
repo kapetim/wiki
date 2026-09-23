@@ -39,5 +39,5 @@ Big Brother** — after that they are monitored **like Truman** while interactin
 
 - [problems index](../readme.md)
 - [corruption.md](corruption.md)
-- [perception/monitoring.md](../../observation/perception/monitoring.md) — the always-streaming sim world
-- [perception/thoughts.md](../../observation/perception/thoughts.md) — thoughts, unchecked
+- [monitoring.md](../../observation/monitoring.md) — the always-streaming sim world
+- [thoughts.md](../../observation/thoughts.md) — thoughts, unchecked

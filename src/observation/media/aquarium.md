@@ -6,7 +6,7 @@ Fish in a tank ≈ human in a set. The manager sits outside full comprehension �
 
 Private draft; seed issue #49. Per-film beats → member series `arcs.md`. Compact frames → patterns § civilization · aquarium.
 
-**Philosophy read:** [Masks § paired opposites](./../perception/masks.md#-paired-opposites-same-trade-different-skin) · examples hub
+**Philosophy read:** [Masks § paired opposites](./../masks.md#-paired-opposites-same-trade-different-skin) · examples hub
 
 ## 🎬 Member series
 
@@ -45,7 +45,7 @@ managed so each individual runs a scripted experience.
 
 Disney stacks coincidences (cars jumping roads, fish between tanks). **Ignore stunt logistics** — core is: alone can succeed, help matters, exit is rare.
 
-**Surveillance lane:** the "who's watching" side of the bubble lives in [perception/monitoring.md](../perception/monitoring.md) — live streamer vs Truman, and Truman's artificial institutions.
+**Surveillance lane:** the "who's watching" side of the bubble lives in [monitoring.md](../monitoring.md) — live streamer vs Truman, and Truman's artificial institutions.
 
 **Black  Mirror  lanes:**  the  anthology's  tanks-within-the-tank  —  USS  Callister  =  an  uploaded  tank  inside  a  game  ·  White  Bear  =  a  crowd-managed  punishment  cage  ·  Nosedive  =
 the  score-managed  fish  (reputation  as  the  water).

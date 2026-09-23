@@ -1,7 +1,7 @@
 # 📡 Live stream — the sim's streaming stack
 
 **What this is:** how any "device" or "feed" inside the sim works **mechanically** — a streaming stack: **camera → server → client**. In a video game you can code anything, so an "impossible" detail
-is just plumbing, not magic. Worked example: Shmi watching the pod race (Star Wars: Episode 1). Pairs with [monitoring.md](../perception/monitoring.md) (the *premise*: everyone streams) and
+is just plumbing, not magic. Worked example: Shmi watching the pod race (Star Wars: Episode 1). Pairs with [monitoring.md](../monitoring.md) (the *premise*: everyone streams) and
 [worlds.md](./worlds.md) (bytes on disk). **Metaphor only.**
 
 ---
@@ -56,7 +56,7 @@ The same plumbing carries **opposite meanings**:
 | Read | Who watches | Meaning |
 | --- | --- | --- |
 | **Connection** (this file) | A mother watching her son | Wholesome — family feed |
-| **Surveillance** ([monitoring.md](../perception/monitoring.md)) | Everyone / Big Brother watching Truman | Hell-world — no money, no privacy |
+| **Surveillance** ([monitoring.md](../monitoring.md)) | Everyone / Big Brother watching Truman | Hell-world — no money, no privacy |
 <!-- end table -->
 
 Anakin's case is **Truman inverted**: the streamer is *rare* and the viewer is *family* — not a director profiting from a monitored life. Same camera, same server, same client; the meaning comes from
@@ -71,7 +71,7 @@ Anakin's case is **Truman inverted**: the streamer is *rare* and the viewer is *
 <!-- begin table -->
 | Topic | Hub |
 | --- | --- |
-| The premise that everyone streams | [monitoring § total-stream](../perception/monitoring.md#-total-stream-premise) |
+| The premise that everyone streams | [monitoring § total-stream](../monitoring.md#-total-stream-premise) |
 | Life as bytes on a disk | [worlds § running game](./worlds.md#-life-as-a-running-game--bytes-on-a-disk) |
 | The managed bubble watching its fish | [aquarium.md](./aquarium.md) |
 | Stage transitions (loading the next feed) | [stages.md](./stages.md) |

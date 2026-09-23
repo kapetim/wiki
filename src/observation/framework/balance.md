@@ -1,7 +1,7 @@
 # ⚖️ Balance — the designer's tuning loop
 
 **What this is:** how a game-like world stays **fair enough to matter** — powers attached to objects or persons, why stacking power unbalances the system, and the referee layer that keeps the frame
-from collapsing. Pairs with [play.md](./play.md) (daily execution), [structures.md](./structures.md) (hell/heaven teams, rules + judge), and [monitoring.md](../perception/monitoring.md) (the watcher
+from collapsing. Pairs with [play.md](./play.md) (daily execution), [structures.md](./structures.md) (hell/heaven teams, rules + judge), and [monitoring.md](../monitoring.md) (the watcher
 is the tuner). **Metaphor only.**
 
 **Closest game reads:** Yu-Gi-Oh! (items, monopolies, Kaiba as referee) · Naruto (person-bound kekkei genkai) · League of Legends (meta nerf/buff loop) · The Sims (the owner who tunes).
@@ -61,7 +61,7 @@ The game aims for **as many distinct powers and players as possible** — you ca
 
 ## 🎭 Items as mask
 
-The object **dramatizes holder traits** — the anime literalizes a mask into magic so uneven capacity does not need awkward dialogue. See [masks.md](../perception/masks.md).
+The object **dramatizes holder traits** — the anime literalizes a mask into magic so uneven capacity does not need awkward dialogue. See [masks.md](../masks.md).
 
 <!-- begin table -->
 | Item | Trait it dramatizes |
@@ -115,7 +115,7 @@ Spread distinct powers across players rather than stacking them in one individua
 <!-- begin table -->
 | Item | Person | Read |
 | --- | --- | --- |
-| **Eye** | Pegasus | Monitor — thoughts and eyesight (see [monitoring.md](../perception/monitoring.md)) |
+| **Eye** | Pegasus | Monitor — thoughts and eyesight (see [monitoring.md](../monitoring.md)) |
 | **Rod** | Marik | Override — command control, terminal force signal |
 | **Puzzle** | Yugi | **DJ of personalities** — swaps Atem selves like mixing tracks |
 | **Ring** | Bakura | **Compass** — mapping, nudging people into position |
@@ -263,7 +263,7 @@ problem.
 ## 🗣️ Politics at cost of privacy
 
 One option when attention rises is to be **politic** — at the cost of privacy. A barrel with some holes and just a few band-aids: there is always some hole open that someone else may have worked
-harder to protect better. Related: [monitoring.md](../perception/monitoring.md), [masks.md](../perception/masks.md).
+harder to protect better. Related: [monitoring.md](../monitoring.md), [masks.md](../masks.md).
 
 **Localized fame** — high score attracts attention, but the champion can keep fame in the friend circle (Yugi) rather than mass celebrity — the politic option in practice.
 
@@ -280,7 +280,7 @@ harder to protect better. Related: [monitoring.md](../perception/monitoring.md),
 
 ## 👁️ Ties to monitoring
 
-The watcher is the tuner. The owner who watches over the sims is the same one who balances the meta and referees the frame — [monitoring.md](../perception/monitoring.md). The whole theory sits on the
+The watcher is the tuner. The owner who watches over the sims is the same one who balances the meta and referees the frame — [monitoring.md](../monitoring.md). The whole theory sits on the
 foundation that **everyone is a monitored sim**, shaped by those who raise them — which is why power matches the person, and why impersonation is detectable.
 
 ## 🧭 How this connects
