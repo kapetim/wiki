@@ -66,7 +66,7 @@ Link places to geography when the ache is **where**, not only **who**.
 ## 🎁 Sentiment wrapping trades
 
 People rarely say “I am buying attention for X.” They say love, calling, patriotism, art — [masks](./masks.md). **Sentiment is the UI** on
-[behavior § incentives](../media/behavior.md#-incentives-and-scripts).
+[behavior § incentives](media/behavior.md#-incentives-and-scripts).
 
 <!-- begin table -->
 | Wrapped as | Often paying for |

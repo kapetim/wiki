@@ -89,7 +89,7 @@ feel heroic.
 | Topic | Hub |
 | --- | --- |
 | Effort allocation (where 80% pays) | [returns.md](../../achievements/returns.md) |
-| The flag/stairs short-hand on the HUD | [hud § Mario 64](../perception/hud.md#-short-handle--mario-64-stairs) |
+| The flag/stairs short-hand on the HUD | [hud § Mario 64](../hud.md#-short-handle--mario-64-stairs) |
 | Stop-or-act loop | [harm.md](./harm.md) |
 | Which fears to spend on | [fear-triage.md](./fear-triage.md) |
 <!-- end table -->

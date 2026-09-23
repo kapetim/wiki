@@ -1,7 +1,7 @@
 # 🔎 Prejudice — labelizing as a hypothesis
 
 **What this is:** **prejudice** as an **initial assumption** — a label used to organise data and aim a query, to be proved (or dropped) later. Not a verdict. Pairs with
-[judgement.md](judgement.md) (ranking), [masks.md](masks.md) (skins), and [society/colors.md](../society/colors.md) (groups).
+[judgement.md](judgement.md) (ranking), [masks.md](masks.md) (skins), and [society/colors.md](society/colors.md) (groups).
 
 ---
 
@@ -56,4 +56,4 @@ Like picking a **cat out of the sewage and putting it back in the streets** — 
 
 - [judgement.md](judgement.md) — ranking harm
 - [masks.md](masks.md) — paired opposites
-- [society/colors.md](../society/colors.md) — persuasion groups
+- [society/colors.md](society/colors.md) — persuasion groups

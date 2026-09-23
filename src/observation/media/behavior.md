@@ -2,8 +2,8 @@
 
 **What this is:** how humans actually behave — patterns, incentives, and defaults.
 
-**Observable patterns** — habits, scripts, incentives — without full philosophy stack. Groups at scale: society. Social **skins** on trades: [masks](../perception/masks.md). Felt side:
-[sentiment](../perception/sentiment.md).
+**Observable patterns** — habits, scripts, incentives — without full philosophy stack. Groups at scale: society. Social **skins** on trades: [masks](../masks.md). Felt side:
+[sentiment](../sentiment.md).
 
 ## 📋 Index
 
@@ -30,7 +30,7 @@ People do what **pays** (money, status, safety, sex, belonging) under the **scri
 | Risky stunt | Attention, mate signal | “Living life” |
 <!-- end table -->
 
-**Same action, different skin** — [masks § pairs](./../perception/masks.md#-paired-opposites-same-trade-different-skin).
+**Same action, different skin** — [masks § pairs](./../masks.md#-paired-opposites-same-trade-different-skin).
 
 ## 🔁 Habit loop
 
@@ -106,7 +106,7 @@ Trait **tendencies** (not destiny) — tables in rankings/.
 | Isolation vs reach-out? | 2023 |
 <!-- end table -->
 
-**HUD:** name one **behavior experiment** per quarter on [hud.md](../perception/hud.md) — optional.
+**HUD:** name one **behavior experiment** per quarter on [hud.md](../hud.md) — optional.
 
 ---
 

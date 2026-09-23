@@ -1,7 +1,7 @@
 # 🎨 Colors — the persuasion groups
 
 **What this is:** a framework of groups, each with a color, describing how people respond to weird events and where the full picture goes missing. **Metaphor only.** Pairs with
-[prejudice.md](../perception/prejudice.md) — a label is a hypothesis.
+[prejudice.md](../prejudice.md) — a label is a hypothesis.
 
 ---
 

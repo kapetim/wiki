@@ -46,7 +46,7 @@ flowchart TB
 ```
 
 **Read:** B is often **less sentimental** because the **ledger is already on the HUD**—no need to narrate purity. A is not “deeper”—usually **more theater** around the same compare → negotiate move
-(futures § compare). Lore: Truman Show · [aquarium](../media/aquarium.md).
+(futures § compare). Lore: Truman Show · [aquarium](media/aquarium.md).
 
 ---
 
@@ -133,7 +133,7 @@ object is the **alibi**: it externalizes competence so nobody has to look at the
   capacity.
 - **Credibility is frame-bound** — if the object is exclusive (only Kaiba plays the Blue-Eyes), faking the owner is implausible; *who believes you?* Identity, not paper, is the real protection.
 
-**Deep read:** object powers + the binding that makes them hard to steal: [balance.md § powers](../framework/balance.md#-powers-object-vs-person). **Lore:** Yu-Gi-Oh! (Millennium Items as mask) ·
+**Deep read:** object powers + the binding that makes them hard to steal: [balance.md § powers](framework/balance.md#-powers-object-vs-person). **Lore:** Yu-Gi-Oh! (Millennium Items as mask) ·
 Pokémon (badges as proof-of-progress).
 
 ---

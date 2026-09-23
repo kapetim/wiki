@@ -2020,6 +2020,13 @@
     2,
     2
   ],
+  "src/observation/judgement.md": [
+    4,
+    3,
+    2,
+    5,
+    2
+  ],
   "src/observation/lore/naruto/arcs.md": [
     2,
     5,
@@ -2076,6 +2083,14 @@
   ],
   "src/observation/lore/readme.md": [
     2
+  ],
+  "src/observation/masks.md": [
+    3,
+    3,
+    3,
+    3,
+    2,
+    4
   ],
   "src/observation/media/aquarium.md": [
     3,
@@ -2137,41 +2152,24 @@
   "src/observation/media/worlds.md": [
     2
   ],
-  "src/observation/perception/judgement.md": [
-    4,
-    3,
-    2,
-    5,
-    2
-  ],
-  "src/observation/perception/masks.md": [
-    3,
-    3,
-    3,
-    3,
-    2,
-    4
-  ],
-  "src/observation/perception/monitoring.md": [
+  "src/observation/monitoring.md": [
     3,
     4
   ],
-  "src/observation/perception/prejudice.md": [
+  "src/observation/prejudice.md": [
     3
   ],
-  "src/observation/perception/readme.md": [
+  "src/observation/readme.md": [
+    2,
     2
   ],
-  "src/observation/perception/sentiment.md": [
+  "src/observation/sentiment.md": [
     4,
     3,
     3,
     3,
     2,
     2,
-    2
-  ],
-  "src/observation/readme.md": [
     2
   ],
   "src/observation/society/colors.md": [

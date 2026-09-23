@@ -2,7 +2,7 @@
 
 **What this is:** the infinite war between hell (sound village) and heaven (leaf village), connected by a bridge managed by the Uchiha and the tailed beasts — a two-edged sword. Pairs with
 [structures.md](../../framework/structures.md) (hell vs heaven as two teams), [orchestrator.md](./orchestrator.md) (the village theater), [truco-hierarchy.md](./truco-hierarchy.md) (the card mapping),
-and [monitoring.md](../../perception/monitoring.md) (the watcher). **Metaphor only.**
+and [monitoring.md](../../monitoring.md) (the watcher). **Metaphor only.**
 
 ## 🗺️ The war map
 

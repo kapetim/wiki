@@ -1,7 +1,7 @@
 # ⏳ Hard limit — life ends by force or organ failure
 
 **What this is:** the one fact under all fear work — **life has a hard limit**. The run ends either because **someone forces it** (another person ends it), or because you
-**naturally die of organ failure**. Everything else is arranging the time in between. Pairs with [harm.md](./harm.md) (the ledger) and [judgement.md](../perception/judgement.md) (A–E tiers).
+**naturally die of organ failure**. Everything else is arranging the time in between. Pairs with [harm.md](./harm.md) (the ledger) and [judgement.md](../judgement.md) (A–E tiers).
 **Metaphor only.**
 
 ---
@@ -52,7 +52,7 @@ So: **prevent what's preventable, accept the irreducible tail, and don't rehears
 ## 🧬 The body can change shape
 
 Accident, choice, or force can change the **body plan** — amputation, transition, mutilation. The person inside persists; the **shape** doesn't undo. Same hard-limit family: some changes have no
-"back" ([judgement § duration](../perception/judgement.md#-duration--cure-maintenance-or-forever)).
+"back" ([judgement § duration](../judgement.md#-duration--cure-maintenance-or-forever)).
 
 ---
 
@@ -63,7 +63,7 @@ The hardest exits (death, irreversible harm) sit at **−∞** on the ledger —
 - **Prevention is the only lever** — and it's a *before* lever.
 - After: grief, repair of what remains, next margin — not grinding +1 in rumination.
 
-Severity ranking and cure tiers: [judgement.md](../perception/judgement.md).
+Severity ranking and cure tiers: [judgement.md](../judgement.md).
 
 ---
 
@@ -73,7 +73,7 @@ Severity ranking and cure tiers: [judgement.md](../perception/judgement.md).
 | Topic | Hub |
 | --- | --- |
 | Post-death question | [restart.md](../framework/restart.md) |
-| Cure expectations by tier | [judgement § duration](../perception/judgement.md#-duration--cure-maintenance-or-forever) |
+| Cure expectations by tier | [judgement § duration](../judgement.md#-duration--cure-maintenance-or-forever) |
 | Who caused it, what to do | [harm.md](./harm.md) |
 | Which fears actually matter | [fear-triage.md](./fear-triage.md) |
 <!-- end table -->

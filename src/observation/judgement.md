@@ -1,7 +1,7 @@
 # 🧮 Life judgement — ranking harm
 
 **What this is:** how to **weigh** bad outcomes when deciding, apologizing, or posting margins — not legal advice. **Two damage channels**, **how long it lasts**, and whether another person's body or
-run was **non-recoverably** changed. Pairs with [fundamentals/harm.md](../fundamentals/harm.md) (the loop), [fear-triage.md](../fundamentals/fear-triage.md) (what's fixable), law-street-trust (proof
+run was **non-recoverably** changed. Pairs with [fundamentals/harm.md](fundamentals/harm.md) (the loop), [fear-triage.md](fundamentals/fear-triage.md) (what's fixable), law-street-trust (proof
 vs total cost).
 
 ---
@@ -44,7 +44,7 @@ Split outcomes by **whether baseline can return**, not by how sad you feel the f
 | **B — Managed chronic** | No erase, but **stable** with lifelong meds or routine | HIV on ART; HSV; diabetes; some nerve pain on pills |
 | **C — Scar + tricks** | Body **different**; hacks not restoration | Malunited fracture; prosthetic limb; vision after laser — better, not original |
 | **D — No real fix** | Permanent loss or dysfunction; **management only** | Amputation (no regrow); severe TBI; intractable pain; blindness |
-| **E — Run ended** | Death — **no known cure** | [fear-triage § cure](../fundamentals/fear-triage.md) · [hard-limit](../fundamentals/hard-limit.md) **−∞** |
+| **E — Run ended** | Death — **no known cure** | [fear-triage § cure](fundamentals/fear-triage.md) · [hard-limit](fundamentals/hard-limit.md) **−∞** |
 <!-- end table -->
 
 **Medication forever** is tier **B**, not **A** — you are not “unchanged,” you are **maintained**. Still often better than **D**.
@@ -62,7 +62,7 @@ Most acts that **non-recoverably** change **another human** rank **above** the s
 | --- | --- |
 | **Recoverability for victim** | Can *they* get baseline back, or only manage? |
 | **Agency** | Did someone **choose** to impose it? → forced stacks above accident |
-| **Duration** | Tier **D** or **E** on their body or life → [harm § ledger](../fundamentals/harm.md) large / infinite |
+| **Duration** | Tier **D** or **E** on their body or life → [harm § ledger](fundamentals/harm.md) large / infinite |
 <!-- end table -->
 
 You do not need a court to **rank** this for your own margins — see law-street-trust § total cost.
@@ -91,7 +91,7 @@ You do not need a court to **rank** this for your own margins — see law-street
 
 1. **Name both channels** — emotional-only vs body involved.
 2. **Assign duration tier** — A through E for **each** channel that applies.
-3. **Check victim** — if you caused **D/E** on another person, weight [harm.md](../fundamentals/harm.md) and amends accordingly.
+3. **Check victim** — if you caused **D/E** on another person, weight [harm.md](fundamentals/harm.md) and amends accordingly.
 4. **Post one margin** — test, boundary, apology with restitution, safety gear — then reconcile.
 
 Do not use this table to **minimize** emotional harm (“it's only feelings”). Use it to **not under-weight** body harm when guilt is invisible (private sex, “no proof”).
@@ -103,8 +103,8 @@ Do not use this table to **minimize** emotional harm (“it's only feelings”).
 <!-- begin table -->
 | Topic | Hub |
 | --- | --- |
-| Ledger postings (+/−, −∞) | [harm § the loop](../fundamentals/harm.md#-the-loop--assess--post--reconcile) |
-| Death / pain / trauma cure detail | [fear-triage § cure](../fundamentals/fear-triage.md) · [hard-limit](../fundamentals/hard-limit.md) |
+| Ledger postings (+/−, −∞) | [harm § the loop](fundamentals/harm.md#-the-loop--assess--post--reconcile) |
+| Death / pain / trauma cure detail | [fear-triage § cure](fundamentals/fear-triage.md) · [hard-limit](fundamentals/hard-limit.md) |
 | Law vs street vs personal cost | law-street-trust |
 | Prize vs price in choices | decisions |
 | Labelling a guess (prejudice) | [prejudice.md](./prejudice.md) |

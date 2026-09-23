@@ -31,7 +31,7 @@ The village stacked top to bottom — **0** the operator above the sim, **6** th
 | (cont.) | Propagates hatred so civilians don't commit crimes and ninjas stay on the line — like the truco |
 <!-- end table -->
 
-Cross-refs: [orchestrator.md](./orchestrator.md) (Pain the center · Gedo accumulation) · [monitoring.md](../../perception/monitoring.md) (the game owner who watches everyone).
+Cross-refs: [orchestrator.md](./orchestrator.md) (Pain the center · Gedo accumulation) · [monitoring.md](../../monitoring.md) (the game owner who watches everyone).
 
 ## 🦊 1 — Tailed beasts
 
@@ -183,7 +183,7 @@ Cross-ref: [hard-limit.md](../../fundamentals/hard-limit.md) (the physical ceili
 | Topic | Hub |
 | --- | --- |
 | The hunter theater / orchestrator | [orchestrator.md](./orchestrator.md) |
-| The all-streaming watcher | [monitoring.md](../../perception/monitoring.md) |
+| The all-streaming watcher | [monitoring.md](../../monitoring.md) |
 | The truco card hierarchy | [truco-hierarchy.md](./truco-hierarchy.md) |
 | The achievement list mechanic | [achievements/list.md](../../../achievements/list.md) |
 | The physical ceiling | [hard-limit.md](../../fundamentals/hard-limit.md) |

@@ -1,7 +1,7 @@
 # 🧠 Intra thoughts — the mind's solo lane
 
 **What this is:** keeping a **line of thought** running on your own — like a song or a podcast you don't need headphones for. The practice, the costs, and the ceiling of **thinking alone**. Pairs with
-[fear-triage.md](../fundamentals/fear-triage.md) (when further thinking stops being useful) and [monitoring.md](../perception/monitoring.md) (the game frame it all runs inside). **Metaphor only.**
+[fear-triage.md](../fundamentals/fear-triage.md) (when further thinking stops being useful) and [monitoring.md](../monitoring.md) (the game frame it all runs inside). **Metaphor only.**
 
 ---
 
@@ -60,7 +60,7 @@ Thinking alone is like writing a note and shredding it down the toilet — done 
 
 Solo thought is bounded by your own knowledge. Another person may carry a different point of view.
 
-- **Speaking out loud** clears paranoia — [sentiment.md](../perception/sentiment.md) · [monitoring.md](../perception/monitoring.md).
+- **Speaking out loud** clears paranoia — [sentiment.md](../sentiment.md) · [monitoring.md](../monitoring.md).
 - **New outlet:** AI — an interlocutor without ceremony.
 
 ```mermaid
@@ -85,7 +85,7 @@ flowchart LR
 | Topic | Hub |
 | --- | --- |
 | When thinking stops being useful | [fear-triage § "is further thinking useful?"](../fundamentals/fear-triage.md#-is-further-thinking-useful--template) |
-| Paranoia and the monitored frame | [monitoring.md](../perception/monitoring.md) |
-| Felt layer and verbalizing | [sentiment.md](../perception/sentiment.md) |
+| Paranoia and the monitored frame | [monitoring.md](../monitoring.md) |
+| Felt layer and verbalizing | [sentiment.md](../sentiment.md) |
 | The game frame | [structures.md](./structures.md) |
 <!-- end table -->
