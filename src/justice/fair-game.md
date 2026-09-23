@@ -5,8 +5,8 @@ with [karma.md](karma.md), the **accounting system**: karma keeps the ledger, fa
 act. An **abstract** frame for fairness — treat each player as a **manual car**: fully controllable and
 able to take any action, including the worst. Fair game is the *organization* of what counts as fair through a
 **rules system**, and its job is to put a **cost / charge** on the acts that freedom allows. **Metaphor only.**
-Referee layer: [balance.md](../framework/balance.md) · rules + judge: [structures.md](../framework/structures.md) · freedom:
-[free-will.md](../framework/free-will.md).
+Referee layer: [balance.md](../observation/framework/balance.md) · rules + judge: [structures.md](../observation/framework/structures.md) · freedom:
+[free-will.md](../observation/framework/free-will.md).
 
 ---
 
@@ -14,13 +14,13 @@ Referee layer: [balance.md](../framework/balance.md) · rules + judge: [structur
 
 Assume a player can do **anything** — no built-in governor, no automatic lane-keeping. Agency is the wheel, the
 clutch, and the throttle. A "good" world is not one where nobody can cross the line; it is one where crossing the
-line has a **price** ([free-will.md](../framework/free-will.md)).
+line has a **price** ([free-will.md](../observation/framework/free-will.md)).
 
 ## 📒 Rules define fair
 
 Rules — law, league, treaty, taboo — are the thing that **defines** what counts as fair, and they do nothing on
 their own. They need a **judge** to confirm a result, so a score stands or a rematch is served
-([structures.md](../framework/structures.md)). Without that confirmation the book stays open and the round never closes.
+([structures.md](../observation/framework/structures.md)). Without that confirmation the book stays open and the round never closes.
 
 ## 🧾 Price, not prohibition
 
@@ -31,14 +31,14 @@ grudge.
 ## 🪞 Fairness is the ledger that holds
 
 A system is **sustainable when its ledger holds** — when the price applies evenly and the referee is not the corrupt
-party ([corruption.md](../../problems/unknown/corruption.md)). Fairness is not a feeling; it is whether the **same
+party ([corruption.md](../problems/unknown/corruption.md)). Fairness is not a feeling; it is whether the **same
 act draws the same charge**, whoever commits it.
 
 ## 🧭 Establishment
 
 To establish a fair game: **state the rules**, **staff an independent referee**, **confirm results**, and **publish
 the price**. Each step is also its own failure mode — an unstated rule, a hired referee, an unconfirmed result, a
-secret price ([balance.md](../framework/balance.md), [monitoring.md](../perception/monitoring.md)).
+secret price ([balance.md](../observation/framework/balance.md), [monitoring.md](../observation/perception/monitoring.md)).
 
 ## ❓ Open questions
 
@@ -47,7 +47,7 @@ secret price ([balance.md](../framework/balance.md), [monitoring.md](../percepti
 
 ## 🔗 Related
 
-- [free-will.md](../framework/free-will.md) — the freedom that makes pricing necessary.
-- [structures.md](../framework/structures.md) — rules, judge, and the closed book.
-- [balance.md](../framework/balance.md) — referee layer and the secure environment.
-- [corruption.md](../../problems/unknown/corruption.md) — when the referee is the corrupt party.
+- [free-will.md](../observation/framework/free-will.md) — the freedom that makes pricing necessary.
+- [structures.md](../observation/framework/structures.md) — rules, judge, and the closed book.
+- [balance.md](../observation/framework/balance.md) — referee layer and the secure environment.
+- [corruption.md](../problems/unknown/corruption.md) — when the referee is the corrupt party.

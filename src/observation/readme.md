@@ -11,7 +11,6 @@ signal, to be **proved or dropped later** ([perception/prejudice.md](perception/
 | `achievements/` | Goals, budgets, obsolete dreams, and returns. |
 | `framework/` | The big engines — born, play, balance, structures, restart. |
 | `fundamentals/` | Hard limits, gates, harm, and security. |
-| `justice/` | Karma (accounting) and fair game (judgement). |
 | `lore/` | Story reads — the naruto layer. |
 | `media/` | TV, film, and format reads — worlds, stages, archetypes. |
 | `perception/` | The HUD — judgement, masks, monitoring, sentiment, prejudice, thoughts. |

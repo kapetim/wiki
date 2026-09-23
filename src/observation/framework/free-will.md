@@ -27,7 +27,7 @@ the next. What looks like acting out of character is usually **another character
 Close the door on deviation and you get a **world with no crime and no free will** — an obedient machine, and a
 referee with nothing to referee. Corruption is the **price of agency**: the freedom that lets a player cook also lets
 them deviate, and the deviation is where fairness is tested ([corruption.md](../../problems/unknown/corruption.md),
-[fair-game.md](../justice/fair-game.md)).
+[fair-game.md](../../justice/fair-game.md)).
 
 ## ⚖️ The judgment domino
 
@@ -51,5 +51,5 @@ actor is waved through, an absent player can be cast as the culprit. The verdict
 
 - [balance.md](./balance.md) — powers, monopoly, and the referee layer.
 - [structures.md](./structures.md) — rules, fair vs unfair, and the judge.
-- [fair-game.md](../justice/fair-game.md) — pricing the acts that freedom allows.
+- [fair-game.md](../../justice/fair-game.md) — pricing the acts that freedom allows.
 - [masks.md](../perception/masks.md) · [judgement.md](../perception/judgement.md) · [corruption.md](../../problems/unknown/corruption.md).

@@ -22,7 +22,7 @@ Every person carries a running account:
 ## ⚖️ Vengeance masked as payment
 
 When the ledger has no enforcer, **vengeance dresses up as payment** — the victim tries to collect by hand. It rarely
-balances the books; it usually adds a line ([society.md § fix, justice, vengeance](../society/society.md)).
+balances the books; it usually adds a line ([society.md § fix, justice, vengeance](../observation/society/society.md)).
 
 ## 🕯️ Closed cases — judged impossible
 
@@ -35,7 +35,7 @@ Events that **already happened and cannot be judged**, because the people who co
 | **TAM 3054 / Conçongas** | 2007-07-17 | 199 dead (187 aboard + 12 ground) | — | rainy-runway overrun — no culprit left to charge |
 <!-- end table -->
 
-These are a **record of what already happened**, not a verdict ([hard-limit.md](../fundamentals/hard-limit.md)).
+These are a **record of what already happened**, not a verdict ([hard-limit.md](../observation/fundamentals/hard-limit.md)).
 
 ## 🌫️ The grey area
 
@@ -43,7 +43,7 @@ Between the easy cases and the closed ones sits the **grey area**: the culprit i
 there is **no proof** — at best a **camera** showing a masked person.
 
 - The ledger says **owed**; the evidence says **maybe**
-  ([online.md](../../problems/unknown/online.md), [surveillance.md](../../problems/unknown/surveillance.md)).
+  ([online.md](../problems/unknown/online.md), [surveillance.md](../problems/unknown/surveillance.md)).
 
 ## ❓ Open questions
 
@@ -53,6 +53,6 @@ there is **no proof** — at best a **camera** showing a masked person.
 ## 🔗 Related
 
 - [fair-game.md](fair-game.md) — the judgement system that prices the act.
-- [problems/unknown/online.md](../../problems/unknown/online.md) — the unprovable identity.
-- [problems/unknown/surveillance.md](../../problems/unknown/surveillance.md) — monitoring as a known crime.
-- [society.md § fix, justice, vengeance](../society/society.md) — fix · justice · vengeance.
+- [problems/unknown/online.md](../problems/unknown/online.md) — the unprovable identity.
+- [problems/unknown/surveillance.md](../problems/unknown/surveillance.md) — monitoring as a known crime.
+- [society.md § fix, justice, vengeance](../observation/society/society.md) — fix · justice · vengeance.
