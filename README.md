@@ -13,11 +13,13 @@ Sensitive records stay in `private` only — accounts, government, health, inter
 | --- | --- |
 | [`characters/`](src/characters) | Personality + life dossiers — one sheet per character |
 | [`observation/`](src/observation) | Frameworks, theories, and media reads |
+| [`justice/`](src/justice) | Karma (accounting) and fair game (judgement) |
 | [`playlists/`](src/playlists) | Movies, series, audiobooks, music, podcasts, sounds |
 | [`games/`](src/games) | Video and board games |
 | [`gear/`](src/gear) | Durable stuff — devices and everyday carry |
 | [`food/`](src/food) | Diet and recipes |
 | [`instruments/`](src/instruments) | Instrument maps |
+| [`problems/`](src/problems) | Problems with no easy road — solvable · unsolvable · unknown |
 | [`rules/`](src/rules) | Personal operating rules |
 | [`tasks/`](src/tasks) | The board — government, health, housekeeping |
 <!-- end table -->
