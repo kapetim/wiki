@@ -22,6 +22,7 @@ The observation HUD — how a person reads the world, read at the top level:
 <!-- begin table -->
 | File | Covers |
 | --- | --- |
+| [breeds.md](breeds.md) | Dog domestication and breed divergence |
 | [hud.md](hud.md) | The heads-up display — what is surfaced |
 | [judgement.md](judgement.md) | Ranking harm |
 | [masks.md](masks.md) | Paired opposites |

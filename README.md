@@ -31,7 +31,7 @@ The finance routines behind the money tasks stay in `private` (`src/finance/`).
 
 ### 📊 Coverage
 
-**Total: 3542 headings · 3542 with emoji · 100.00% coverage.**
+**Total: 3551 headings · 3551 with emoji · 100.00% coverage.**
 
 Files with headings missing an emoji: none.
 
