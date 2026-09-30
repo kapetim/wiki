@@ -2,7 +2,7 @@
 
 **What this is:** how cartels behave as economic actors — pricing, control, and violence.
 
-Macro read on crime-empire media — what stays possible, what got harder, why silence holds. Seed issue #49.
+Macro read on crime-empire media — what stays possible, what got harder, why silence holds.
 
 Per-series chronology → narcos · american-made · breaking-bad · better-call-saul.
 

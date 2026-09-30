@@ -4,7 +4,7 @@
 
 How advanced is society — and **who serves whom**? Flintstones → Jetsons → WALL·E → Matrix is **one argument** at different stages, not four unrelated sitcoms.
 
-Seed issue #49. Compact table → patterns § civilization ladder.
+Compact table → patterns § civilization ladder.
 
 **Philosophy read:** Futures § attractors · examples hub
 

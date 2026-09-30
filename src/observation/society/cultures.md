@@ -2,7 +2,7 @@
 
 **What this is:** a personal read on cultures and countries — how they differ and why.
 
-**Disclaimer:** stereotypes are starting handles, not verdicts. Update after direct experience. Flag bias: Brazilian-born, lived US/Canada corridor, Portuguese + English.
+**Disclaimer:** stereotypes are starting handles, not verdicts. Update after direct experience.
 
 **Factual borders / trade:** *see `borders.md` (planned)*. **Not travel guides** — subjective lens only.
 

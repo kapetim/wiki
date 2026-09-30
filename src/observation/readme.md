@@ -10,7 +10,6 @@ signal, to be **proved or dropped later** ([prejudice.md](prejudice.md)).
 | --- | --- |
 | `framework/` | The big engines — born, play, balance, structures, restart. |
 | `fundamentals/` | Hard limits, gates, harm, and security. |
-| `lore/` | Story reads — the naruto layer. |
 | `media/` | TV, film, and format reads — worlds, stages, archetypes. |
 | `society/` | Groups, cultures, and futures. |
 <!-- end table -->

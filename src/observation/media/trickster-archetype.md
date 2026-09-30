@@ -2,7 +2,7 @@
 
 **What this is:** the trickster archetype — the rule-breaker who exposes systems.
 
-Characters that **never give up** and **always get away** — yet magnet for worse situations. Seed issue #49.
+Characters that **never give up** and **always get away** — yet magnet for worse situations.
 
 Per-character beats → member series `arcs.md`.
 

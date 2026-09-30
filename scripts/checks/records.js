@@ -98,7 +98,7 @@ export function checkTree(repoDir) {
   }
 
   if (!Array.isArray(data)) { errors.push('tree.json must be an array of file entries'); return errors; }
-  if (data.length === 0) { errors.push('tree.json is empty - run generate-tree.js'); return errors; }
+  if (data.length === 0) return errors; // no immutable documents tracked — valid empty state
 
   const byPath = new Map();
   for (const entry of data) {

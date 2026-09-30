@@ -33,7 +33,7 @@ Treehouse of Horror and the movie **break the rules** (temporary change, stakes)
 | --- | --- |
 | Episodic satire pattern | [patterns § satire](./patterns.md) |
 | Repetition that keeps the Sim alive | [play § rat wheel](../framework/play.md#-life-dream-and-rat-wheel) |
-| Boredom from sameness | [pleasure § frequency](../framework/pleasure.md#-configuration--frequency) |
+| Boredom from sameness | [pleasure § frequency](../framework/prize.md#-configuration--frequency) |
 | A target list to break the loop | [enjoyment.md](../framework/enjoyment.md) |
 <!-- end table -->
 

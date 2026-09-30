@@ -1,7 +1,7 @@
 # 🎮 Nintendo
 
 **What this is:** universe home — the Nintendo verse (games · film/TV), organized by franchise. One dossier per character lives under its franchise; this readme indexes the universe. Game
-catalogs stay in [`games/videogame/nintendo/`](../../games/videogame/nintendo/); deep theory stays in [`observation/lore/`](../../observation/lore/readme.md).
+catalogs stay in [`games/videogame/nintendo/`](../../games/videogame/nintendo/); deep theory stays in `observation/lore/`.
 
 ## 🍄 Mario
 

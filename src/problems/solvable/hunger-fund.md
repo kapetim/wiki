@@ -30,7 +30,7 @@ The wheel is **linear in P** — double the principal, double the stipend. The c
 <!-- begin table -->
 | Input | Value | Source |
 | ------- | ------- | -------- |
-| CDI | 14.5% a.a. | `net-worth.md` assumption |
+| CDI | 14.5% a.a. | long-run market assumption |
 | CDB | ~100% CDI | gross `g = 14.5%` a.a. |
 | IR on gains | 15% (held > 2 yr) | long-term bracket |
 | Inflation (IPCA) | 4.5% a.a. | ~target band |

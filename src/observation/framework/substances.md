@@ -1,6 +1,6 @@
 # 🚗 Substances — the car read
 
-**What this is:** a driving metaphor for psychoactive substances — fuel, lanes, brakes, and the trade of living in a body that can break. Pairs with [pleasure.md](./pleasure.md) (baseline vs prize) ·
+**What this is:** a driving metaphor for psychoactive substances — fuel, lanes, brakes, and the trade of living in a body that can break. Pairs with [prize.md](./prize.md) (baseline vs prize) ·
 [monitoring.md](../monitoring.md) (the watcher/tuner) · [society.md § Wonderland](../society/society.md#-wonderland--solo-delusion) (the solo-flow read). **Metaphor only.**
 
 ---

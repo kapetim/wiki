@@ -3,33 +3,6 @@
     2,
     2
   ],
-  "src/achievements/budget.md": [
-    2,
-    2,
-    2,
-    2
-  ],
-  "src/achievements/list.md": [
-    4,
-    2
-  ],
-  "src/achievements/obsolete-dreams.md": [
-    2,
-    2
-  ],
-  "src/achievements/platinum.md": [
-    3,
-    3,
-    3,
-    2
-  ],
-  "src/achievements/returns.md": [
-    4,
-    3,
-    2,
-    3,
-    2
-  ],
   "src/characters/chocolate-factory/augustus-gloop.md": [
     2,
     2,
@@ -1752,50 +1725,6 @@
     2,
     4
   ],
-  "src/food/diet/ingredients.md": [
-    3,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5,
-    5
-  ],
-  "src/food/diet/nutrition.md": [
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2,
-    2
-  ],
-  "src/food/diet/status.md": [
-    2,
-    4,
-    5,
-    5,
-    5,
-    2
-  ],
-  "src/food/recipes/seasoning.md": [
-    3,
-    3,
-    3
-  ],
   "src/games/boardgame/checkers.md": [
     2
   ],
@@ -1893,44 +1822,6 @@
     2,
     2,
     2
-  ],
-  "src/gear/cleaning.md": [
-    4
-  ],
-  "src/gear/consoles.md": [
-    3,
-    3
-  ],
-  "src/gear/desktop.md": [
-    2,
-    2
-  ],
-  "src/gear/device/readme.md": [
-    4,
-    3,
-    3
-  ],
-  "src/gear/edc.md": [
-    4
-  ],
-  "src/gear/hygiene.md": [
-    4
-  ],
-  "src/gear/kitchen.md": [
-    4
-  ],
-  "src/gear/portable.md": [
-    3,
-    4
-  ],
-  "src/gear/readme.md": [
-    2
-  ],
-  "src/gear/storage.md": [
-    2
-  ],
-  "src/gear/wardrobe.md": [
-    4
   ],
   "src/justice/karma.md": [
     2,
@@ -2041,63 +1932,6 @@
     3,
     2,
     5,
-    2
-  ],
-  "src/observation/lore/naruto/arcs.md": [
-    2,
-    5,
-    5,
-    5
-  ],
-  "src/observation/lore/naruto/control-ladder.md": [
-    4,
-    2,
-    2,
-    5,
-    2,
-    2,
-    2,
-    2,
-    3,
-    4,
-    2
-  ],
-  "src/observation/lore/naruto/dick-economics.md": [
-    3,
-    3
-  ],
-  "src/observation/lore/naruto/infinite-loop.md": [
-    3
-  ],
-  "src/observation/lore/naruto/orchestrator.md": [
-    3,
-    3,
-    2
-  ],
-  "src/observation/lore/naruto/power-guns.md": [
-    3,
-    4
-  ],
-  "src/observation/lore/naruto/power.md": [
-    3,
-    5
-  ],
-  "src/observation/lore/naruto/readme.md": [
-    2,
-    2,
-    2,
-    3
-  ],
-  "src/observation/lore/naruto/thoughts.md": [
-    3,
-    3
-  ],
-  "src/observation/lore/naruto/truco-hierarchy.md": [
-    4,
-    4,
-    3
-  ],
-  "src/observation/lore/readme.md": [
     2
   ],
   "src/observation/masks.md": [
@@ -2616,24 +2450,45 @@
   "src/readme.md": [
     2
   ],
-  "src/rules/readme.md": [
+  "src/recipes/seasoning.md": [
+    3,
+    3,
+    3
+  ],
+  "src/tools/bookmarks.md": [
     2
   ],
-  "src/rules/substances.md": [
-    4,
+  "src/tools/cleaning.md": [
+    4
+  ],
+  "src/tools/consoles.md": [
     3,
+    3
+  ],
+  "src/tools/desktop.md": [
+    2,
+    2
+  ],
+  "src/tools/edc.md": [
+    4
+  ],
+  "src/tools/hygiene.md": [
+    4
+  ],
+  "src/tools/kitchen.md": [
+    4
+  ],
+  "src/tools/portable.md": [
     3,
-    3
+    4
   ],
-  "src/tasks/health/service-provider/providers.md": [
-    3
+  "src/tools/readme.md": [
+    2
   ],
-  "src/tasks/health/solo/pharmacy.md": [
-    8,
-    8,
-    5
+  "src/tools/storage.md": [
+    2
   ],
-  "src/tasks/readme.md": [
-    3
+  "src/tools/wardrobe.md": [
+    4
   ]
 }

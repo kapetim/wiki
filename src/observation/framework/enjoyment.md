@@ -1,6 +1,6 @@
 # 🎯 Enjoyment — what is worth pursuing
 
-**What this is:** the **joystick bridge** — the daily routine as the input device feeding the [life achievements system](../../achievements/list.md). If pleasure is [baseline vs spike](./pleasure.md),
+**What this is:** the **joystick bridge** — the daily routine as the input device feeding the life achievements system. If pleasure is [baseline vs spike](./prize.md),
 this is the *routine layer* that feeds the achievements list. Pairs with [play.md](./play.md) (life dream / credits) and [born.md](./born.md) (spawn kit). **Metaphor only.**
 
 ---
@@ -13,25 +13,14 @@ this is the *routine layer* that feeds the achievements list. Pairs with [play.m
 
 ---
 
-## 🏆 The achievements system
-
-The full life-achievement framework — platinum status, obsolete dreams, returns, budget, and the personal list — lives in a dedicated folder:
-
-- [🏆 achievements/](../../achievements/)
-- [📋 list.md](../../achievements/list.md) — the personal achievement list (the concrete "what to chase")
-
----
-
 ## 🧭 How this connects
 
 <!-- begin table -->
 | Topic | Hub |
 | --- | --- |
-| What spikes feel like | [pleasure.md](./pleasure.md) |
+| What spikes feel like | [prize.md](./prize.md) |
 | Daily loop / credits | [play.md](./play.md) |
 | Spawn kit and expectations | [born.md](./born.md) |
-| The target list itself | [achievements/list.md](../../achievements/list.md) |
-| Recurring tasks that feed the routine | tasks/ |
 <!-- end table -->
 
 ---

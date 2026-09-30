@@ -17,7 +17,6 @@
     "tree": "node tools/generate-tree.js",
     "table-cols": "node tools/generate-table-columns.js",
     "heading-coverage": "node tools/generate-heading-coverage.js",
-    "next-task": "node tools/next-task.js",
     "zip": "node release/release-zip.js",
     "verify": "node release/verify-release.js",
     "release": "node release/publish-tag.js publish"

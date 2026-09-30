@@ -22,4 +22,4 @@
 
 - [problems index](../readme.md)
 - [solvable/healthcare.md](../solvable/healthcare.md) — a quick fix exists
-- [rules/allergies.md](../../rules/allergies.md) · [rules/substances.md](../../rules/substances.md)
+- rules/allergies.md · rules/substances.md

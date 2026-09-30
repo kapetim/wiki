@@ -4,7 +4,7 @@
 
 Fish in a tank ≈ human in a set. The manager sits outside full comprehension — same ways fish do not fully grasp humans, humans do not fully grasp whatever would run a planet-scale aquarium.
 
-Private draft; seed issue #49. Per-film beats → member series `arcs.md`. Compact frames → patterns § civilization · aquarium.
+Per-film beats → member series `arcs.md`. Compact frames → patterns § civilization · aquarium.
 
 **Philosophy read:** [Masks § paired opposites](./../masks.md#-paired-opposites-same-trade-different-skin) · examples hub
 
@@ -79,7 +79,7 @@ Stacking layers without exit condition → infinite staircase. See [fear-triage 
 
 ## 💸 Cost of escape
 
-**Juquinha dog (issue analogy):** small dog climbs to roof of kennel, looks down, jumps, survives adrenaline, likely returned to pen. Effort → worse perch → self-harm. Not everyone has knees for
+**Small-dog analogy:** a small dog climbs to the roof of its kennel, looks down, jumps, survives on adrenaline, likely returned to pen. Effort → worse perch → self-harm. Not everyone has knees for
 repeated jumps.
 
 **Prison Break read:** moving prison to prison; marriage without loyalty certainty — escape does not guarantee better tank.

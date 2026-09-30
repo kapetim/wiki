@@ -120,7 +120,7 @@ Lots of good strategies that would be better if applied with real power. A remin
 
 ### 🃏 Hokage as 7♦
 
-The current Hokage somewhat represents the **7♦** (the leader who trusts the village to think and reviews the best choice — [truco-hierarchy.md](../../observation/lore/naruto/truco-hierarchy.md)). Anyone who complains about him
+The current Hokage somewhat represents the **7♦** (the leader who trusts the village to think and reviews the best choice — truco-hierarchy.md). Anyone who complains about him
 and is willing to go against him is **greater** — the trumps above the leader: Sasuke doesn't obey Naruto, Itachi as well, Shisui as well, and the rest of the Uchiha clan.
 
 Everyone else agrees to Naruto — they sit on the lower ranks: if **patient**, probably a **3** (Jonin — reviews, delegates, waits); if **anxious**, probably a **2** (Chunin — hell as insecurity).
@@ -231,7 +231,7 @@ Some women sit on one axis — how open vs how risky they are to touch. Konan an
 <!-- end table -->
 
 The axis is **open ↔ closed** — Konan the open end (everyone), Anko the closed end (curse-mark/HIV risk), Kushina the center (open but dangerous once the Nine-Tails is known). See
-[anko-server.md](../../observation/lore/naruto/anko-server.md) (Anko's curse-mark read) and [orchestrator.md](../../observation/lore/naruto/orchestrator.md) (Konan the news collector).
+anko-server.md (Anko's curse-mark read) and orchestrator.md (Konan the news collector).
 
 ### 🔀 Disney parallels
 
@@ -250,7 +250,7 @@ like being born rich.
 
 ---
 
-**Dick size ladder:** [dick-economics.md](../../observation/lore/naruto/dick-economics.md)
+**Dick size ladder:** dick-economics.md
 
 ## ❓ Open threads
 

@@ -2,7 +2,7 @@
 
 **What this is:** the axis of mastery — from novice to master and what changes along it.
 
-What kind of power does the world ask you to **master**? Seed issue #49 + patterns § mastery axis.
+What kind of power does the world ask you to **master**? Patterns § mastery axis.
 
 Per-system detail → franchise domain folders (Pokémon `mechanics/`, Naruto `power/`, etc.).
 

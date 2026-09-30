@@ -2,7 +2,7 @@
 
 **What this is:** recurring patterns — recognizable shapes across situations.
 
-Cross-franchise comparison frames — reuse on any lore folder after **core of the media** is filled. Private draft; not a wiki. Seed: issue 49 (create lore).
+Cross-franchise comparison frames — reuse on any lore folder after **core of the media** is filled.
 
 **How to use:** Pick 2–4 patterns that fit the story; fill the franchise row in each table or add a **Lore patterns** block on the franchise file. Deeper civilization reads:
 [futures](../society/futures.md).

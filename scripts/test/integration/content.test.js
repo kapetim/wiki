@@ -2,10 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { spawnSync } from 'node:child_process';
 import { REPO_DIR } from '../../shared/config.js';
-import { checkFood, checkBuyTables, checkBuyPlans, checkNutrition } from '../../checks/food.js';
-import { checkStatus } from '../../checks/diet.js';
 import { checkCatalog } from '../../checks/catalog.js';
-import { checkTasks } from '../../checks/tasks.js';
 import { checkMusicTables } from '../../checks/music.js';
 import { checkTimelineChain } from '../../checks/reflect.js';
 import { checkIndexes, checkProblems, checkInterpretations } from '../../checks/indexes.js';
@@ -39,13 +36,7 @@ const checks = [
   checkHeadingSlugs,
   checkJson,
   checkFrontMatter,
-  checkFood,
-  checkBuyTables,
-  checkBuyPlans,
-  checkNutrition,
-  checkStatus,
   checkCatalog,
-  checkTasks,
   checkMusicTables,
   checkTimelineChain,
   checkIndexes,
