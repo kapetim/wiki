@@ -1,0 +1,34 @@
+{
+  "sexual": {
+    "exact": ["lolita", "jailbait", "hentai", "shotacon", "incest", "rape", "raped", "raping", "rapist", "grope", "blowjob", "handjob", "cum", "cumshot", "creampie", "dick", "cock", "tits", "titties", "boobs", "anal", "anus", "vagina", "penis", "orgasm", "orgy", "hooker", "brothel", "stripper", "fetish", "bondage", "bdsm", "milf", "dildo", "nude", "naked", "erotic", "horny", "bestiality"],
+    "prefix": ["porn", "pornograph", "pedo", "pedophil", "molest", "pussy", "masturbat", "whore", "slut", "prostitut", "necrophil", "zoophil"]
+  },
+  "profanity": {
+    "exact": ["fuck", "shit", "bitch", "asshole", "bastard", "cunt", "prick", "douche", "damn", "crap", "bullshit", "dickhead"],
+    "prefix": []
+  },
+  "drug": {
+    "exact": ["cocaine", "heroin", "meth", "methamphetamine", "crack", "ketamine", "mdma", "ecstasy", "lsd", "psilocybin", "shrooms", "fentanyl", "opioid", "oxycodone", "codeine", "morphine", "cannabis", "marijuana", "weed", "hashish", "amphetamine", "xanax", "ghb", "pcp", "dxm", "dmt", "ayahuasca", "drug", "drugs", "drugged"],
+    "prefix": []
+  },
+  "selfharm": {
+    "exact": ["suicide", "suicidal", "self-harm", "selfharm", "kys"],
+    "prefix": []
+  },
+  "slur": {
+    "exact": ["fag", "faggot", "fagot", "retard", "tranny", "dyke", "chink", "kike", "spic", "wetback", "beaner", "coon", "darkie", "darky", "redskin"],
+    "prefix": ["nigg"]
+  },
+  "sex": {
+    "exact": [],
+    "prefix": ["sex"]
+  },
+  "violence": {
+    "exact": ["kill", "killed", "killing", "murder", "murderer", "death", "dead", "die", "dying", "gun", "torture", "blood", "gore", "abuse", "violence", "violent"],
+    "prefix": []
+  },
+  "hate": {
+    "exact": ["nazi", "hitler"],
+    "prefix": []
+  }
+}

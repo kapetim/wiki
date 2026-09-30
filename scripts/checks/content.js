@@ -2,13 +2,31 @@
 // For each line with a forbidden match, the whole matched word is extracted;
 // if any ALLOW regex matches that word, the hit is allowed, otherwise it's an error.
 
+import fs from 'node:fs';
 import path from 'node:path';
 import { readFile } from 'node:fs/promises';
 import { walkMd } from '../shared/md-walk.js';
 
+function escape(segment) {
+  return segment.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// Forbidden-word tiers live in scripts/config/blocklist.json. Exact matchers are
+// word-boundary anchored; prefix matchers allow trailing letters (plural/derived).
+const BLOCKLIST = JSON.parse(
+  fs.readFileSync(new URL('../config/blocklist.json', import.meta.url), 'utf8'),
+);
+
+function tierRe({ exact = [], prefix = [] }) {
+  const parts = [
+    ...exact.map((w) => escape(w)),
+    ...prefix.map((w) => `${escape(w)}\\w*`),
+  ];
+  return new RegExp(`\\b(${parts.join('|')})\\b`, 'gi');
+}
+
 export const FORBID = [
-  // racism / slurs (starter — curate as needed; `spic` is exact so "Spicer" never matches)
-  { name: 'racial slur', re: /\b(nigg\w*|chink|gook|kike|wetback|beaner|spic|coon|darkie|darky|redskin)\b/gi },
+  ...Object.entries(BLOCKLIST).map(([name, spec]) => ({ name, re: tierRe(spec) })),
   // piracy
   { name: 'torrent', re: /\btorrent\w*/gi },
   // catch-all URLs — one entry in the same forbid list
@@ -41,10 +59,6 @@ const PORN_PREFIXES = [
   'reddit.com/user', 'reddit.com/r',
   'tnaflix.com/search', 'tnaflix.com/big-boobs',
 ];
-
-function escape(segment) {
-  return segment.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
 
 function prefixRe(host, pathSegments) {
   const hostRe = `(?:[^/]*\\.)?${escape(host)}`;
