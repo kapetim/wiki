@@ -61,9 +61,8 @@ person slowly die from some unknown reason — a bad habit followed by an eventu
 
 ## 🐭 Disney and the first-mover
 
-Disney represents the pink group well — beautiful movies that have a meaning. If you look carefully, there's a reason White Snow has this name — fantasy on top of a woman who loves cocaine and hangs
-out
-with small-dick friends. Felix the Cat may be similar — the male version of a person who can't cope with rigid routines, constantly avoiding problems caused by an envious individual.
+Disney represents the pink group well — beautiful movies that have a meaning. If you look carefully, there's a reason White Snow has this name — fantasy on top of a woman with a taste for excess and
+hangs out with her odd little companions. Felix the Cat may be similar — the male version of a person who can't cope with rigid routines, constantly avoiding problems caused by an envious individual.
 
 Gray is the realistic shit — a documentary about Walt Disney showing the good and bad parts: was poor, worked hard, found a combination of sketches people liked, sold it, made money, kept delivering.
 McDonald's did the same — found a magic recipe and repeated it with efficiency.

@@ -49,4 +49,4 @@
 ## 🔗 Cross-refs
 
 - [Uchiha clan](../readme.md#-uchiha-clan) — the clan · [itachi-uchiha.md](../uchiha/itachi-uchiha.md) · [sasuke-uchiha.md](sasuke-uchiha.md)
-- [characters.md](../characters.md) § Sasuke branch · [sharingan.md](sharingan.md) § death reports
+- characters.md § Sasuke branch · [sharingan.md](sharingan.md) § death reports

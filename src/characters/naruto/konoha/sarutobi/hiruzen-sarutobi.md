@@ -51,4 +51,4 @@
 ## 🔗 Cross-refs
 
 - Family → [asuma-sarutobi.md](asuma-sarutobi.md) (son) · [konohamaru-sarutobi.md](konohamaru-sarutobi.md) (grandson) · [mirai-sarutobi.md](mirai-sarutobi.md) (granddaughter)
-- The killer → [orochimaru.md](../../sound/orochimaru.md) · the guilt → [sharingan.md](../../uchiha/sharingan.md) § death reports · the elders' read → [characters.md](../../characters.md) § village elders
+- The killer → [orochimaru.md](../../sound/orochimaru.md) · the guilt → [sharingan.md](../../uchiha/sharingan.md) § death reports · the elders' read → characters.md § village elders

@@ -39,7 +39,7 @@ into  two  selves  to  have  it  both  ways.
 
 - The crisp, controlled voice — competence over emotion, always
 - Horse surgery as the arena where she's truly in charge
-- Tells: the crack when her father's approval is on the line
+- Tells: the snap when her father's approval is on the line
 
 ## 🎯 Channeling
 

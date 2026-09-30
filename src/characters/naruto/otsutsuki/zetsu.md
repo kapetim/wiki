@@ -50,5 +50,5 @@
 
 ## 🔗 Cross-refs
 
-- [characters.md](../characters.md) § antagonist ladder · thoughts.md
+- characters.md § antagonist ladder · thoughts.md
 - The org he spied on → [pain.md](../rain/nagato.md) · the plan's executor → [obito-uchiha.md](../uchiha/obito-uchiha.md) · the bloodline he steered → [uchiha](../uchiha/madara-uchiha.md)

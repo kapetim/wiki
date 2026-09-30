@@ -37,7 +37,7 @@
 
 - The booming, theatrical dread — "Boo!" delivered with professional pride
 - Bargains in souls, settles for sponges
-- Tells: the crack when no one flinches
+- Tells: the snap when no one flinches
 
 ## 🎯 Channeling
 

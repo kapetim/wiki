@@ -47,5 +47,5 @@
 
 ## 🔗 Cross-refs
 
-- Team Guy → [rock-lee.md](../konoha/hermaphrodite/rock-lee.md) · [might-guy.md](../konoha/hermaphrodite/might-guy.md) · [characters.md](../characters.md) § Team Guy
+- Team Guy → [rock-lee.md](../konoha/hermaphrodite/rock-lee.md) · [might-guy.md](../konoha/hermaphrodite/might-guy.md) · characters.md § Team Guy
 - Real-world employer → [../../real-world-jobs.md](../../real-world-jobs.md)

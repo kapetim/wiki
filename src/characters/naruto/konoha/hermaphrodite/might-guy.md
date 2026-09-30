@@ -50,5 +50,5 @@
 ## 🔗 Cross-refs
 
 - Team Guy → [rock-lee.md](rock-lee.md) (his mirror) · [tenten.md](../../women/tenten.md) · rival → [kakashi-hatake.md](../old-teachers/kakashi-hatake.md) · the fight that cost him → [madara-uchiha.md](../../uchiha/madara-uchiha.md)
-- The realistic-team read → [characters.md](../../characters.md) § Team Guy
+- The realistic-team read → characters.md § Team Guy
 - Real-world employer → [../../../real-world-jobs.md](../../../real-world-jobs.md)

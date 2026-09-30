@@ -4,7 +4,7 @@ Personal wiki — the personal collection: characters, observation, justice, pla
 
 **What this is:** the non-sensitive life reference, public and easy to browse.
 
-Personal notes stay in a separate place.
+Personal notes live in a separate place.
 
 ## 🗂️ Contents
 
@@ -26,7 +26,7 @@ Personal notes stay in a separate place.
 
 ### 📊 Coverage
 
-**Total: 3302 headings · 3302 with emoji · 100.00% coverage.**
+**Total: 3237 headings · 3237 with emoji · 100.00% coverage.**
 
 Files with headings missing an emoji: none.
 

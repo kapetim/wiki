@@ -48,5 +48,5 @@
 
 ## 🔗 Cross-refs
 
-- [characters.md](../characters.md) § antagonist ladder · arcs.md § Akatsuki Suppression
+- characters.md § antagonist ladder · arcs.md § Akatsuki Suppression
 - Partner (the other half of the "zombie pair") → [kakuzu.md](../takigakure/kakuzu.md) · the org → [pain.md](../rain/nagato.md)

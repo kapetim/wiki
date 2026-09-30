@@ -51,5 +51,5 @@
 ## 🔗 Cross-refs
 
 - [Hyūga clan](../../readme.md#-clans) — the clan · [hizashi-hyuga.md](hizashi-hyuga.md) · [hinata-hyuga.md](hinata-hyuga.md) · team: [team-guy.md](../../readme.md#-teams--mentors)
-- [characters.md](../../characters.md) § Team Guy · control-ladder.md · orchestrator.md
+- characters.md § Team Guy · control-ladder.md · orchestrator.md
 - Real-world employer → [../../../real-world-jobs.md](../../../real-world-jobs.md)

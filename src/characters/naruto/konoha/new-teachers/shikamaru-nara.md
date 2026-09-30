@@ -59,4 +59,4 @@
 ## 🔗 Cross-refs
 
 - Team 10 → [ino-yamanaka.md](../../women/ino-yamanaka.md) · [choji-akimichi.md](choji-akimichi.md) · sensei → [asuma-sarutobi.md](../sarutobi/asuma-sarutobi.md)
-- The revenge → [hidan.md](../../yugakure/hidan.md) · his wife → [temari.md](../../women/temari.md) · the shadow read → [characters.md](../../characters.md) § Team 10
+- The revenge → [hidan.md](../../yugakure/hidan.md) · his wife → [temari.md](../../women/temari.md) · the shadow read → characters.md § Team 10

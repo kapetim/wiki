@@ -79,7 +79,7 @@ The method that replaced the old trait rankings: every concept has a **pole**, a
 
 - Sprint ↔ distance, sentimental ↔ detached, impulsive ↔ disciplined, wooden ↔ compelling.
 - **Know where you are** on the axes that matter for you — and take notes as you learn them.
-- Personal fit drives the routine ([pleasure § personal fit](../framework/prize.md#-personal-fit--not-everyone-suits-everything)).
+- Personal fit drives the routine (pleasure § personal fit).
 
 ---
 

@@ -4,7 +4,7 @@
 
 - **The homelessness trap:** losing housing is fast; **getting back in is very hard** — no address, no deposit, no stable income.
 - **A lottery prize tends to fix it** — a windfall is the rare exit ([solvable/finance.md](../solvable/finance.md)).
-- **When nothing fixes it, suicide may be read as the better option** — the remaining move when every lever is gone.
+- **When nothing fixes it, the trap can feel total** — every lever seems gone.
 - **Poverty is a loop**, not a state: rent, transport, health, and time compound against the climb.
 
 ## ❓ Open questions

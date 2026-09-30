@@ -159,7 +159,7 @@ The game engine outlives any one season. Strong cards **always exist**; collecti
 - **Control improves later** — the crazy shit shrinks from season 0 → 1 → GX; each season starts **easier to referee** than the last.
 - **Acknowledge over delete** — banning the top cards makes the championship repetitive and meaningless; admitting they exist keeps it attractive.
 
-**Cross-refs:** the Marik nitro-duelist and god-card-order reads now live in the [Yu-Gi-Oh! character sheets](../../characters/yugioh/readme.md) · [substances.md § speed lane](./substances.md#-speed-lane-stimulants) (the nitro read).
+**Cross-refs:** the Marik nitro-duelist and god-card-order reads now live in the [Yu-Gi-Oh! character sheets](../../characters/yugioh/readme.md) · substances.md § speed lane (the nitro read).
 
 ---
 
@@ -170,19 +170,19 @@ The game engine outlives any one season. Strong cards **always exist**; collecti
 
 - **Pure heaven = WALL·E communism** — robot-managed equality: no crime, no competition, no sentiment. Then someone appears smarter, another prettier → **competition**.
   *Why should I live equally to someone prettier?* Unfairness creates hatred → crime → those at heaven call it hell. Cross-ref [futures.md § attractors](../society/futures.md).
-- **Compensation rule** — if your girl chose the guy with the largest dick to be her favorite, you must be compensated in some manner. Otherwise, *what prevents you from killing that person?*
-- **Dick economics** — large-dick guys tend poorer, small-dick tend richer. If the large-dick dude becomes rich, it brings up unfairness. The poor small-dick person has nothing
-  preventing him from attacking the rich. The rich big-dick becomes vulnerable — you are probably busy enjoying life while the other is busy crafting a perfect plan.
-  - **Worked example — Cariani / Balestrin:** Julio has the larger dick → women prefer him for sex → Cariani's counter must be **richer than him**. If Julio ever gets richer, nothing prevents Cariani
-    from killing him — the compensation rule made literal.
-When you win all competitions you become a target for losing something you **can't recover** (what if Cariani cuts Julio's dick off?). Society naturally drifts toward that escalation:
-**Julio must always stay less wealthy than Cariani, or he risks losing his dick.**
-  - **The protection equilibrium:** it's almost as if Cariani's job is to keep Julio **protected and as rich as possible** — Julio's wealth is the *excuse* for Cariani being very rich (just a bit
-    more). If Julio goes poor, Cariani's floor drops too: his
-minimum fundamental is **richer than Julio**, not rich in absolute terms. Dirty-name Julio (no credit) is fine as long as clean-name Cariani holds the credit — but **better to be both rich**. The
-rival is a resource, not just a threat.
-  - **Lifestyle asymmetry / the winner's cost:** little real difference between one million and a few; Julio probably enjoys life *more* — sex with Cariani's wife while Cariani rests on the larger
-    boat. Winning locks you on the boat; the "loser" consumes the reward.
+- **Compensation rule** — if you lose a competition for a partner or for status, you expect compensation in some form — resources, standing, or an advantage elsewhere. Otherwise, *what prevents you from
+  escalating?*
+- **Advantage economics** — whoever holds a visible advantage (charm, looks, attention) tends to hold less wealth; whoever holds wealth tends to lack the advantage. When the advantage-holder also gains
+  wealth, the balance tips and resentment builds.
+  - **Worked example:** the favoured rival holds the visible advantage → partners prefer them → the wealthier rival's standing must stay ahead. If the favoured one ever gains wealth too, nothing
+    restrains the wealthier one from escalation — the compensation rule made literal.
+- When you win every competition you become a target for losing something you **can't recover**. Society drifts toward that escalation: **the favoured one must stay behind in wealth, or they risk
+  losing what they have.**
+  - **The protection equilibrium:** the wealthier rival's job is to keep the favoured one **protected and as comfortable as possible** — the favoured one's standing is the *excuse* for the other being
+    very rich. If the favoured one falls, the wealthier one's floor drops too: the minimum is to stay ahead, not rich in absolute terms. A discredited name is fine as long as a clean name holds the
+    credit — but **better to be both rich**. The rival is a resource, not just a threat.
+  - **Lifestyle asymmetry / the winner's cost:** little real difference between one million and a few; the favoured one may enjoy life *more* while the wealthier one keeps up appearances. Winning
+    locks you on the boat; the "loser" consumes the reward.
 (Echoes [society § winner's sentiment load](./../society/society.md#-winners-vs-sentiment-bandwidth).) Sometimes people get out of control and someone **dies without being required** — or gets hurt
 *by accident*, if they prefer saying.
 - **Chaos needs one individual** — generally stimulated by unfairness.

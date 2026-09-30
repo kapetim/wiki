@@ -49,5 +49,5 @@
 
 ## 🔗 Cross-refs
 
-- [characters.md](../characters.md) § antagonist ladder
+- characters.md § antagonist ladder
 - Partner → [itachi-uchiha.md](../uchiha/itachi-uchiha.md) · the org → [pain.md](../rain/nagato.md)

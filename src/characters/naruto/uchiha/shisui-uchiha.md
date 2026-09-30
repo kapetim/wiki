@@ -60,7 +60,7 @@ The anime's account may not be the whole truth — reads below are threads in lo
 | Commits suicide off a cliff before Itachi, after failing to run from Danzō | **Staged**: a shadow-clone or Body-Flicker away — teleported into a **crow** inside Itachi's setup |
 | Gone for good — Sasuke's revenge seed | Itachi's crow keeps one eye (Kotoamatsukami); the stolen eye failed — trust vs force |
 | A witnessed death counts as proof | Witnessed death is **unreliable** — genjutsu could make Itachi *believe* the handoff (sabotage read) |
-| No family of his own | **Mirai Sarutobi** resembles him — Kurenai read as **≈ Shisui's sister** ([characters.md](../characters.md)) — his niece |
+| No family of his own | **Mirai Sarutobi** resembles him — Kurenai read as **≈ Shisui's sister** (characters.md) — his niece |
 <!-- end table -->
 
 ## 🗣️ Signature
@@ -82,7 +82,7 @@ Voice and tells merged:
 ## 🔗 Cross-refs
 
 - naruto/readme.md — series hub
-- [characters.md](../characters.md) — Tobirama line, masked-Uchiha read, Kurenai ≈ sister
+- characters.md — Tobirama line, masked-Uchiha read, Kurenai ≈ sister
 - [sharingan.md](sharingan.md) — Mangekyō ladder, temperament fork, death reports
 - Sync partners → [yahiko.md](../rain/yahiko.md) · [kushina-uzumaki.md](../women/kushina-uzumaki.md) — the three-deaths pattern
 - truco-hierarchy.md — **4♣** hidden top · power-guns.md — the gas station

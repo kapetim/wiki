@@ -48,4 +48,4 @@
 
 ## 🔗 Cross-refs
 
-- His student → [9-naruto-uzumaki.md](../../jinchuriki/9-naruto-uzumaki.md) · the recognition read → [characters.md](../../characters.md) § mentors
+- His student → [9-naruto-uzumaki.md](../../jinchuriki/9-naruto-uzumaki.md) · the recognition read → characters.md § mentors

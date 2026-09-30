@@ -1,7 +1,7 @@
 # 🐕 Breeds — domestication and divergence
 
 **What this is:** how the domestic dog branched from the wolf, and how humans shaped **breeds** — human-maintained populations selected for size, coat, and behaviour. A survey of the major breed
-groups, a few familiar examples, and the health and temperament patterns that follow. Companion to [media/behavior.md](media/behavior.md).
+groups, a few familiar examples, and the health and temperament patterns that follow. Companion to media/behavior.md.
 
 ---
 
@@ -70,5 +70,5 @@ Behaviour has a **heritable** component — pointers point, herders herd — but
 
 ## 🔗 Related
 
-- [media/behavior.md](media/behavior.md) — behaviour reads
+- media/behavior.md — behaviour reads
 - [readme.md](readme.md) — the observation index

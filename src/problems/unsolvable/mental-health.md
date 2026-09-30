@@ -3,7 +3,7 @@
 **What this is:** a mental-health problem with **no definitive fix** — chronic conditions are managed, not cured.
 
 - **Chronic depression / schizophrenia** — management, not cure; relapse risk stays.
-- **Suicide** — the terminal move when the trap has no exit ([finance.md](finance.md)).
+- **The terminal trap** — when no exit is visible ([finance.md](finance.md)).
 - **Grief** — no fix; adaptation only ([relationships.md](relationships.md)).
 
 ## ❓ Open questions

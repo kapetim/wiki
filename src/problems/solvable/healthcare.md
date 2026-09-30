@@ -18,4 +18,3 @@
 
 - [problems index](../readme.md)
 - [unsolvable/healthcare.md](../unsolvable/healthcare.md) — no definitive fix
-- rules/allergies.md · rules/substances.md

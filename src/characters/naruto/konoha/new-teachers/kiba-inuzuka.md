@@ -49,4 +49,4 @@
 ## 🔗 Cross-refs
 
 - Team 8 trio → [shino-aburame.md](shino-aburame.md) · sensei → [kurenai-yuhi.md](../../women/kurenai-yuhi.md) · Hyūga watcher → [hinata-hyuga.md](../hyuga/hinata-hyuga.md)
-- The tracker beat → [characters.md](../../characters.md) § Team 8
+- The tracker beat → characters.md § Team 8

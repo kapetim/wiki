@@ -48,4 +48,4 @@
 ## 🔗 Cross-refs
 
 - Team 10 → [shikamaru-nara.md](../konoha/new-teachers/shikamaru-nara.md) · [choji-akimichi.md](../konoha/new-teachers/choji-akimichi.md) · sensei → [asuma-sarutobi.md](../konoha/sarutobi/asuma-sarutobi.md)
-- [characters.md](../characters.md) § Team 10 · the healer rival → [sakura-haruno.md](sakura-haruno.md)
+- characters.md § Team 10 · the healer rival → [sakura-haruno.md](sakura-haruno.md)

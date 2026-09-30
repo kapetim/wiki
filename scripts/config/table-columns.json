@@ -519,23 +519,6 @@
   "src/characters/madagascar/zuba-and-florrie.md": [
     2
   ],
-  "src/characters/naruto/characters.md": [
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3
-  ],
   "src/characters/naruto/cloud/a-raikage.md": [
     2,
     2,
@@ -1006,15 +989,6 @@
   "src/characters/naruto/takigakure/kakuzu.md": [
     2,
     2,
-    4
-  ],
-  "src/characters/naruto/translation.md": [
-    4,
-    3,
-    4,
-    3,
-    4,
-    4,
     4
   ],
   "src/characters/naruto/uchiha/fugaku-uchiha.md": [
@@ -1896,10 +1870,6 @@
     2,
     3
   ],
-  "src/observation/framework/substances.md": [
-    2,
-    3
-  ],
   "src/observation/fundamentals/fear-triage.md": [
     2,
     2
@@ -1943,14 +1913,6 @@
     4
   ],
   "src/observation/media/aquarium.md": [
-    3,
-    2
-  ],
-  "src/observation/media/behavior.md": [
-    3,
-    2,
-    2,
-    3,
     3,
     2
   ],

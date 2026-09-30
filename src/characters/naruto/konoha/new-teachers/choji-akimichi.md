@@ -57,4 +57,4 @@
 ## 🔗 Cross-refs
 
 - Team 10 → [shikamaru-nara.md](shikamaru-nara.md) · [ino-yamanaka.md](../../women/ino-yamanaka.md) · sensei → [asuma-sarutobi.md](../sarutobi/asuma-sarutobi.md)
-- The one he beat → [jirobo.md](../../sound/jirobo.md) · [characters.md](../../characters.md) § Team 10
+- The one he beat → [jirobo.md](../../sound/jirobo.md) · characters.md § Team 10

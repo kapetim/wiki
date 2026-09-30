@@ -62,5 +62,5 @@ Trait-level: the dark-clothed, snack-obsessed jonin — looks like a threat, rea
 
 ## 🔗 Cross-refs
 
-- anko-server.md · [characters.md](../characters.md) § axis · odd-people.md
+- anko-server.md · characters.md § axis · odd-people.md
 - Real-world employer → [../../real-world-jobs.md](../../real-world-jobs.md)

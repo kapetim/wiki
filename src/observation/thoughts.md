@@ -26,7 +26,7 @@ even if you use imagination to represent them as
 images or videos. Accepting it as some reality is the first step; fixing it is probably impossible, more likely to get nuts fighting an infinite battle without a chance to win. In The Sims, your sim
 can't hide anything from you.
 
-A sim that realizes this is not granted anything special — it's more like a consequence depending on what you do. Consuming cannabis makes a person wonder about possibilities; they created The Matrix
+A sim that realizes this is not granted anything special — it's more like a consequence depending on what you do. Altered states make a person wonder about possibilities; they created The Matrix
 but never explained it. Someone high may wonder
 too much, go out, and collect validations — noises synchronized with their thoughts, words close to some unique shit they wondered. Very hard to prove; at best you have data points that make you look
 paranoid rather than smart.

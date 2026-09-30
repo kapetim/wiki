@@ -49,4 +49,4 @@
 ## 🔗 Cross-refs
 
 - Team 8 trio → [kiba-inuzuka.md](kiba-inuzuka.md) · sensei → [kurenai-yuhi.md](../../women/kurenai-yuhi.md)
-- The one he broke → [zaku-abumi.md](../../sound/zaku-abumi.md) · [characters.md](../../characters.md) § Team 8
+- The one he broke → [zaku-abumi.md](../../sound/zaku-abumi.md) · characters.md § Team 8

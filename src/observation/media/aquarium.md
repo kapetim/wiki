@@ -157,7 +157,7 @@ can **from the place you are**.
 
 Truman got too anxious about finding himself in an aquarium and effectively **pursued suicide** (the escape/exit). Valid — but not clearly the best option. He had plenty of better choices before that:
 
-- He might be **forbidden sex and marriage**, but still allowed to **play video games and jerk off** — not that different from having sex with whores.
+- He might be **denied a private life**, but still allowed **games and private time** — not so different from being free in a less-guarded tank.
   **Traumatic to realize, quite doable once used to it.**
 - The **penguins of Madagascar** had a better reaction: simply **smile and wave**. Running from the aquarium means danger against **sea lions and other wild animals**.
 - It's **freedom of mind in trade for the lack of privacy**: get used to the environment and enjoy the **long lifespan while being spoiled**.

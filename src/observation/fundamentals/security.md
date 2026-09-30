@@ -96,7 +96,7 @@ do anything, including to you. There's no controlled middle ground.
 - If an individual is free to torture anyone, who is the target? **If they were controlled, there would be no torture and no police.** Their existence means harm is real.
 - **A live stream isn't bulletproof** — people would basically watch you dying during the stream.
 - **Everyone has free will, each in their own way.** People make mistakes and are hurt by others — move on.
-- Some people become officers to pursue those who make lolita victims — but that itself proves **there is no control**.
+- Some people become officers to pursue those who harm the vulnerable — but that itself proves **there is no control**.
 - If the system were perfect, there'd be no need for guns — people would simply know who is going to kill and **pause them before it**. Anything else means nobody knows who does what: you hear news,
   you hunt the criminal — but **who is the criminal, and who was the victim?**
 - ~**1 police officer per 10k civilians** — virtually impossible to catch all criminals. Serial killers, school attacks, the Twin Towers: these aren't accidents — people

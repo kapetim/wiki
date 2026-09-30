@@ -49,4 +49,4 @@
 
 ## 🔗 Cross-refs
 
-- The one he loved → [haku.md](haku.md) · the arc → arcs.md § Land of Waves · the ladder → [characters.md](../characters.md) § antagonist
+- The one he loved → [haku.md](haku.md) · the arc → arcs.md § Land of Waves · the ladder → characters.md § antagonist

@@ -54,5 +54,5 @@ Your read: ugly, skinny, and proudly uncool — no ninjutsu or genjutsu, just th
 ## 🔗 Cross-refs
 
 - Team Guy → [might-guy.md](might-guy.md) (sensei) · [tenten.md](../../women/tenten.md) · the genius he proved wrong → [neji-hyuga.md](../hyuga/neji-hyuga.md) · his son → [metal-lee.md](metal-lee.md)
-- The no-shortcuts read → [characters.md](../../characters.md) § Team Guy
+- The no-shortcuts read → characters.md § Team Guy
 - Real-world employer → [../../../real-world-jobs.md](../../../real-world-jobs.md)

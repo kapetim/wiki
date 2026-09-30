@@ -48,7 +48,7 @@ In a world where everyone streams, security and privacy lose purpose:
 | --- | --- | --- |
 | **Security / privacy** | Purpose | No purpose — relevant only when the individual feels like it |
 | **Crime** | Possible, hidden | Instantly known |
-| **Sex** | Private act | Becomes a porn video |
+| **Private act** | Private | Becomes public content |
 | **Conversation** | Private | Becomes a live podcast |
 | **Secrets** | Keepable | A file in a shared folder |
 <!-- end table -->
@@ -235,7 +235,7 @@ Some things are obscure for Truman:
 
 ## 🤔 Monitoring's inconsistent cost
 
-Kind of confused about cost: people can monitor a person **buying and consuming drugs**, but then complain when they **kill someone**. Is it about:
+Kind of confused about cost: people can monitor a person's **private vices**, but then complain when they **kill someone**. Is it about:
 
 - avoiding a **specific crime**?
 - **not doing it with a specific person**?
@@ -399,8 +399,8 @@ some depth.
 If life is a game and you have a **physical body outside it**, then nothing inside the Matrix is contained: **any damage
 you take in-sim happens outside too**. The body sits in the **chair**; the simulation is only the input.
 
-- **Sex is the dark mirror of the chair** — have sex inside the Matrix and someone is probably **raping you outside
-  through the chair**; the in-sim pleasure has a real act behind it.
+- **The private act is the dark mirror of the chair** — an intimate act inside the Matrix means someone is probably performing an **unwanted act on the body outside**, through the chair; the in-sim
+  pleasure has a real act behind it.
 - **Death is the same** — dying in the Matrix means the **body outside dies** (unplugged, not respawned).
 - The tank/pod read: [worlds.md](media/worlds.md) (instances) · [aquarium.md](media/aquarium.md) (the bubble).
 
