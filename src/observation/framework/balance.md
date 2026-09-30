@@ -198,7 +198,7 @@ The game engine outlives any one season. Strong cards **always exist**; collecti
 ## 🛡️ Referee the secure environment
 
 **Fair game is fiction.** The fair frame is an ideal that never fully holds — power always smuggles in via Items, cheating, or wealth. The championship world *runs on* the fair-game frame, not because
-it is real, but because it is the **agreement**. Pricing the acts: [fair-game.md](../../justice/fair-game.md).
+it is real, but because it is the **agreement**. Pricing the acts: [fair-game.md](../justice/fair-game.md).
 
 ### 🏆 Championship as post-war treaty
 

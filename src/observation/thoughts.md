@@ -115,4 +115,12 @@ Note about substance usage: sometimes the belly is bad after food, sometimes not
 despite the same
 quantity. It's like a river flow — despite looking similar, the water always changes. Full control over the brain would let you get things done — like a computer running the same script twice.
 
+## 🔮 Mind-reading — the register read
+
+The mind-reading worry: someone reads the raw content — an unspoken desire, an ugly impulse, an involuntary image —
+and you run from the imagined verdict. Thoughts are **registers, not transmissions**: thinking X is not doing X, and
+unexpressed thoughts file under **no-harm**, not damage. If minds were truly readable, interviews, lies, and courts
+would collapse — they don't ([monitoring.md](monitoring.md)). Reopen only if a specific thought is answered back with
+content you never voiced — not a coincidence, not a "they knew."
+
 ## 🧭 How this connects

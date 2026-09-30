@@ -93,6 +93,11 @@ cross-listed from [Jinchūriki](#-jinchūriki); Kushina (mother, prior host) is 
 | Team Guy | [Guy](konoha/hermaphrodite/might-guy.md) · [Lee](konoha/hermaphrodite/rock-lee.md) · [Tenten](women/tenten.md) |
 <!-- end table -->
 
+### 👮 Police
+
+The Leaf's police is the **Uchiha clan** — a clan force put to watch itself. Read: [konoha/police.md](konoha/police.md)
+— the toll, the self-policing, and the massacre's logic.
+
 ## 🚺 Women
 
 The village women without a clan/family folder of their own — each carries power the loud ladders underestimate. **Also women, kept in their clan/family homes:** [Tsunade](konoha/senju/tsunade.md)

@@ -10,7 +10,7 @@
     "test": "node --test 'test/**/*.test.js'",
     "test:unit": "node --test 'test/unit/**/*.test.js'",
     "test:integration": "node --test 'test/integration/**/*.test.js'",
-    "lint": "SDIR=\"$PWD\" && cd \"${REPO_DIR:-..}\" && \"$SDIR/node_modules/.bin/eslint\" --config \"$SDIR/config/eslint.config.js\" scripts src .vscode .devcontainer",
+    "lint": "SDIR=\"$PWD\" && cd \"${REPO_DIR:-..}\" && \"$SDIR/node_modules/.bin/eslint\" --no-error-on-unmatched-pattern --config \"$SDIR/config/eslint.config.js\" scripts src .vscode .devcontainer",
     "lint-shell": "shellcheck -x \"${REPO_DIR:-..}\"/scripts/*.sh",
     "lint-docker": "hadolint \"${REPO_DIR:-..}/Dockerfile\"",
     "lint-ci": "node tools/lint-ci.js",

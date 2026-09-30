@@ -83,6 +83,62 @@ The method that replaced the old trait rankings: every concept has a **pole**, a
 
 ---
 
+## 🔁 The closed-loop register
+
+Each recurrent loop is a **spiral of thoughts** that returns to the same bad position — shame, dread, self-attack —
+every pass. Re-running the same analysis is **re-reading the same book a hundred times**: it returns `null` every
+pass. Once a loop's verdict is written, it is **already spent** — not worth going back.
+
+### ♻️ Entry points & visited vertices
+
+A loop has **many entry points but few vertices** — the graph is finite. Once a thought-vertex is analyzed and
+closed, mark it **visited**. Re-entering a visited vertex returns nothing: same edges, same dead end.
+
+A new trigger that lands in an existing loop is a *new doorway into a visited room*: apply that loop's card — don't
+open a new analysis. Only an **unvisited** vertex can earn a new card, and only if the template above passes.
+
+### ⚡ Entry reactions to avoid
+
+The loop is entered through **reactions, not events**. Recording the reaction that starts the spiral is how you abort
+*before* the spin — not after. Known starters:
+
+- **"One more analysis"** — re-running a verdict as if it could change this time.
+- **Performing for an imagined audience** — staging behavior for a watcher who isn't there.
+- **Testing** — running checks to confirm whether anyone noticed.
+- **Shame-run** — hiding a private need over what someone might think.
+- **Dwelling in the bad position** — sitting in the spiral's landing point instead of taking the reachable fix.
+
+### ☔ The rain rule
+
+If it's raining, find a way to run from the rain — complaining changes nothing. Lines of thought are trickier to run
+from, so **pick something else that's more interesting**. It's a bad movie on repeat: stop the tape.
+
+### 🍑 The mundane fix
+
+Every loop has a reachable **mundane fix** (earphones, a closed door, venting, a free sandbox). Take it once. What
+remains after the reachable fix is **weather**. Complaint is the loop talking; the fix is the loop ending.
+
+### 📖 The boring rule
+
+If a loop is infinite enough to be worth naming, it's **probably boring** — a finished book you've already read and
+find nothing more inside. Stop re-reading it. The register exists so you don't have to.
+
+### 🎧 The music system
+
+Thoughts play like a music system — there is always a track on. The skill is noticing the **tempo** (how fast the
+thoughts run) and **which song** (which thought you're diving into). Repeating one song is fine; the point is keeping
+some attention on when it stops returning anything. When there's any way to **influence the brain toward a direction
+you prefer, do it** — the queue isn't suffered passively, it's picked.
+
+### 🧭 Using it
+
+1. **Name the vertex** — an existing loop through a new doorway? Apply its card; don't start fresh.
+2. **Read the card** — the verdict is already written.
+3. **Take the umbrella** — the mundane fix, once.
+4. **Check the entry reactions** — if this is one, abort here. That's the moment, not after the spiral.
+5. **Switch the track** — rewatch/relisten to what returns enjoyment, or find something new.
+6. **Don't re-litigate** — a loop reopens only on the concrete observation its card names.
+
 ## 🧭 How this connects
 
 <!-- begin table -->

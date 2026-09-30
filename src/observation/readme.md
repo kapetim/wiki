@@ -10,6 +10,7 @@ signal, to be **proved or dropped later** ([prejudice.md](prejudice.md)).
 | --- | --- |
 | `framework/` | The big engines — born, play, balance, structures, restart. |
 | `fundamentals/` | Hard limits, gates, harm, and security. |
+| `justice/` | Fairness, karma, proof, and enforcement theory. |
 | `media/` | TV, film, and format reads — worlds, stages, archetypes. |
 | `society/` | Groups, cultures, and futures. |
 <!-- end table -->

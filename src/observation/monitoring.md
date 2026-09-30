@@ -94,7 +94,7 @@ The OS/terminal metaphor explains overriding commands to other people: **all pro
 ## 🏢 Kaiba methodology — protection via lack of privacy
 
 The methodology of protection is unfortunately the **lack of privacy**: the referee protects the championship by making everything visible — who owns which card, who uses it, where it was last seen.
-Monitoring as the cost of a fair game ([fair-game.md](../justice/fair-game.md)). The watcher is the tuner ([balance.md](framework/balance.md)).
+Monitoring as the cost of a fair game ([fair-game.md](justice/fair-game.md)). The watcher is the tuner ([balance.md](framework/balance.md)).
 
 ---
 
@@ -403,6 +403,45 @@ you take in-sim happens outside too**. The body sits in the **chair**; the simul
   pleasure has a real act behind it.
 - **Death is the same** — dying in the Matrix means the **body outside dies** (unplugged, not respawned).
 - The tank/pod read: [worlds.md](media/worlds.md) (instances) · [aquarium.md](media/aquarium.md) (the bubble).
+
+## 🔭 The four channels
+
+Monitoring isn't one loop — it splits into **four channels**, each an independent recurrent loop: being **seen**,
+being **heard**, **mind-reading**, and **shared imagery**.
+
+<!-- begin table -->
+| Channel | The private thing | Shame trigger | Verdict | Umbrella |
+| --- | --- | --- | --- | --- |
+| **Visual** | Body and private acts | An eye or camera catching them | Body needs are breathing — act naturally | Blinds, closed door, then natural behavior |
+| **Audio** | Voice, venting | Being heard, logged, transcribed | Speaking out is a pressure valve — release is needed | Vent as a valve, not a performance |
+| **Thoughts** | Desires, impulses, raw monologue | Someone reading them | Thoughts are registers, not transmissions | Let the raw frame pass like a breath |
+| **Imagination** | Fantasy imagery | It being reconstructed and judged | Imagery is a sandbox — unvoiced, it's no-harm | Keep the sandbox free |
+<!-- end table -->
+
+**Shared premise:** assume it's possible that all four stream — body, voice, thoughts, imagery — and that someone
+**or a machine** can **comprehend** them (parse meaning, not just capture) and **share** them with others. The premise
+is assumed, and the verdict holds anyway.
+
+**Shared loop:** worrying about what someone else might think of that channel's private content → the shame → running
+away from the shame (hiding, stopping, censoring, re-litigating). The run *is* the loop — it returns nothing.
+
+**Shared verdict:** be **sure of what I'm doing and why** — then simply **don't care**. Private acts are needs, like
+**breathing**; the healthy spot is a natural rhythm, not a counted one. Reopen a channel only on a concrete,
+otherwise-unexplainable surfacing of your own content — otherwise it's weather.
+
+## 🎛️ Control — the owner role
+
+External inputs that break the expected script — noise, unpredictable people — read as a responsibility: "if
+something is wrong, I should be able to fix it by force of will." The control belief is the **owner role** — a
+fictional ladder top ([structures.md](framework/structures.md)). The world outside your reach is not yours to script;
+noise happens. **Reopen only on** a concrete, actionable lever not yet pulled.
+
+## 🎬 World-game — life is arranged
+
+Random alignment read as a directed message — a coincidence, a repeated word, a sequence that feels written. Random
+data always yields a pattern if you decode long enough; the "plot" is what you wrote. **Message test:** does the
+"message" demand a specific action you would otherwise never take? If no, it's weather, not script.
+**Reopen only on** a scripted prediction that self-verifies — not a pattern assembled after the fact.
 
 ## 🧭 How this connects
 

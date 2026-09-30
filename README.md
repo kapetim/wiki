@@ -1,6 +1,6 @@
 # 📖 Wiki
 
-Personal wiki — the personal collection: characters, observation, justice, playlists, games, tools, instruments, problems, and recipes.
+Personal wiki — the personal collection: characters, observation, playlists, games, tools, instruments, problems, and recipes.
 
 **What this is:** the non-sensitive life reference, public and easy to browse.
 
@@ -12,8 +12,7 @@ Personal notes live in a separate place.
 | Folder | What goes here |
 | --- | --- |
 | [`characters/`](src/characters) | Personality + life dossiers — one sheet per character |
-| [`observation/`](src/observation) | Frameworks, theories, and media reads |
-| [`justice/`](src/justice) | Karma (accounting) and fair game (judgement) |
+| [`observation/`](src/observation) | Frameworks, theories, media reads, and justice |
 | [`playlists/`](src/playlists) | Movies, series, audiobooks, music, podcasts, sounds |
 | [`games/`](src/games) | Video and board games |
 | [`tools/`](src/tools) | Durable stuff — devices, machine setup, everyday carry, and bookmarks |
@@ -26,7 +25,7 @@ Personal notes live in a separate place.
 
 ### 📊 Coverage
 
-**Total: 3237 headings · 3237 with emoji · 100.00% coverage.**
+**Total: 3299 headings · 3299 with emoji · 100.00% coverage.**
 
 Files with headings missing an emoji: none.
 

@@ -1797,14 +1797,6 @@
     2,
     2
   ],
-  "src/justice/karma.md": [
-    2,
-    5
-  ],
-  "src/justice/readme.md": [
-    2,
-    3
-  ],
   "src/observation/breeds.md": [
     3,
     6
@@ -1904,6 +1896,30 @@
     5,
     2
   ],
+  "src/observation/justice/evidence.md": [
+    3,
+    2
+  ],
+  "src/observation/justice/fair-game.md": [
+    2,
+    3,
+    3,
+    3,
+    4,
+    3,
+    3,
+    3
+  ],
+  "src/observation/justice/karma.md": [
+    2,
+    2,
+    3,
+    5
+  ],
+  "src/observation/justice/readme.md": [
+    2,
+    3
+  ],
   "src/observation/masks.md": [
     3,
     3,
@@ -1966,7 +1982,8 @@
   ],
   "src/observation/monitoring.md": [
     3,
-    4
+    4,
+    5
   ],
   "src/observation/prejudice.md": [
     3
@@ -2017,6 +2034,10 @@
     3,
     3,
     3
+  ],
+  "src/observation/society/ledgers.md": [
+    3,
+    2
   ],
   "src/observation/society/society.md": [
     2,

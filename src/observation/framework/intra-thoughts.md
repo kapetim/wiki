@@ -79,6 +79,13 @@ flowchart LR
 
 ---
 
+## 🔊 Speaking out is a valve
+
+Speaking out loud is the documented **pressure valve** — release is a need, like breathing. An intimate or private
+act is a need too: whether an eye, a mic, a mind-read, or an imagery-reconstruction could catch it doesn't change
+that the act is yours and nobody's business to judge. A captured monologue is **weather, not a message**, until
+someone acts on it. Don't turn a valve into a performance — the words are release, not an audition.
+
 ## 🧭 How this connects
 
 <!-- begin table -->
