@@ -12,6 +12,7 @@ owed back), and **fair game** is the **judgement system** (collect evidence, the
 | [fair-game.md](fair-game.md) | The judgement system — pricing the acts that freedom allows |
 | [evidence.md](evidence.md) | Proof in the AI age — data-on-disk, provenance, and the caught-standard |
 | [self-defense.md](self-defense.md) | The unprovable claim — survival, proof, and the house with no camera |
+| [police.md](police.md) | The enforcement layer — presence as fear, and enforcement as a toll |
 <!-- end table -->
 
 ## 🧭 Who polices each layer
