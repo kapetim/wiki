@@ -9,6 +9,7 @@ Everything under `src/` — the personal wiki.
 | --- | --- |
 | `characters/` | Personality + life dossiers — one sheet per character, reference for personalities |
 | `observation/` | Frameworks, theories, media reads, and justice |
+| `guides/` | Personal workflows and methodology |
 | `playlists/` | What you watch and listen to — movies, series, audiobooks, music, podcasts, sounds |
 | `games/` | What you play — video and board games |
 | `tools/` | Durable stuff — devices, machine setup, everyday carry, and bookmarks |

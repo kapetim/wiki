@@ -1,6 +1,6 @@
 # 📖 Wiki
 
-Personal wiki — characters, observation, playlists, games, tools, instruments, problems, and recipes.
+Personal wiki — characters, observation, guides, playlists, games, tools, instruments, problems, and recipes.
 
 **What this is:** a personal knowledge wiki, public and easy to browse.
 
@@ -11,6 +11,7 @@ Personal wiki — characters, observation, playlists, games, tools, instruments,
 | --- | --- |
 | [`characters/`](src/characters) | Personality + life dossiers — one sheet per character |
 | [`observation/`](src/observation) | Frameworks, theories, media reads, and justice |
+| [`guides/`](src/guides) | Personal workflows and methodology |
 | [`playlists/`](src/playlists) | Movies, series, audiobooks, music, podcasts, sounds |
 | [`games/`](src/games) | Video and board games |
 | [`tools/`](src/tools) | Durable stuff — devices, machine setup, everyday carry, and bookmarks |
@@ -23,7 +24,7 @@ Personal wiki — characters, observation, playlists, games, tools, instruments,
 
 ### 📊 Coverage
 
-**Total: 3299 headings · 3299 with emoji · 100.00% coverage.**
+**Total: 3323 headings · 3323 with emoji · 100.00% coverage.**
 
 Files with headings missing an emoji: none.
 
