@@ -1,7 +1,7 @@
 # 🍥 Naruto
 
 **What this is:** universe home — the Naruto verse (anime · manga · Boruto), organized by village and faction. One file per character lives under its group; this readme indexes the whole
-universe. Deep theory stays in the private `lore/naruto/`.
+universe. Deep theory lives under `observation/`.
 
 ## 🍃 Konoha — the Leaf
 

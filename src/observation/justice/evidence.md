@@ -59,7 +59,7 @@ verdict. The AI age breaks that:
 
 - The "perfect recording" is now **exactly what can be generated**.
 - Courts can't lean on pixels — they need **provenance**: where did these bytes come from, and who vouches for them?
-- Illegal capture is already unusable ([fair-game.md](fair-game.md), the Lula case). Synthetic capture pushes
+- Illegal capture is already unusable ([fair-game.md](fair-game.md)). Synthetic capture pushes
   further: even *legal-looking* bytes aren't proof without a chain.
 
 Watching ≠ proving, and now **capturing ≠ proving** either.
@@ -88,15 +88,15 @@ The practical standard ends up being: **don't make mistakes in front of the poli
 
 You can **plant** a situation on someone:
 
-- Build a backpack with **cocaine and cash notes**, throw it onto someone, call the police — they may instantly be
-  treated as a criminal, **without having done anything**.
-- Same at home: plant drugs, withdraw some money, throw it on anyone. **As long as the police believe, that person is
-  truly a criminal** in the file.
+- Put **contraband and cash** in a bag, throw it onto someone, call the police — they may instantly be treated as a
+  criminal, **without having done anything**.
+- Same at home: plant an incriminating object, move some money around, throw it on anyone. **As long as the police
+  believe, that person is truly a criminal** in the file.
 
 But it's **expected to be investigated** — and frames fail on **provenance**:
 
-> How did the drug and the money appear? There's **no plant vase**, no **withdrawal from their account**, no
-> **contact with dealers or buyers**.
+> How did the object and the money appear? There's **no paper trail**, no **withdrawal from their account**, no
+> **contact with a counterparty**.
 
 Nothing structurally prevents a frame — but **having a normal life is the best protection**: a consistent, auditable
 origin story that a planted object can't match.
@@ -108,9 +108,9 @@ origin story that a planted object can't match.
 Accept car damage over time. Relying on a front camera only helps you **collect evidence to keep complaining to a
 judge later** — reasonable, but better to focus on self-defense.
 
-If there's no live stream, anything done in a bedroom is valid: a person may kill the other and **claim
-self-defense** — who has any proof of what happened there? Only if you're live streaming can it be explained. The
-claim's blind spot is [self-defense.md](self-defense.md).
+If there's no live stream, anything done in a bedroom is valid: a person may **claim self-defense** for whatever
+happened there — who has any proof of the scene? Only if you're live streaming can it be explained. The claim's blind
+spot is [self-defense.md](self-defense.md).
 
 ---
 

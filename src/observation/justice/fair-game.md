@@ -82,7 +82,7 @@ arrive**.
 ## ⚖️ Punishment vs the act
 
 Two gunshots is an **instant kill** — seconds of pain. Forty years in jail is a very different price. Still, it's the
-rule invented. The jail system is **biased toward rape and violence**; assassination is treated oddly — spare time
+rule invented. The jail system is **biased toward violent offenses**; assassination is treated oddly — spare time
 with full security in a cell.
 
 ## 🎯 Perfect balance — hard to achieve
@@ -103,7 +103,7 @@ countries** even when labels differ.
 | Tier (metaphor) | Examples | Why law cares |
 | --- | --- | --- |
 | **Capital / irreversible** | Murder, assassination | Victim's run ended |
-| **Felony-class** | Grievous assault, rape, arson with risk, large fraud | Lasting body, liberty, or livelihood damage |
+| **Felony-class** | Grievous assault, serious bodily offenses, arson with risk, large fraud | Lasting body, liberty, or livelihood damage |
 | **Misdemeanor-class** | Battery, DUI, repeat theft, some harassment | Real harm, recoverable life often |
 | **Infraction / petty** | Minor theft, disorderly conduct, many traffic sins | Nuisance + deterrence |
 <!-- end table -->
@@ -125,7 +125,7 @@ Courts need **admissible evidence**, not vibes. Without it, the case often **nev
 | **Theft / fraud** | bank records, contracts, digital trail | cash, verbal deal, no paper |
 | **DUI / traffic** | breath test, cam, officer report | — (usually public stop) |
 | **Betrayal / cheating** | rare — texts, photos, admissions | private words only; he said / she said |
-| **STD exposure** | medical records + traceable contact if tested | consensual private sex, no clinic trail |
+| **Exposure risk** | medical records + traceable contact if tested | consensual private contact, no clinic trail |
 | **Gossip / reputation** | defamation needs a false fact + harm + malice | insult, opinion, whisper network |
 <!-- end table -->
 
@@ -150,8 +150,8 @@ People on the street **do not wait for conviction**.
 | **Employer soft fire** | HR rarely needs beyond suspicion | Income |
 <!-- end table -->
 
-So: **"got away with it in court"** (or never charged) **≠** **"got away with it in life"**. STDs and betrayal
-especially hit the **body + trust** ledgers even when law is blind.
+So: **"got away with it in court"** (or never charged) **≠** **"got away with it in life"**. Exposure risks and
+betrayal especially hit the **body + trust** ledgers even when law is blind.
 
 ## 💵 Total cost (prize vs price)
 
@@ -163,7 +163,7 @@ Total cost ≈ legal exposure + health/body + money + time
 <!-- begin table -->
 | Act (examples) | Law (if private) | Body | Street / trust |
 | --- | --- | --- | --- |
-| Unprotected sex, undisclosed risk | Usually low proof | **STD, pregnancy** — real | Partner/friend judgment if story spreads |
+| Unprotected contact, undisclosed risk | Usually low proof | **Health and pregnancy** — real | Partner/friend judgment if story spreads |
 | Secret affair | Rarely criminal | Emotional | High if exposed socially |
 | Petty lie to friend | None | — | Medium when pattern seen |
 | Public assault | **High** | High | High |
@@ -193,41 +193,22 @@ When stories conflict (accusation, gossip, your own excuse):
 2. **Do not treat unproven private harm as public fact** — avoid becoming the next gossip node.
 3. **Trust behavior > speech.**
 
-**STD / betrayal specifically:** treat **medical and logistical facts** (test results, disclosed partners,
+**Exposure / betrayal specifically:** treat **medical and logistical facts** (test results, disclosed partners,
 timelines) as primary; treat **character verdicts** as slow-burn pattern reads, not one argument.
 
-## 🗂️ Case log — real examples
+## 🗂️ Case log — the read
 
 Examples to remember: **it takes quite some effort to prove someone is wrong, and they naturally get away with it.**
 
-<!-- begin table -->
-| Case | What seemed to happen | Why it didn't land |
-| --- | --- | --- |
-| **🇧🇷 Lula** | Money laundering + apartment purchase — evidence existed | Collected illegally → unusable → no conviction; later elected again |
-| **🇧🇷 Bolsonaro** | Possibly monitored / hacked lots of civilians' privacy | Hard to turn monitored data into usable proof |
-| **🐕 Orelha dog** | Street dog heavily damaged by teenagers during a random event; had to be killed | Teenagers continue life normally — at best private vengeance |
-<!-- end table -->
-
 **Read:** monitored data and illegally collected evidence are **two different kinds of proof** — total visibility does
-not mean usable in court ([evidence.md](evidence.md)). People who hurt a dog may not go to jail, but they're limited
-to a single individual who used to love that dog.
+not mean usable in court ([evidence.md](evidence.md)). A cruelty case may never reach jail; at best it draws private
+vengeance, limited to a single individual who cared.
 
 ## 📦 Possession vs distribution — risk tiers
 
-The biggest legal split isn't what you have — it's **who else is involved**. Victimless-ish acts, kept to yourself,
-are rarely prosecuted; selling is where the real exposure lives.
-
-<!-- begin table -->
-| Act | If kept to yourself | If you sell / distribute |
-| --- | --- | --- |
-| **Drugs** | Gray area — hard to reach court for having it | **Quite problematic** — the system chases this |
-| **Piracy** | Low risk (shared privately, not sold, not streamed) | High risk — distribution is the charge |
-| **Movies / content** | Rarely problematic if private, low-res | Problematic if monetized |
-<!-- end table -->
-
-**The victimless principle:** as long as you do a bad thing that **doesn't involve anyone else**, you're *mostly
-right*. Drugs and piracy are illegal — but if you have them to yourself and no one else, it's **hard to be in court
-for such a thing**. Selling something illegal, though, is a different game.
+The biggest legal split isn't what you have — it's **who else is involved**. An act kept to yourself is rarely
+prosecuted; **distribution is the charge**. The victimless principle: a private act that involves nobody else is hard
+to bring to court — the moment it is sold or shared, it is a different game.
 
 ## ❓ Open questions
 

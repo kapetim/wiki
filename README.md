@@ -1,10 +1,8 @@
 # 📖 Wiki
 
-Personal wiki — the personal collection: characters, observation, playlists, games, tools, instruments, problems, and recipes.
+Personal wiki — characters, observation, playlists, games, tools, instruments, problems, and recipes.
 
-**What this is:** the non-sensitive life reference, public and easy to browse.
-
-Personal notes live in a separate place.
+**What this is:** a personal knowledge wiki, public and easy to browse.
 
 ## 🗂️ Contents
 

@@ -63,7 +63,7 @@ function listFiles(root) {
 }
 
 function downloadAndVerify(tag, expected) {
-  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'private-verify-'));
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'wiki-verify-'));
   try {
     run('gh', ['release', 'download', tag, '--pattern', '*.zip', '--dir', tmp], { capture: false });
     const zips = fs.readdirSync(tmp).filter((n) => n.endsWith('.zip'));

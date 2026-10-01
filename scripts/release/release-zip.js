@@ -54,7 +54,7 @@ function listDir(dir, rel, out) {
 }
 
 function verify(out, expected) {
-  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'private-zip-'));
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'wiki-zip-'));
   try {
     run('unzip', ['-q', out, '-d', tmp], { capture: false });
     const extracted = [];
@@ -88,7 +88,7 @@ function verify(out, expected) {
 
 const ref = process.argv[2] || 'HEAD';
 const safe = String(ref).replace(/[^A-Za-z0-9._-]/g, '_');
-const out = path.join(REPO_DIR, `private-${safe}.zip`);
+const out = path.join(REPO_DIR, `wiki-${safe}.zip`);
 
 console.log(`[zip] archiving ${ref} (tracked files, real content) -> ${out}`);
 if (fs.existsSync(out)) fs.rmSync(out);

@@ -10,8 +10,8 @@ to the government."
 
 ## 👮 The toll police
 
-They catch the **small stuff** (drugs) and never end the faction: cameras, internet, enough weapons — yet nothing
-changes. Enforcement as a **toll**, not a resolution.
+They catch the **small stuff** (petty crime) and never end the faction: cameras, internet, enough weapons — yet
+nothing changes. Enforcement as a **toll**, not a resolution.
 
 ## 🔁 Clan vs itself
 

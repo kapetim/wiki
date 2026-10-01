@@ -18,7 +18,7 @@ even if they span media (Mario = games + movie; Dory = Nemo + her own film) — 
 
 **Cut rule:** substance decides. Deep enough to stand alone → individual or family-member file. Named-with-content but thin → a collective. Contentless mentions → not recorded.
 
-**Relationship with lore:** this folder is the **detailed per-character home**; a separate private `lore/` keeps the per-series summaries and the theory web. Character-central lore sections
+**Relationship with lore:** this folder is the **detailed per-character home**; deep theory lives under `observation/`. Character-central lore sections
 compress to role + `→ sheet` pointers once a sheet exists; theory that *references* characters keeps its tables and links back.
 
 ## 🌌 Universes
@@ -68,7 +68,7 @@ Copy into a new individual dossier. Sparse by design — keep only what exists f
 | Role / line | <protagonist · foil · mentor · line/branch> |
 | Ability / rank | <what they're known for> |
 | Archetype | <link archetype hubs — e.g. trickster, master> |
-| Lore | <note the private lore file(s)> |
+| Lore | <note the relevant `observation/` page(s)> |
 <!-- end table -->
 
 ## 🧬 Core
@@ -136,4 +136,4 @@ say, mannerisms, props.
 - Start from the template and delete what doesn't apply — don't leave blanks for life data that doesn't exist.
 - **Unknown ≠ none**: a fact the medium never shows is recorded as unknown; the silence is often the point (Shisui's parents).
 - **Story vs truth** only when the medium lies, stages, or skips — don't force it onto straightforward characters.
-- Keep series summaries and deep theory in the private `lore/`; the dossier holds the distilled reference and notes it.
+- Keep series summaries and deep theory in `observation/`; the dossier holds the distilled reference and notes it.

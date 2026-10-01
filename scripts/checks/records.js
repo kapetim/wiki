@@ -35,7 +35,7 @@ function checkPdf(rel, abs) {
 }
 
 function renderPdf(rel, abs) {
-  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'private-pdf-'));
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'wiki-pdf-'));
   try {
     const r = spawnSync('pdftoppm', ['-f', '1', '-l', '1', '-singlefile', '-r', '20', '-png', abs, path.join(tmp, 'page')], { encoding: 'utf8' });
     if (r.error || r.status !== 0) {

@@ -1,5 +1,5 @@
 // Structure conventions for src/ — readme indexes, problem files, and
-// interpretation headers. Content-side rules (private-specific).
+// interpretation headers. Content-side rules (wiki-specific).
 
 import path from 'node:path';
 import { readFile, readdir } from 'node:fs/promises';

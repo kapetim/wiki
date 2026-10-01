@@ -34,7 +34,6 @@ export const FORBID = [
 ];
 
 // Whole-domain allow entries (any path under the domain is fine).
-// xvideos.com / pornhub.com are whole-domain because their bare root is in use.
 const WHOLE_DOMAINS = [
   'google.com', 'github.com', 'youtube.com', 'youtu.be', 'spotify.com',
   'deepseek.com', 'webex.com',
@@ -42,22 +41,6 @@ const WHOLE_DOMAINS = [
   'npr.org', 'wsj.com', 'nytimes.com', 'bbc.co.uk', 'economist.com',
   'radiolab.org', 'radioambulante.org', 'ke-buena.com', 'dancarlin.com',
   'vox.com', 'philosophybites.com', 'tim.blog', 'b9.com.br',
-  // porn sites
-  'xvideos.com', 'pornhub.com',
-  'erome.tv', 'redtube.com', 'xhamster.com', 'xnxx.com', 'youporn.com',
-  'x-video.tube', 'x-x-x.tube', 'erothots.co', 'pornolandia.xxx', 'xxbrits.com', 'eporner.com',
-  'celebexposed.com', 'fapeza.com',
-  'bodgirls.com', 'ultrathots.com', 'theyarehuge.com', 'fappeningbook.com',
-  'leakedzone.com', 'leakgallery.com', 'noodlemagazine.com', 'boobieblog.com',
-  'goonello.com', 'babepedia.com', 'bustysource.com', 'thefap.net',
-  'oneprotests.thefap.net', 'pimpbunny.com', 'twpornstars.com', 'bingato.com',
-  'filavi.com', 'tik.porn', 'collections.porn', 'cnnamador.com',
-];
-
-// Prefix-restricted porn entries — only these paths are allowed.
-const PORN_PREFIXES = [
-  'reddit.com/user', 'reddit.com/r',
-  'tnaflix.com/search', 'tnaflix.com/big-boobs',
 ];
 
 function prefixRe(host, pathSegments) {
@@ -70,10 +53,6 @@ function prefixRe(host, pathSegments) {
 
 export const ALLOW = [
   ...WHOLE_DOMAINS.map((d) => prefixRe(d, [])),
-  ...PORN_PREFIXES.map((p) => {
-    const [host, ...rest] = p.split('/');
-    return prefixRe(host, rest);
-  }),
 ];
 
 export async function checkContent(repoDir) {
