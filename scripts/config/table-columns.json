@@ -1800,6 +1800,32 @@
   "src/guides/cleanup.md": [
     2
   ],
+  "src/guides/prize/budget.md": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/guides/prize/obsolete-dreams.md": [
+    2,
+    2
+  ],
+  "src/guides/prize/platinum.md": [
+    3,
+    3,
+    3,
+    2
+  ],
+  "src/guides/prize/readme.md": [
+    2
+  ],
+  "src/guides/prize/returns.md": [
+    4,
+    3,
+    2,
+    3,
+    2
+  ],
   "src/guides/readme.md": [
     2
   ],
