@@ -443,6 +443,60 @@ data always yields a pattern if you decode long enough; the "plot" is what you w
 "message" demand a specific action you would otherwise never take? If no, it's weather, not script.
 **Reopen only on** a scripted prediction that self-verifies — not a pattern assembled after the fact.
 
+## 🎼 Orchestrator model — the center that sees both ends
+
+A **center** that can see **both ends of a line** and makes **recommendations** rather than commands. Around it sits a
+small team, each role with its own read.
+
+<!-- begin table -->
+| Role | Generic read |
+| --- | --- |
+| **Center / orchestrator** | Sees both ends of the line and recommends what is best |
+| **Border / defense** | Defines the limits — defends and counsels |
+| **Attack** | Pushes at anything that gets close — a pressure valve |
+| **Wheel / continuity** | The odd piece that keeps the wheel spinning |
+<!-- end table -->
+
+A small team is strong, which makes it a target. **Remove the center and control is lost** — recommendations stop and the
+line drifts.
+
+## 🗂️ Control ladder — tiers of obedience
+
+Who controls whom, stacked: each tier obeys the one above and sees less below.
+
+<!-- begin table -->
+| Tier | Control | Read |
+| --- | --- | --- |
+| **Operator** | Above the sim | Sees the whole line; propagates tension to keep it |
+| **Uncontrollable** | Immune | No illusion lands — outside the command chain |
+| **Controllers** | Manage others | Keep the leader on the line |
+| **Watchers** | Observe only | VAR / live-stream read — no deduction |
+| **Trusted** | Owner of money | Keeps the population safe and working |
+| **Partial** | Avoiders | Criminals dodging jail and payment |
+| **Full** | Obedient | Civilians — work, pay, no crime |
+<!-- end table -->
+
+## 🖥️ Hosting your own access — the server read
+
+Control incoming requests by running **your own server with a rate limiter**. Where it runs decides who sees the
+traffic.
+
+<!-- begin table -->
+| Hosting | Read |
+| --- | --- |
+| **Cloud** | If the authority owns the cloud, you are tricked — they see your traffic |
+| **No server** | Nothing to serve — you lose purpose |
+| **Private server** | Most secure, but isolated and easy to sabotage by hiding requests |
+<!-- end table -->
+
+Generic frame: host your own **access and attention**, rate-limit the demand, and remember the host decides what gets
+through.
+
+## 🎭 God vs devil — same actor, different polish
+
+An authority that **hides its abuses** and a rival that is **more upfront** are the **same behavior with different
+polish** — one hides better, the other simply does what it wants. Neither earns more trust for the costume.
+
 ## 🧭 How this connects
 
 - [problems/unknown/surveillance.md](../problems/unknown/surveillance.md) — the deletable log, read as **monitoring of

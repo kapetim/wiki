@@ -68,4 +68,25 @@ Ninjas allocated together to learn life + fight lessons; Xiaolin team hunts **Sh
 
 SpongeBob note: **failure almost none** — optimism indestructible (issue).
 
+## 🚗 Vehicle read
+
+Power users at similar tiers are told apart less by their **slot** than by the **vehicle** they can drive.
+
+<!-- begin table -->
+| Tier | Vehicle | Read |
+| --- | --- | --- |
+| Orchestration | Plane / helicopter | Above the roads — commands the whole map |
+| Earned license | Car / truck | Can go anywhere, copies others' driving |
+| Precision | Bike / motorcycle | Fast, precise, close-range — own neighborhood |
+| Ownership | The village itself | Doesn't drive — owns the roads and keeps order |
+| System rider | Bus / public transport | No own machine — rides the system via teamwork |
+| Raw effort | Running + gear | No license, no machine — legs and gear only |
+| Enforcement | Patrol car / on foot | Above civilians, but no power beyond the gun |
+| Civilian | Walking | No specialization, no engine — just life |
+<!-- end table -->
+
+Similarities are resolved by the vehicle — what a person can **drive**, not just their slot.
+
+**Lineage ceiling:** power is a lottery at birth; grind helps but a ceiling exists.
+
 ## 🔚 Close

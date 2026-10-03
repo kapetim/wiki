@@ -37,4 +37,22 @@ Treehouse of Horror and the movie **break the rules** (temporary change, stakes)
 | A target list to break the loop | [enjoyment.md](../framework/enjoyment.md) |
 <!-- end table -->
 
+## 🐍 The same boss returns
+
+Remove the boss and the structure survives — a new leader with a new name, the same shape, the same wheel. Kill the villain and the villain returns with upgrades.
+
+## 🍥 Parenthood → school → war → parenthood
+
+The generational loop: a parent dies, the orphan grows, school trains them, war calls, and they become the next parent. The castle gets decorated differently, but the houses stay.
+
+<!-- begin table -->
+| Phase | Generic beat |
+| --- | --- |
+| Parenthood | A parent dies or leaves at the child's start |
+| Orphan | The child grows up at the margin |
+| School | Training, peers, rivalry, mentors |
+| War | The old conflict returns at full scale |
+| Parenthood (again) | The survivor has a child — the loop restarts |
+<!-- end table -->
+
 ## 🔚 Close

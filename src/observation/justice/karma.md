@@ -136,6 +136,21 @@ Events that **already happened and cannot be judged**, because the people who co
 
 These are a **record of what already happened**, not a verdict ([hard-limit.md](../fundamentals/hard-limit.md)).
 
+## 🪙 The karma coin
+
+When you are treated unfairly, you hold a **coin** — the right to pursue vengeance. If you are too lazy to spend it,
+you can **grant the coin** to someone else and simply live. Every action triggers a **cost**, and paying earlier is
+cheaper; good attracts good and bad attracts bad — **imperfectly**.
+
+<!-- begin table -->
+| Coin rule | Read |
+| --- | --- |
+| Hold | Unfair treatment grants a coin to pursue vengeance |
+| Grant | Too lazy? Hand the coin to someone else and move on |
+| Cost | Every action carries a price; paying earlier is cheaper |
+| Attraction | Good attracts good, bad attracts bad — not perfectly |
+<!-- end table -->
+
 ## ❓ Open questions
 
 - Who collects a debt whose owner is dead?

@@ -20,6 +20,10 @@ episode facts.
 | 8 | [Balance § referee](../framework/balance.md#%EF%B8%8F-referee-the-secure-environment) | Yu-Gi-Oh! (Kaiba protects the championship) | The secure environment — value is frame-conferred; banning beats preventing |
 | 9 | [Balance § powers](../framework/balance.md#-powers-object-vs-person) | Yu-Gi-Oh! Items vs Naruto kekkei genkai | Object-bound (stealable, prophecy returns) vs person-bound (impossible to lose) |
 | 10 | [Masks § paired opposites](../masks.md#-paired-opposites-same-trade-different-skin) | Naruto (Obito / Kakashi) · Two-Face (Batman) | One skin on two faces — the same man read by situation, split at Kanabi Bridge |
+| 11 | [Status quo § loop](./status-quo.md) | Naruto · Harry Potter | Parenthood → school → war → parenthood — the same loop restarts |
+| 12 | [Masks § paired opposites](../masks.md#-paired-opposites-same-trade-different-skin) | Snow White (Disney) | Cross-fiction archetype — the pale attention-hunter |
+| 13 | [Masks § paired opposites](../masks.md#-paired-opposites-same-trade-different-skin) | The Little Mermaid (Disney) | Cross-fiction archetype — a woman hiding a risky habit |
+| 14 | [Masks § paired opposites](../masks.md#-paired-opposites-same-trade-different-skin) | Fiona (Shrek) | Cross-fiction archetype — independent yet insecure |
 <!-- end table -->
 
 ## 📖 How to use

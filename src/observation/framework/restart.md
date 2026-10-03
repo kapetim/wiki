@@ -94,6 +94,26 @@ prize table **tilts odds**, not **pick exact character**.
 
 ---
 
+## 🦹 The same boss returns — structural loop
+
+**Replacing the face changes nothing.** Put a **new name** on the same structure and the **pattern recurs** — "the same boss returns with upgrades." Local example: Shisui → Itachi → Obito →
+Madara → Sarada.
+
+- **Cross-franchise loop:** **parenthood → orphan/school → war → parenthood again.** Naruto and Harry Potter both run it.
+
+<!-- begin table -->
+| Phase | Naruto | Harry Potter |
+| --- | --- | --- |
+| **Parenthood** | Kushina → Naruto | Lily / James → Harry |
+| **Orphan / school** | Academy, jinchūriki | Dursleys, Hogwarts |
+| **War** | Fourth Great Ninja War | War against Voldemort |
+| **Parenthood again** | Naruto → Boruto | Kids return to Hogwarts |
+<!-- end table -->
+
+- **Break condition:** the loop only **resets differently** when someone **provides a new life and protects it** — otherwise the same boss returns upgraded.
+
+---
+
 ## 🎭 Heaven / hell — afterlife handles
 
 Here, heaven / hell / **something** / jail-like nodes are **post-death branches** on the diagram—**one cultural map**, not proven cosmology. **Mindset** heaven/hell while embodied →

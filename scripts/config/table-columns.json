@@ -519,6 +519,12 @@
   "src/characters/madagascar/zuba-and-florrie.md": [
     2
   ],
+  "src/characters/naruto/arcs.md": [
+    2,
+    5,
+    5,
+    5
+  ],
   "src/characters/naruto/cloud/a-raikage.md": [
     2,
     2,
@@ -533,6 +539,14 @@
     2,
     2,
     4
+  ],
+  "src/characters/naruto/control-ladder.md": [
+    4,
+    5
+  ],
+  "src/characters/naruto/hell-heaven-bridge.md": [
+    3,
+    3
   ],
   "src/characters/naruto/jinchuriki/0-gedo-mazo.md": [
     2,
@@ -809,6 +823,13 @@
     2,
     4
   ],
+  "src/characters/naruto/odd-people.md": [
+    2
+  ],
+  "src/characters/naruto/orchestrator.md": [
+    3,
+    3
+  ],
   "src/characters/naruto/otsutsuki/isshiki.md": [
     2,
     2,
@@ -833,6 +854,14 @@
     2,
     2,
     4
+  ],
+  "src/characters/naruto/power-guns.md": [
+    3,
+    4
+  ],
+  "src/characters/naruto/power.md": [
+    3,
+    5
   ],
   "src/characters/naruto/rain/hanzo.md": [
     2,
@@ -990,6 +1019,19 @@
     2,
     2,
     4
+  ],
+  "src/characters/naruto/translation.md": [
+    4,
+    3,
+    4,
+    3,
+    4,
+    4,
+    4
+  ],
+  "src/characters/naruto/truco-hierarchy.md": [
+    3,
+    3
   ],
   "src/characters/naruto/uchiha/fugaku-uchiha.md": [
     2,
@@ -1244,6 +1286,7 @@
     3
   ],
   "src/characters/real-world-jobs.md": [
+    3,
     3
   ],
   "src/characters/rick-and-morty/beth.md": [
@@ -1835,6 +1878,7 @@
   ],
   "src/observation/framework/balance.md": [
     4,
+    3,
     2,
     3
   ],
@@ -1881,6 +1925,7 @@
   "src/observation/framework/restart.md": [
     2,
     3,
+    3,
     2,
     2
   ],
@@ -1907,6 +1952,7 @@
   "src/observation/fundamentals/hard-limit.md": [
     3,
     2,
+    2,
     2
   ],
   "src/observation/fundamentals/harm.md": [
@@ -1930,6 +1976,7 @@
   ],
   "src/observation/justice/evidence.md": [
     3,
+    2,
     2
   ],
   "src/observation/justice/fair-game.md": [
@@ -1938,13 +1985,15 @@
     3,
     3,
     4,
-    3
+    3,
+    2
   ],
   "src/observation/justice/karma.md": [
     2,
     2,
     3,
-    5
+    5,
+    2
   ],
   "src/observation/justice/readme.md": [
     2,
@@ -1976,13 +2025,15 @@
   "src/observation/media/live-stream.md": [
     3,
     3,
+    2,
     2
   ],
   "src/observation/media/mastery-axis.md": [
     3,
     3,
     3,
-    2
+    2,
+    3
   ],
   "src/observation/media/patterns.md": [
     2,
@@ -1994,13 +2045,16 @@
     3,
     5,
     5,
-    5
+    5,
+    2,
+    2
   ],
   "src/observation/media/stages.md": [
     4,
     2
   ],
   "src/observation/media/status-quo.md": [
+    2,
     2,
     2
   ],
@@ -2013,7 +2067,10 @@
   "src/observation/monitoring.md": [
     3,
     4,
-    5
+    5,
+    2,
+    3,
+    2
   ],
   "src/observation/prejudice.md": [
     3
@@ -2032,7 +2089,8 @@
     2
   ],
   "src/observation/society/colors.md": [
-    3
+    3,
+    2
   ],
   "src/observation/society/cultures.md": [
     2,
@@ -2067,6 +2125,7 @@
   ],
   "src/observation/society/ledgers.md": [
     3,
+    2,
     2
   ],
   "src/observation/society/society.md": [
@@ -2077,7 +2136,12 @@
     4,
     2,
     2,
-    3
+    3,
+    2,
+    2
+  ],
+  "src/observation/thoughts.md": [
+    2
   ],
   "src/playlists/audiobooks/finished.md": [
     2,

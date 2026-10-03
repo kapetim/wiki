@@ -32,6 +32,7 @@ Many life lanes are **one market, two costumes**:
 | “Friendship favor” | Consulting day rate | **Skill hours** |
 | “Art not for sale” | Commission sheet | **Creative output** |
 | “Principle” | Lobby spend | **Policy** outcome |
+| **Hidden abuser** | **Upfront abuser** | **Access / power** — same behavior, different polish |
 <!-- end table -->
 
 ```mermaid
@@ -97,6 +98,10 @@ flowchart LR
  deal[Deal closes — time moves]
  script -->|mask| vector --> deal
 ```
+
+**Strongest convinces without evidence** — at the top of the ladder a half-word lands and no proof is requested.
+**Appearance beats power**: the vector is often whoever already *looks* like they won — status, poise, and presence
+doing the persuading instead of argument.
 
 **Winner-side echo:** less sentiment, more **focus**—society § winners vs sentiment. **Coast on mask** (fame, purity brand) → someone **more focused** passes you.
 

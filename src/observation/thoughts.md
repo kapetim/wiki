@@ -109,6 +109,23 @@ one below you and a doable routine. Children create a 20-year contract of respon
 Not very fulfilling — like training a dog for a competition. Only relevant if you like being a teacher or are a needy person; you could have played a video game instead, maintained a Neopet for 20
 years, or raised a kid.
 
+## 🔺 The obedience pyramid — each obeys the one above
+
+Obedience stacks in **pyramid layers**: each layer obeys only the one directly above it. The chain is asserted, not
+verified — and the top cannot see who truly obeys.
+
+<!-- begin table -->
+| Layer | Generic read |
+| --- | --- |
+| **Player above the sim** | Commands and can restart the game at will |
+| **The sim commanded** | Obeys the player, not the layers below |
+| **Pyramid tiers** | Each obeys only the one directly above |
+| **The leader** | Cannot see which of his people truly obey |
+<!-- end table -->
+
+Private non-obedience and masks mean the leader is working from assumption. The pyramid looks solid from above; from
+below it is a chain of each person obeying the next, not the top.
+
 ## 🔬 Substance and the flow
 
 Note about substance usage: sometimes the belly is bad after food, sometimes not; a few days you're happy, some others sad; the same movie may not be cool every time; coffee sometimes feels strong

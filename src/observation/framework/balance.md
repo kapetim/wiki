@@ -59,6 +59,24 @@ The game aims for **as many distinct powers and players as possible** — you ca
 
 ---
 
+## 🚗 The vehicle read
+
+Confusable power users are told apart by the **vehicle** they can drive — what they can **operate** — not just their **slot or rank**. Two people in the same tier still differ by the machine they
+command.
+
+<!-- begin table -->
+| Tier shape | Vehicle | Read |
+| --- | --- | --- |
+| **Top** | Aircraft | **Flies above the roads** — orchestration |
+| **Middle** | Licensed road vehicle | Earned the license; copies others, roams |
+| **Owner** | The roads themselves | Doesn't drive — **owns the roads**, keeps others safe |
+| **Bottom** | On foot / public | No machine — raw effort or the village's system |
+<!-- end table -->
+
+Abstract read, not a ranked card table: **higher tiers fly above the roads; owners own the roads.**
+
+---
+
 ## 🎭 Items as mask
 
 The object **dramatizes holder traits** — the anime literalizes a mask into magic so uneven capacity does not need awkward dialogue. See [masks.md](../masks.md).
@@ -107,6 +125,17 @@ Spread distinct powers across players rather than stacking them in one individua
   flips, not wealth.
 - **The resourceless** — what about those **without money and without a lever**? At least a lever would make someone happy — which makes you happy. Nothing to trade and nothing to be wanted for is the
   deepest floor.
+
+---
+
+## 🔗 Endowment ↔ attention
+
+A **visible natural endowment** pulls **attention** and trades against **wealth** — the two rarely peak together.
+
+- **Compensation inversion:** the endowed tend **poorer**, the unendowed tend **richer** — each side's advantage is the other's lever.
+- **Fairness target:** when an endowed person also gains **wealth**, the inversion breaks and resentment builds — they become a **fairness target**.
+- **Augmentation ceiling:** adding to the endowment hits a **maintenance / hard ceiling** — it cannot be scaled without cost.
+- **Credibility is body-bound:** an augmented trait is only as believable as the **body** carrying it — **embodiment is the real anti-theft**.
 
 ---
 

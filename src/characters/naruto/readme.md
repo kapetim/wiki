@@ -336,7 +336,15 @@ Lookalike souls across factions — each row is a cluster that reads as one pers
 
 ## 🔗 Lore
 
-- naruto/readme.md — series hub · characters.md — the cast reference
+- [arcs.md](arcs.md) — the story map (episode map · story blocks · canon)
+- [power.md](power.md) — chakra, clans, kekkei genkai, the eye→vehicle ladder
+- [control-ladder.md](control-ladder.md) — the village control tiers
+- [truco-hierarchy.md](truco-hierarchy.md) — the cast as a truco card game
+- [power-guns.md](power-guns.md) — reaction-style assignments
+- [odd-people.md](odd-people.md) — odd people and the Shisui war
+- [hell-heaven-bridge.md](hell-heaven-bridge.md) — the sound↔leaf war map
+- [orchestrator.md](orchestrator.md) — the village cast map
+- [translation.md](translation.md) — Naruto terms in real-world language
+- Generic theory → [observation/](../../observation/readme.md)
 - Real-world employers → [../real-world-jobs.md](../real-world-jobs.md)
-- Translation → translation.md — Naruto terms in real-world language
-- Theory weaves: [sharingan.md](uchiha/sharingan.md) (eyes) · control-ladder.md
+- Theory weaves: [sharingan.md](uchiha/sharingan.md) (eyes)

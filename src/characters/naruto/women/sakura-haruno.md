@@ -56,3 +56,12 @@ Trait-level: the pink-haired girl the story first judged by looks — grows into
 
 - naruto/readme.md · characters.md § Team 7 · infinite-loop.md § the wheel
 - [9-naruto-uzumaki.md](../jinchuriki/9-naruto-uzumaki.md) · [sasuke-uchiha.md](../uchiha/sasuke-uchiha.md) · [sarada-uchiha.md](../uchiha/sarada-uchiha.md)
+
+## 🌸 The independent single-mother read
+
+- **Single-mother kekkei genkai** — her real bloodline limit is being a single mother angry about everything: a limit of one, inherited by no one, lived alone. She
+  chooses a partner who owes her nothing and won't stay, which keeps her independent and free to raise the child on her own terms.
+- **Reproduction machinery** — she sustains the village with the reproduction path: when an important person has a baby the rest copy her, triggering the next
+  generation loop. By killing the villain you must provide a new life; Sakura provides the new generation and keeps the wheel spinning.
+- **Karma protector** — she stimulates the village to keep the wheel turning and gives people something to worry about, which makes someone keep seeking vengeance.
+  The smartest and most hated girl in the village for it.

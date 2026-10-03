@@ -145,6 +145,19 @@ heaven—not **too** good (unfair → instability) nor **behind** (hell loses th
 
 ---
 
+## 🌉 Hell-heaven bridge — generic abstraction
+
+**Hell vs heaven as two teams:** hell is **stronger but shorter** — it forces **trauma early**, runs **ahead of its time**, and burns out its people young. Heaven **protects minds** for a
+**longer, safer life** — yet **power-seeking inside heaven invites chaos**. Local example: sound vs leaf.
+
+- **Karma rule:** the **first mistake made in heaven** → hell sends **vengeance**; those who **execute** that vengeance **drift from heaven toward hell**.
+- **The bridge** is a **managed connection + repair loop** between the two — a **two-edged sword** that heals one side and cuts the other, and it ages until repaired.
+- **Mirror read:** an attack on a **mirror returns to the sender** (reflection defense) — the local mirror being the Uchiha.
+- **Villages as countries:** each faction is its **own country** — principles, a leader — and an **unknown faction (“the devil”)** is **unbeatable because unseen**; see
+  [god and devil](#%EF%B8%8F-god-and-devil--the-match-the-owner-keeps).
+
+---
+
 ## ⚡ Pokémon read — Ash, Rocket, and why trouble never ends
 
 **Compact comparison** for the heaven/hell teams above—not canon Pokémon lore, **structure handle**. Franchise hub: play/nintendo/pokemon.md · mechanics/IVs.

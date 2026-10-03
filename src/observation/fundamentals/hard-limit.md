@@ -67,6 +67,23 @@ Severity ranking and cure tiers: [judgement.md](../judgement.md).
 
 ---
 
+## 🧱 The maintenance ceiling
+
+Systems have a **soft ceiling** where maintenance cost explodes — keeping many live instances demands more sustained
+supply than the body or system can keep up. Past the ceiling the **marginal unit is tiny and hard to maintain**, so
+augmentation claims are **capped by the body**, not by the wish.
+
+<!-- begin table -->
+| Concept | Read |
+| --- | --- |
+| Soft ceiling | Maintenance cost stops scaling linearly and explodes |
+| Sustained supply | Keeping many instances live has a hard upkeep budget |
+| Marginal unit | Past the ceiling, each extra unit is tiny and hard to keep |
+| Augmentation | Claims are capped by the body, not by the desire |
+<!-- end table -->
+
+---
+
 ## 🧭 How this connects
 
 <!-- begin table -->

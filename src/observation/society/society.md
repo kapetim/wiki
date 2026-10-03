@@ -213,4 +213,43 @@ saboteurs are real. Still: **don’t become them**—[harm § the loop](../funda
 
 HUD settings—not proven afterlife ([restart.md](../framework/restart.md)). **Nudge:** one dream + one wheel turn for two weeks—update membership without Wonderland.
 
+---
+
+## 🪜 The obedience pyramid
+
+Power read as **convincing power**, not force: the strongest says half a word and everyone obeys without a question.
+Under it runs a **chain of obedience** — A obeys B, B obeys C — each layer passing the command downward.
+
+<!-- begin table -->
+| Layer | Read |
+| --- | --- |
+| **Top voice** | Half a word is enough; no one checks the claim |
+| **Middle layers** | Each obeys the one above and is obeyed by the one below |
+| **Stupid army** | A delusional leader builds followers who invest in harmless strategies |
+| **Herd through pain** | Some only obey after an attack — pain is the first lesson |
+<!-- end table -->
+
+Groups that never question the top voice get led into **silly strategies that don't harm**; the correction, when it comes, arrives as a strike.
+
+## 🃏 Hierarchy as a card game
+
+Relations can be read as a hidden **card game**: a base ladder plus a few trumps that beat every base rank.
+
+<!-- begin table -->
+| Piece | Read |
+| --- | --- |
+| **Base ranks** | Elder · Fool · Heaven · Hell · Patience — the normal climb |
+| **Trumps** | Four top cards that beat the whole base ladder |
+<!-- end table -->
+
+**Fairness contract:** the ladder only holds while players meet on **equal opportunity**. Attacking from outside the rules — in secret, by theft, by poison — **opts out** of the game and forfeits its protection.
+
+**Optionality:** climbing is **not mandatory**. Leaving the board, changing goals, or disappearing is a valid move when the prize is contested and nobody agreed on it.
+
+## 🗺️ Villages as countries
+
+Society reads as **separate groups**, much like countries: each has its own **principles**, its own **leader**, and its
+own way of defending borders. Treating groups as countries explains why a rule that fits one makes no sense in
+another — and why peace is often a **pause** between two different maps.
+
 ## 🧭 How this connects

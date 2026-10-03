@@ -63,4 +63,13 @@ Trait-level: reads as appearance-over-power — the soft face that hides a truth
 ## 🔗 Cross-refs
 
 - characters.md § masked Uchiha · orchestrator.md · infinite-loop.md
-- Mirai connection: [shisui-uchiha.md](../uchiha/shisui-uchiha.md) · team: [team-8.md](../readme.md#-teams--mentors) · Asuma: [asuma-sarutobi.md](../konoha/sarutobi/asuma-sarutobi.md) · their daughter → [mirai-sarutobi.md](../konoha/sarutobi/mirai-sarutobi.md)
+- Mirai connection: [shisui-uchiha.md](../uchiha/shisui-uchiha.md) · team: [team-8.md](../readme.md#-teams--mentors)
+- Asuma: [asuma-sarutobi.md](../konoha/sarutobi/asuma-sarutobi.md) · their daughter → [mirai-sarutobi.md](../konoha/sarutobi/mirai-sarutobi.md)
+
+## 🩸 The early adopter — appearance over power
+
+- **Early adopter** — she had her child a bit earlier and traded the race for privacy and authority: no more comparing how long you can hold out, no more racing
+  someone else's timing. She just sits above it.
+- **Appearance over power** — she wants to be the best but rarely trades her life for more power and performance. She represents appearance and trustiness; she
+  probably wants to impress the Hokage, while Sakura wants to impress the other ninjas.
+- **Truth-parser** — she receives odd news and parses what is true from it, free to evaluate while Konan is busy collecting everything.

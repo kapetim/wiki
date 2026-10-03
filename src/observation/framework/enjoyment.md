@@ -13,6 +13,12 @@ this is the *routine layer* that feeds the achievements list. Pairs with [play.m
 
 ---
 
+## 🏆 Trophy case
+
+An achievement list can become a **trophy case** — a storage of completed feats. Some players only **watch and never
+participate**. A **first-mover** who completes a feat first holds the prize; later attempts read as **cosplay**.
+Ties to the [joystick](#%EF%B8%8F-routine-as-the-joystick).
+
 ## 🧭 How this connects
 
 <!-- begin table -->

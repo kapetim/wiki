@@ -18,6 +18,9 @@ Cross-franchise comparison frames — reuse on any lore folder after **core of t
 7. [Signature items](#-signature-items)
 8. [Tool progression](#%EF%B8%8F-tool-progression)
 9. [Win and failure](#-win-and-failure)
+10. [Antagonist ladder](#-antagonist-ladder)
+11. [Translation lens](#%EF%B8%8F-translation-lens)
+12. [Thematic lenses](#-thematic-lenses)
 
 ---
 
@@ -262,5 +265,36 @@ Quick copy for franchise **Lore patterns** blocks — expand in thoughts/lenses.
 | Rick and Morty | Multiverse tech | Smith family | Stable care | Adventure + reset |
 | Black Mirror | Moral complicity | Platforms | Privacy, memory | Survive tweak |
 <!-- end table -->
+
+## 🪜 Antagonist ladder
+
+Escalation tiers — each rung reframes the conflict.
+
+<!-- begin table -->
+| Tier | Theme |
+| --- | --- |
+| Local | Pain of being a tool |
+| Organization | Ideology + exploitation |
+| System | Peace at a cost |
+| Cosmic | Escalation of scale |
+<!-- end table -->
+
+## 🗣️ Translation lens
+
+Map fictional terms onto the real-world institution they read as.
+
+<!-- begin table -->
+| Fictional term | Reads as |
+| --- | --- |
+| Village leader | Mayor / high-scale leader |
+| Covert force | Black ops / intelligence agency |
+| Bloodline limit | Inherited capability / family privilege |
+<!-- end table -->
+
+## 🎭 Thematic lenses
+
+- **Found family** — peers substitute for the blood family a character lacks; recognition outranks lineage.
+- **Destiny vs effort** — grind is praised, but lineage and the birth-lottery gate the ceiling.
+- **War as collected karma** — the big war is every faction's past choices arriving at once.
 
 ## 🔚 Close

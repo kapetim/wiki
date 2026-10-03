@@ -86,6 +86,14 @@ act is a need too: whether an eye, a mic, a mind-read, or an imagery-reconstruct
 that the act is yours and nobody's business to judge. A captured monologue is **weather, not a message**, until
 someone acts on it. Don't turn a valve into a performance — the words are release, not an audition.
 
+## 🎭 Why / where / how
+
+This decision triad belongs to the **solo planning lane**:
+
+- **Why** — is the task worth doing.
+- **Where** — best place, price, least effort.
+- **How** — execution style.
+
 ## 🧭 How this connects
 
 <!-- begin table -->

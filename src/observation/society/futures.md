@@ -292,4 +292,18 @@ Same grammar:
 
 ---
 
+## 📈 The rising bar
+
+Every generation the **floor compounds**: what once earned a promotion now only qualifies **lower**. Standards are
+inherited and raised — the child taught by a parent reaches the old level **faster** than the parent did, while the
+parent's badge buys less than before. Competition is not reset between generations; it is **stacked**.
+
+## 🏔️ Generational downscale
+
+Across eras, **violence downscales** while **competition stays**. Open wars shrink into structured tests and rules;
+the same drive to win continues underneath. The winners of one war grow into the **grandparents and elders** of the
+next — too slow for new threats, too respected to ignore, holding a truce that is really a **pause**.
+
+---
+
 ## 🧭 How this connects

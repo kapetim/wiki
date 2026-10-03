@@ -191,4 +191,21 @@ Boot is done when one next action is in motion.
 | Spin-up / anxiety loop | [fear-triage § boot](../fundamentals/fear-triage.md#-boot-essence--acute-spin-up) |
 <!-- end table -->
 
+## 🎮 Game principles
+
+- Everyone joins the game to **win or spend time** — trying to be good at something for attention.
+- A **loser crafts excuses to sabotage others**; regardless of method, reasoning, or intent, it is a **bad action**.
+- **Play your best move and deal with the consequences** — there is no guarantee in the life game.
+- Winning all matches invites **accumulated hatred** and puts a target on you.
+
+## 🎭 Why / where / how
+
+- **Why** — is the task worth doing at all?
+- **Where** — best place, best price, least effort.
+- **How** — execution style: running or walking, music or silence.
+
+## 🏡 Backyard and borders
+
+A personal space with **agreed borders** is security — no one enters without consent. The healthy shape is **rotating a few best routines**, not running forever nor sitting forever.
+
 ## 🧭 How this connects

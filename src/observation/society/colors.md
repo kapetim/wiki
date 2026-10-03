@@ -76,4 +76,26 @@ that helped you make the first move. Still, McDonald's success came from somethi
 Regardless of the source, both groups use other people's history as entertainment for others, potentially inspiring them. Despite their differences, both can be watched and comprehended differently
 depending on the viewer and their point of view.
 
+---
+
+## 🔫 Reaction styles — guns, not strength
+
+A "gun" is **how a person reacts to a problem**, not raw strength. Someone who looks **paranoid** is still a gun —
+full of thoughts, loaded, ready the moment the situation matches. Reaction styles form a **ladder**: some carry a
+clear number or tag, others are simply **unknown** — no label, no fixed slot.
+
+<!-- begin table -->
+| Style | Read |
+| --- | --- |
+| **Numbered / tagged** | Known pattern — you can predict when it fires |
+| **Unknown / unnumbered** | No fixed tag — reads the situation and reacts |
+| **The paranoid one** | Full of thoughts; still a gun, waiting for the match |
+<!-- end table -->
+
+## 🏆 First-mover and the trophy case
+
+The **first to complete a feat** holds the prize — the record, the name, the trophy. Everyone who repeats it later
+reads as **cosplay**: the move is copied, the recognition is not. The **trophy case** collects these firsts; later
+attempts sit outside it.
+
 ## 🧭 How this connects

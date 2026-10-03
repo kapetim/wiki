@@ -50,3 +50,11 @@
 
 - The console read (vs Sarada) → infinite-loop.md § Mirai vs Sarada · her mother → [kurenai-yuhi.md](../../women/kurenai-yuhi.md) · her father → [asuma-sarutobi.md](asuma-sarutobi.md)
 - The resemblance thread → [shisui-uchiha.md](../../uchiha/shisui-uchiha.md) · the mirror she's measured against → [sarada-uchiha.md](../../uchiha/sarada-uchiha.md)
+
+## 🎮 The original-console read
+
+- **The original console** — Mirai is the original device: no unlocked extras, original cartridge, born with the instinct to make the best choice. She plays without
+  understanding anything and still shows skill.
+- **Why the original is trusted** — a console is made to be simply played and is harder to hack than a desktop, so people trust its gameplay more. Some value only
+  those who play on the original.
+- **The herbivore costume** — she doesn't fight; she wears the carnivore ninja costume while keeping the fairness that the carnivores tend to overrun.

@@ -90,6 +90,8 @@
 | Boruto: Naruto Next Generations | 2017–2023 | 293 | 117h12m | 6.5 😐 | 🟢 | naruto.md |
 <!-- end table -->
 
+1,013 episodes total (220 + 500 + 293) · ~388 h. **Not on the microSD** (~124 GB full) — watch online.
+
 ## ☠️ one piece
 
 <!-- begin table -->

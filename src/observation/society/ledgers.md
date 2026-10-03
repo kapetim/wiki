@@ -87,6 +87,30 @@ flowchart TB
   anchor -->|if one captures all| capture[Capture = the new source of truth]
 ```
 
+---
+
+## 📰 News versus truth-parse
+
+One **collector** receives **all** the news, aiming to lose **not a single data point** — but receiving everything
+does not mean knowing what is **true**. A separate **parser** scans the pile and flags facts that **don't make sense**.
+A **priority queue** then dispatches verification: the odd items queue up first, and an eager reviewer is assigned to
+each.
+
+<!-- begin table -->
+| Role | Job |
+| --- | --- |
+| **Collector** | Take in all news; lose no data point |
+| **Parser** | Flag facts that don't make sense |
+| **Priority queue** | Dispatch verification by how odd the item is |
+<!-- end table -->
+
+## ⚠️ The certainty problem
+
+Evidence can be **lost** or **regenerated**, so certainty is fragile. A record may simply disappear — and a
+replacement can be fabricated to fill the gap. Because a generated item is hard to tell from an original, a **single
+missing data point** can break certainty for the whole book. The practical fallback is to **investigate the people
+present** rather than to trust the record alone.
+
 ## 🧭 How this connects
 
 <!-- begin table -->

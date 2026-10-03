@@ -66,6 +66,21 @@ Anakin's case is **Truman inverted**: the streamer is *rare* and the viewer is *
 
 ---
 
+## 🗄️ Who owns the server, owns the rules
+
+The `camera → server → client` chain is only as neutral as its **host**. Who runs the server sets the rules, and where
+you host decides who sees the traffic.
+
+<!-- begin table -->
+| Hosting | Read |
+| --- | --- |
+| **Cloud** | If the authority owns the cloud, you are tricked — they see your traffic |
+| **No server** | Nothing to serve — you lose purpose |
+| **Private server** | Most secure, but isolated and easy to sabotage by hiding requests |
+<!-- end table -->
+
+Same plumbing, different owner: the feed is neutral only until someone controls the middle box.
+
 ## 🧭 How this connects
 
 <!-- begin table -->

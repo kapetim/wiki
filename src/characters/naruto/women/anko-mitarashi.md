@@ -64,3 +64,15 @@ Trait-level: the dark-clothed, snack-obsessed jonin — looks like a threat, rea
 
 - anko-server.md · characters.md § axis · odd-people.md
 - Real-world employer → [../../real-world-jobs.md](../../real-world-jobs.md)
+
+## 🌉 Between god and devil — the same act, different polish
+
+Anko's position is not a choice between two suitors but between two boundary-crossers. The leader hides his abuses; the one cast out of the village acted openly, without
+warning or consent. Read closely, they are the same behavior — one merely more delicate and better hidden, the other upfront. Neither has earned her respect.
+
+**The server read is her situation.** She controls her own access: set up a server, add a rate limiter, and handle requests on her terms. Where it runs decides who sees the
+traffic — the clouds (if the authority owns the host, she is tricked), no server (she loses purpose), or a private server (secure, but isolated and easy to sabotage by
+hiding requests).
+
+**The backyard read is her space.** Her home is a boundary, an agreed space no one enters. Sitting still in the middle is boring; better to move through the defined
+combinations and repeat the best ones — walk, run, sit, sleep, eat — while anything else is too much. The middle of hell and heaven is a place to manage, not to freeze in.

@@ -121,6 +121,23 @@ stream anything you want — point the webcam at a pre-generated video, or strea
 
 ---
 
+## 🧩 Data states — true, lost, generated
+
+Any record lands in one of three states, and the difference matters more than the bytes:
+
+<!-- begin table -->
+| Data | Meaning |
+| --- | --- |
+| `true` | Received as it happened |
+| `lost` | Disappeared — a single missing point can break certainty |
+| `generated` | Recreated or edited after the fact |
+<!-- end table -->
+
+Telling **true** from **generated** is near-impossible — the same bytes can be produced either way. Certainty is
+fragile: one **lost** data point and the whole chain of proof weakens.
+
+---
+
 ## 🧭 How this connects
 
 <!-- begin table -->

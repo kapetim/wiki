@@ -65,3 +65,11 @@ Trait-level: round glasses over an Uchiha face — the soft exterior of the firs
 - naruto/readme.md · [sharingan.md](sharingan.md) § Sarada
 - [uchiha.md](../readme.md#-uchiha-clan) · [sasuke-uchiha.md](sasuke-uchiha.md) · [sakura-haruno.md](../women/sakura-haruno.md)
 - Mirai comparison: infinite-loop.md § Mirai vs Sarada
+
+## 🎮 The console vs emulator read
+
+- **Mirai is the original console** — original cartridge, original device, hard to hack; she plays without understanding anything and still shows skill.
+- **Sarada is the PC with an emulator** — the effort perfection: she studied how to be better, installed the emulator, configured everything. Better graphics and
+  performance, but not original.
+- **Herbivore vs carnivore** — Mirai is an herbivore wearing a carnivore ninja costume; Sarada is a natural carnivore who tries to win all duels. Herbivores preserve
+  fairness; carnivores tend to win all duels. Mirai doesn't fight; Sarada wins all duels.

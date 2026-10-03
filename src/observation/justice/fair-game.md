@@ -210,6 +210,27 @@ The biggest legal split isn't what you have — it's **who else is involved**. A
 prosecuted; **distribution is the charge**. The victimless principle: a private act that involves nobody else is hard
 to bring to court — the moment it is sold or shared, it is a different game.
 
+## 🤝 The fairness contract
+
+The hierarchy only holds when players face each other with **equal opportunity**. Anyone could strike a sleeping
+opponent — but that **opts out of the game**, and a fair match shows potential rather than circumstance. An
+**integrity enforcer** watches for those who reject the contract and can answer in kind.
+
+## 🎯 Vengeance queue — priority dispatch
+
+Justice runs as a queue: a harm arrives, gets investigated, is routed to an executor, and the result is reviewed. A
+cost can be **repriced by consensus** — the wheel keeps spinning either way.
+
+<!-- begin table -->
+| Step | Read |
+| --- | --- |
+| Receive news | A harm is reported to the collector |
+| Investigate | Establish who is responsible |
+| Route | Assign an executor to pursue the target |
+| Review | Check the result and dispatch feedback |
+| Reprice | Consensus can change a cost — the wheel keeps spinning |
+<!-- end table -->
+
 ## ❓ Open questions
 
 - Who audits the referee when the referee sets the price?

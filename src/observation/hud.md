@@ -37,6 +37,16 @@
 
 When **money**, **work**, **geography**, **dream**, or **wheel** changes **next actions**—not every mood swing. Triage: governance § emotional.
 
+### 🎭 Why / where / how
+
+- **Why** — *(is the task worth doing?)*
+- **Where** — *(best place / price / least effort?)*
+- **How** — *(execution style?)*
+
+### 🏡 Borders / backyard
+
+- *(space where others may not enter)*
+
 ---
 
 ## 🎮 Short handle — Mario 64 stairs
