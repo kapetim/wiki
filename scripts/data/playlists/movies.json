@@ -1,0 +1,1907 @@
+[
+  {
+    "franchise": "the beekeeper",
+    "title": "The Beekeeper",
+    "type": "film",
+    "year": "2024",
+    "runtime": "1h45m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-beekeeper",
+    "domains": [
+      "action"
+    ]
+  },
+  {
+    "franchise": "bourne identity",
+    "title": "Bourne Identity",
+    "type": "film",
+    "year": "2002",
+    "runtime": "1h58m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "bourne-identity",
+    "domains": [
+      "action"
+    ]
+  },
+  {
+    "franchise": "crank",
+    "title": "Crank",
+    "type": "film",
+    "year": "2006",
+    "runtime": "1h34m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "crank",
+    "domains": [
+      "action",
+      "revenge"
+    ]
+  },
+  {
+    "franchise": "drive",
+    "title": "Drive",
+    "type": "film",
+    "year": "2011",
+    "runtime": "1h40m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "drive",
+    "domains": [
+      "action"
+    ]
+  },
+  {
+    "franchise": "the equalizer",
+    "title": "The Equalizer",
+    "type": "film",
+    "year": "2014",
+    "runtime": "2h12m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-equalizer",
+    "domains": [
+      "action",
+      "revenge"
+    ]
+  },
+  {
+    "franchise": "john wick",
+    "title": "John Wick",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h41m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "john-wick",
+    "domains": [
+      "action",
+      "revenge"
+    ]
+  },
+  {
+    "franchise": "point break",
+    "title": "Point Break",
+    "type": "film",
+    "year": "1991",
+    "runtime": "2h02m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "point-break",
+    "domains": [
+      "action"
+    ]
+  },
+  {
+    "franchise": "sherlock holmes",
+    "title": "Sherlock Holmes",
+    "type": "film",
+    "year": "2009",
+    "runtime": "2h08m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "sherlock-holmes",
+    "domains": [
+      "action"
+    ]
+  },
+  {
+    "franchise": "airplane",
+    "title": "Airplane",
+    "type": "film",
+    "year": "1980",
+    "runtime": "1h28m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "airplane",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "the dictator",
+    "title": "The Dictator",
+    "type": "film",
+    "year": "2012",
+    "runtime": "1h38m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-dictator",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "dumb and dumber",
+    "title": "Dumb and Dumber",
+    "type": "film",
+    "year": "1994",
+    "runtime": "1h52m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "dumb-and-dumber",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "home alone",
+    "title": "Home Alone",
+    "type": "film",
+    "year": "1990",
+    "runtime": "1h42m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "home-alone",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "liar liar",
+    "title": "Liar Liar",
+    "type": "film",
+    "year": "1997",
+    "runtime": "1h26m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "liar-liar",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "superbad",
+    "title": "Superbad",
+    "type": "film",
+    "year": "2007",
+    "runtime": "1h58m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "superbad",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "tenacious d in the pick of destiny",
+    "title": "Tenacious D in the Pick of Destiny",
+    "type": "film",
+    "year": "2006",
+    "runtime": "1h34m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "tenacious-d-in-the-pick-of-destiny",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "up in smoke",
+    "title": "Up in Smoke",
+    "type": "film",
+    "year": "1978",
+    "runtime": "1h25m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "up-in-smoke",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "yes man",
+    "title": "Yes Man",
+    "type": "film",
+    "year": "2008",
+    "runtime": "1h44m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "yes-man",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "21",
+    "title": "21",
+    "type": "film",
+    "year": "2008",
+    "runtime": "2h02m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "21",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "american made",
+    "title": "American Made",
+    "type": "film",
+    "year": "2017",
+    "runtime": "1h54m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "american-made",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "gone girl",
+    "title": "Gone Girl",
+    "type": "film",
+    "year": "2014",
+    "runtime": "2h29m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "gone-girl",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "nightcrawler",
+    "title": "Nightcrawler",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h57m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "nightcrawler",
+    "domains": [
+      "crime",
+      "serial_killer"
+    ]
+  },
+  {
+    "franchise": "now you see me",
+    "title": "Now You See Me",
+    "type": "film",
+    "year": "2013",
+    "runtime": "2h04m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "now-you-see-me",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "oceans 11",
+    "title": "Oceans 11",
+    "type": "film",
+    "year": "1960",
+    "runtime": "2h07m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "oceans-11",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "oldboy",
+    "title": "Oldboy",
+    "type": "film",
+    "year": "2003",
+    "runtime": "1h59m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "oldboy",
+    "domains": [
+      "crime",
+      "survival",
+      "revenge"
+    ]
+  },
+  {
+    "franchise": "pulp fiction",
+    "title": "Pulp Fiction",
+    "type": "film",
+    "year": "1994",
+    "runtime": "2h34m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "pulp-fiction",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "se7en",
+    "title": "Se7en",
+    "type": "film",
+    "year": "1995",
+    "runtime": "2h06m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "se7en",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "taxi driver",
+    "title": "Taxi Driver",
+    "type": "film",
+    "year": "1976",
+    "runtime": "1h53m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "taxi-driver",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "zodiac",
+    "title": "Zodiac",
+    "type": "film",
+    "year": "2007",
+    "runtime": "2h42m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "zodiac",
+    "domains": [
+      "crime",
+      "serial_killer"
+    ]
+  },
+  {
+    "franchise": "boxing helena",
+    "title": "Boxing Helena",
+    "type": "film",
+    "year": "1993",
+    "runtime": "1h45m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "boxing-helena",
+    "domains": [
+      "drama",
+      "torture"
+    ]
+  },
+  {
+    "franchise": "a brilliant young mind",
+    "title": "A Brilliant Young Mind",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h51m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "a-brilliant-young-mind",
+    "domains": [
+      "drama",
+      "genius"
+    ]
+  },
+  {
+    "franchise": "burnt",
+    "title": "Burnt",
+    "type": "film",
+    "year": "2015",
+    "runtime": "1h41m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "burnt",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "demolition",
+    "title": "Demolition",
+    "type": "film",
+    "year": "2015",
+    "runtime": "1h40m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "demolition",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "the founder",
+    "title": "The Founder",
+    "type": "film",
+    "year": "2016",
+    "runtime": "1h55m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-founder",
+    "domains": [
+      "drama",
+      "genius"
+    ]
+  },
+  {
+    "franchise": "good will hunting",
+    "title": "Good Will Hunting",
+    "type": "film",
+    "year": "1997",
+    "runtime": "2h06m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "good-will-hunting",
+    "domains": [
+      "drama",
+      "genius"
+    ]
+  },
+  {
+    "franchise": "green mile",
+    "title": "Green Mile",
+    "type": "film",
+    "year": "1999",
+    "runtime": "3h08m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "green-mile",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "the imitation game",
+    "title": "The Imitation Game",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h53m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-imitation-game",
+    "domains": [
+      "drama",
+      "genius"
+    ]
+  },
+  {
+    "franchise": "jobs",
+    "title": "Jobs",
+    "type": "film",
+    "year": "2013",
+    "runtime": "2h08m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "jobs",
+    "domains": [
+      "drama",
+      "genius"
+    ]
+  },
+  {
+    "franchise": "a man called otto",
+    "title": "A Man Called Otto",
+    "type": "film",
+    "year": "2022",
+    "runtime": "2h06m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "a-man-called-otto",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "oppenheimer",
+    "title": "Oppenheimer",
+    "type": "film",
+    "year": "2023",
+    "runtime": "3h00m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "oppenheimer",
+    "domains": [
+      "drama",
+      "genius"
+    ]
+  },
+  {
+    "franchise": "the pursuit of happyness",
+    "title": "The Pursuit of Happyness",
+    "type": "film",
+    "year": "2006",
+    "runtime": "1h57m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-pursuit-of-happyness",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "senna",
+    "title": "Senna",
+    "type": "film",
+    "year": "2010",
+    "runtime": "2h42m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "senna",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "southpaw",
+    "title": "Southpaw",
+    "type": "film",
+    "year": "2015",
+    "runtime": "2h03m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "southpaw",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "walt before mickey",
+    "title": "Walt Before Mickey",
+    "type": "film",
+    "year": "2015",
+    "runtime": "1h46m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "walt-before-mickey",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "whiplash",
+    "title": "Whiplash",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h46m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "whiplash",
+    "domains": [
+      "drama",
+      "genius"
+    ]
+  },
+  {
+    "franchise": "jumanji",
+    "title": "Jumanji",
+    "type": "film",
+    "year": "1995",
+    "runtime": "1h44m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "jumanji",
+    "domains": [
+      "fantasy"
+    ]
+  },
+  {
+    "franchise": "the lord of the rings the fellowship of the ring",
+    "title": "The Lord of the Rings the Fellowship of the Ring",
+    "type": "film",
+    "year": "2001",
+    "runtime": "3h48m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "domains": [
+      "fantasy"
+    ]
+  },
+  {
+    "franchise": "willy wonka and the chocolate factory",
+    "title": "Willy Wonka and the Chocolate Factory",
+    "type": "film",
+    "year": "1971",
+    "runtime": "1h39m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "willy-wonka-and-the-chocolate-factory",
+    "domains": [
+      "fantasy"
+    ]
+  },
+  {
+    "franchise": "x",
+    "title": "X",
+    "type": "film",
+    "year": "2022",
+    "runtime": "1h46m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "x",
+    "domains": [
+      "horror"
+    ]
+  },
+  {
+    "franchise": "childs play",
+    "title": "Childs Play",
+    "type": "film",
+    "year": "1988",
+    "runtime": "1h27m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "childs-play",
+    "domains": [
+      "horror"
+    ]
+  },
+  {
+    "franchise": "gremlins",
+    "title": "Gremlins",
+    "type": "film",
+    "year": "1984",
+    "runtime": "1h46m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "gremlins",
+    "domains": [
+      "horror"
+    ]
+  },
+  {
+    "franchise": "gremlins",
+    "title": "Gremlins the New Batch",
+    "type": "film",
+    "year": "1990",
+    "runtime": "1h46m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "gremlins-the-new-batch",
+    "domains": [
+      "horror"
+    ]
+  },
+  {
+    "franchise": "house of wax",
+    "title": "House of Wax",
+    "type": "film",
+    "year": "1953",
+    "runtime": "1h28m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "house-of-wax",
+    "domains": [
+      "horror"
+    ]
+  },
+  {
+    "franchise": "human centipede",
+    "title": "Human Centipede",
+    "type": "film",
+    "year": "2009",
+    "runtime": "1h31m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "human-centipede",
+    "domains": [
+      "horror",
+      "torture"
+    ]
+  },
+  {
+    "franchise": "saw",
+    "title": "Saw",
+    "type": "film",
+    "year": "2004",
+    "runtime": "1h42m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "saw",
+    "domains": [
+      "horror",
+      "torture"
+    ]
+  },
+  {
+    "franchise": "cube",
+    "title": "Cube",
+    "type": "film",
+    "year": "1997",
+    "runtime": "1h30m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "cube",
+    "domains": [
+      "rabbit_hole",
+      "survival"
+    ]
+  },
+  {
+    "franchise": "dark city",
+    "title": "Dark City",
+    "type": "film",
+    "year": "1998",
+    "runtime": "1h51m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "dark-city",
+    "domains": [
+      "rabbit_hole"
+    ]
+  },
+  {
+    "franchise": "labyrinth",
+    "title": "Labyrinth",
+    "type": "film",
+    "year": "1986",
+    "runtime": "1h41m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "labyrinth",
+    "domains": [
+      "rabbit_hole"
+    ]
+  },
+  {
+    "franchise": "matrix",
+    "title": "Matrix",
+    "type": "film",
+    "year": "1999",
+    "runtime": "2h16m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "matrix",
+    "domains": [
+      "rabbit_hole"
+    ]
+  },
+  {
+    "franchise": "mirrormask",
+    "title": "Mirrormask",
+    "type": "film",
+    "year": "2005",
+    "runtime": "1h40m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "mirrormask",
+    "domains": [
+      "rabbit_hole"
+    ]
+  },
+  {
+    "franchise": "number 23",
+    "title": "Number 23",
+    "type": "film",
+    "year": "2007",
+    "runtime": "1h38m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "number-23",
+    "domains": [
+      "rabbit_hole"
+    ]
+  },
+  {
+    "franchise": "pans labyrinth",
+    "title": "Pans Labyrinth",
+    "type": "film",
+    "year": "2006",
+    "runtime": "1h58m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "pans-labyrinth",
+    "domains": [
+      "rabbit_hole"
+    ]
+  },
+  {
+    "franchise": "pi",
+    "title": "Pi",
+    "type": "film",
+    "year": "1998",
+    "runtime": "1h24m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "pi",
+    "domains": [
+      "rabbit_hole",
+      "genius"
+    ]
+  },
+  {
+    "franchise": "the platform",
+    "title": "The Platform",
+    "type": "film",
+    "year": "2019",
+    "runtime": "1h38m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-platform",
+    "domains": [
+      "rabbit_hole",
+      "survival"
+    ]
+  },
+  {
+    "franchise": "truman show",
+    "title": "Truman Show",
+    "type": "film",
+    "year": "1998",
+    "runtime": "1h42m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "truman-show",
+    "domains": [
+      "rabbit_hole"
+    ]
+  },
+  {
+    "franchise": "arrival",
+    "title": "Arrival",
+    "type": "film",
+    "year": "2016",
+    "runtime": "1h56m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "arrival",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "her",
+    "title": "Her",
+    "type": "film",
+    "year": "2013",
+    "runtime": "2h05m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "her",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "limitless",
+    "title": "Limitless",
+    "type": "film",
+    "year": "2011",
+    "runtime": "1h45m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "limitless",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "lucy",
+    "title": "Lucy",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h29m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "lucy",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "the maze runner",
+    "title": "The Maze Runner",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h53m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-maze-runner",
+    "domains": [
+      "sci_fi",
+      "survival"
+    ]
+  },
+  {
+    "franchise": "in time",
+    "title": "In Time",
+    "type": "film",
+    "year": "2011",
+    "runtime": "1h49m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "in-time",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "annabelle",
+    "title": "Annabelle",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h38m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "annabelle",
+    "domains": [
+      "spiritism"
+    ]
+  },
+  {
+    "franchise": "conjuring",
+    "title": "Conjuring",
+    "type": "film",
+    "year": "2013",
+    "runtime": "1h51m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "conjuring",
+    "domains": [
+      "spiritism"
+    ]
+  },
+  {
+    "franchise": "dead silence",
+    "title": "Dead Silence",
+    "type": "film",
+    "year": "2007",
+    "runtime": "1h31m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "dead-silence",
+    "domains": [
+      "spiritism"
+    ]
+  },
+  {
+    "franchise": "grudge",
+    "title": "Grudge",
+    "type": "film",
+    "year": "2004",
+    "runtime": "1h38m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "grudge",
+    "domains": [
+      "spiritism"
+    ]
+  },
+  {
+    "franchise": "the nun",
+    "title": "The Nun",
+    "type": "film",
+    "year": "2018",
+    "runtime": "1h36m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-nun",
+    "domains": [
+      "spiritism"
+    ]
+  },
+  {
+    "franchise": "big short",
+    "title": "Big Short",
+    "type": "film",
+    "year": "2015",
+    "runtime": "2h10m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "big-short",
+    "domains": [
+      "stock_market"
+    ]
+  },
+  {
+    "franchise": "margin call",
+    "title": "Margin Call",
+    "type": "film",
+    "year": "2011",
+    "runtime": "1h42m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "margin-call",
+    "domains": [
+      "stock_market"
+    ]
+  },
+  {
+    "franchise": "wolf of wall street",
+    "title": "Wolf of Wall Street",
+    "type": "film",
+    "year": "2013",
+    "runtime": "2h59m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "wolf-of-wall-street",
+    "domains": [
+      "stock_market"
+    ]
+  },
+  {
+    "franchise": "deadpool",
+    "title": "Deadpool",
+    "type": "film",
+    "year": "2016",
+    "runtime": "1h48m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "deadpool",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "episode i the phantom menace",
+    "title": "Episode I the Phantom Menace",
+    "type": "film",
+    "year": "1999",
+    "runtime": "2h16m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "episode-i-the-phantom-menace",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "fantastic four",
+    "title": "Fantastic Four",
+    "type": "film",
+    "year": "2005",
+    "runtime": "1h45m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "fantastic-four",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "joker",
+    "title": "Joker",
+    "type": "film",
+    "year": "2019",
+    "runtime": "2h01m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "joker",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "the mask",
+    "title": "The Mask",
+    "type": "film",
+    "year": "1994",
+    "runtime": "1h41m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-mask",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "men in black",
+    "title": "Men in Black",
+    "type": "film",
+    "year": "1997",
+    "runtime": "1h37m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "men-in-black",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "spider man",
+    "title": "Spider Man",
+    "type": "film",
+    "year": "2002",
+    "runtime": "2h01m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "spider-man",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "unbreakable",
+    "title": "Unbreakable",
+    "type": "film",
+    "year": "2000",
+    "runtime": "1h46m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "unbreakable",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "venom",
+    "title": "Venom",
+    "type": "film",
+    "year": "2018",
+    "runtime": "1h52m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "venom",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "enemy",
+    "title": "Enemy",
+    "type": "film",
+    "year": "2013",
+    "runtime": "1h30m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "enemy",
+    "domains": [
+      "thriller"
+    ]
+  },
+  {
+    "franchise": "exam",
+    "title": "Exam",
+    "type": "film",
+    "year": "2009",
+    "runtime": "1h36m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "exam",
+    "domains": [
+      "thriller",
+      "survival"
+    ]
+  },
+  {
+    "franchise": "memento",
+    "title": "Memento",
+    "type": "film",
+    "year": "2000",
+    "runtime": "1h53m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "memento",
+    "domains": [
+      "thriller"
+    ]
+  },
+  {
+    "franchise": "the menu",
+    "title": "The Menu",
+    "type": "film",
+    "year": "2022",
+    "runtime": "1h47m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-menu",
+    "domains": [
+      "thriller",
+      "survival",
+      "serial_killer"
+    ]
+  },
+  {
+    "franchise": "untraceable",
+    "title": "Untraceable",
+    "type": "film",
+    "year": "2008",
+    "runtime": "1h41m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "untraceable",
+    "domains": [
+      "thriller"
+    ]
+  },
+  {
+    "franchise": "back to the future",
+    "title": "Back to the Future",
+    "type": "film",
+    "year": "1985",
+    "runtime": "1h55m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "back-to-the-future",
+    "domains": [
+      "time_travel"
+    ]
+  },
+  {
+    "franchise": "donnie darko",
+    "title": "Donnie Darko",
+    "type": "film",
+    "year": "2001",
+    "runtime": "2h13m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "donnie-darko",
+    "domains": [
+      "time_travel"
+    ]
+  },
+  {
+    "franchise": "inception",
+    "title": "Inception",
+    "type": "film",
+    "year": "2010",
+    "runtime": "2h28m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "inception",
+    "domains": [
+      "time_travel"
+    ]
+  },
+  {
+    "franchise": "predestination",
+    "title": "Predestination",
+    "type": "film",
+    "year": "2014",
+    "runtime": "1h37m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "predestination",
+    "domains": [
+      "time_travel"
+    ]
+  },
+  {
+    "franchise": "source code",
+    "title": "Source Code",
+    "type": "film",
+    "year": "2011",
+    "runtime": "1h33m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "source-code",
+    "domains": [
+      "time_travel"
+    ]
+  },
+  {
+    "franchise": "fantastic beasts and where to find them",
+    "title": "Fantastic Beasts and Where to Find Them",
+    "type": "film",
+    "year": "2016",
+    "runtime": "2h12m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "fantastic-beasts-and-where-to-find-them",
+    "domains": [
+      "wizard"
+    ]
+  },
+  {
+    "franchise": "harry potter and the philosophers stone",
+    "title": "Harry Potter and the Philosophers Stone",
+    "type": "film",
+    "year": "2001",
+    "runtime": "2h32m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "harry-potter-and-the-philosophers-stone",
+    "domains": [
+      "wizard"
+    ]
+  },
+  {
+    "franchise": "aladdin",
+    "title": "Aladdin",
+    "type": "film",
+    "year": "1992",
+    "runtime": "1h30m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "aladdin",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "alice in wonderland",
+    "title": "Alice in Wonderland",
+    "type": "film",
+    "year": "1951",
+    "runtime": "1h15m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "alice-in-wonderland",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "beauty and the beast",
+    "title": "Beauty and the Beast",
+    "type": "film",
+    "year": "1991",
+    "runtime": "1h31m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "beauty-and-the-beast",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "cinderella",
+    "title": "Cinderella",
+    "type": "film",
+    "year": "1950",
+    "runtime": "1h14m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "cinderella",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hercules",
+    "title": "Hercules",
+    "type": "film",
+    "year": "1997",
+    "runtime": "1h32m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "hercules",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the hunchback of notre dame",
+    "title": "The Hunchback of Notre Dame",
+    "type": "film",
+    "year": "1996",
+    "runtime": "1h30m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-hunchback-of-notre-dame",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the jungle book",
+    "title": "The Jungle Book",
+    "type": "film",
+    "year": "1967",
+    "runtime": "1h18m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-jungle-book",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the lion king",
+    "title": "The Lion King",
+    "type": "film",
+    "year": "1994",
+    "runtime": "1h28m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-lion-king",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the little mermaid",
+    "title": "The Little Mermaid",
+    "type": "film",
+    "year": "1989",
+    "runtime": "1h22m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-little-mermaid",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "one hundred and one dalmatians",
+    "title": "One Hundred and One Dalmatians",
+    "type": "film",
+    "year": "1961",
+    "runtime": "1h19m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "one-hundred-and-one-dalmatians",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "peter pan",
+    "title": "Peter Pan",
+    "type": "film",
+    "year": "1953",
+    "runtime": "1h16m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "peter-pan",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "pinocchio",
+    "title": "Pinocchio",
+    "type": "film",
+    "year": "1940",
+    "runtime": "1h27m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "pinocchio",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "robin hood",
+    "title": "Robin Hood",
+    "type": "film",
+    "year": "1973",
+    "runtime": "1h23m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "robin-hood",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "sleeping beauty",
+    "title": "Sleeping Beauty",
+    "type": "film",
+    "year": "1959",
+    "runtime": "1h15m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "sleeping-beauty",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "snow white and the seven dwarfs",
+    "title": "Snow White and the Seven Dwarfs",
+    "type": "film",
+    "year": "1937",
+    "runtime": "1h23m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "snow-white-and-the-seven-dwarfs",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the sword in the stone",
+    "title": "The Sword in the Stone",
+    "type": "film",
+    "year": "1963",
+    "runtime": "1h19m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-sword-in-the-stone",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "tarzan",
+    "title": "Tarzan",
+    "type": "film",
+    "year": "1999",
+    "runtime": "1h31m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "tarzan",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "a bugs life",
+    "title": "A Bugs Life",
+    "type": "film",
+    "year": "1998",
+    "runtime": "1h34m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "a-bugs-life",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "coraline",
+    "title": "Coraline",
+    "type": "film",
+    "year": "2009",
+    "runtime": "1h35m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "coraline",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "corpse bride",
+    "title": "Corpse Bride",
+    "type": "film",
+    "year": "2005",
+    "runtime": "1h17m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "corpse-bride",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the emperors new groove",
+    "title": "The Emperors New Groove",
+    "type": "film",
+    "year": "2000",
+    "runtime": "1h18m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-emperors-new-groove",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "finding nemo",
+    "title": "Finding Nemo",
+    "type": "film",
+    "year": "2003",
+    "runtime": "1h40m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "finding-nemo",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the incredibles",
+    "title": "The Incredibles",
+    "type": "film",
+    "year": "2004",
+    "runtime": "1h55m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-incredibles",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "inside out",
+    "title": "Inside Out",
+    "type": "film",
+    "year": "2015",
+    "runtime": "1h34m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "inside-out",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "madagascar",
+    "title": "Madagascar",
+    "type": "film",
+    "year": "2005",
+    "runtime": "1h25m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "madagascar",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "monster house",
+    "title": "Monster House",
+    "type": "film",
+    "year": "2006",
+    "runtime": "1h30m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "monster-house",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "monsters inc",
+    "title": "Monsters Inc",
+    "type": "film",
+    "year": "2001",
+    "runtime": "1h32m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "monsters-inc",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "puss in boots",
+    "title": "Puss in Boots",
+    "type": "film",
+    "year": "2011",
+    "runtime": "1h30m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "puss-in-boots",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "shrek",
+    "title": "Shrek",
+    "type": "film",
+    "year": "2001",
+    "runtime": "1h30m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "shrek",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the simpsons movie",
+    "title": "The Simpsons Movie",
+    "type": "film",
+    "year": "2007",
+    "runtime": "1h26m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-simpsons-movie",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "toy story",
+    "title": "Toy Story",
+    "type": "film",
+    "year": "1995",
+    "runtime": "1h21m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "toy-story",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "wall e",
+    "title": "Wall E",
+    "type": "film",
+    "year": "2008",
+    "runtime": "1h38m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "wall-e",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "wreck it ralph",
+    "title": "Wreck It Ralph",
+    "type": "film",
+    "year": "2012",
+    "runtime": "1h41m",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "wreck-it-ralph",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  }
+]

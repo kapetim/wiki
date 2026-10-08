@@ -1,0 +1,88 @@
+{
+  "sexual": {
+    "exact": ["lolita", "jailbait", "hentai", "shotacon", "incest", "rape", "raped", "raping", "rapist", "grope", "blowjob", "handjob", "cum", "cumshot", "creampie", "dick", "cock", "tits", "titties", "boobs", "anal", "anus", "vagina", "penis", "orgasm", "orgy", "orgies", "hooker", "brothel", "stripper", "fetish", "bondage", "bdsm", "milf", "dildo", "nude", "naked", "erotic", "horny", "bestiality", "nsfw", "xxx", "erotica", "smut", "kink", "kinky", "sexting", "camgirl", "onlyfans", "escort", "gigolo", "striptease", "lapdance", "gloryhole", "gangbang", "threesome", "foursome", "vibrator", "masturbation", "footjob", "jizz", "semen", "sperm", "ejaculation", "intercourse", "foreplay", "fellatio", "cunnilingus", "anilingus", "rimjob", "dominatrix", "sadism", "masochism", "sadist", "masochist", "ecchi", "yaoi", "yuri", "shota", "loli", "dilf", "gilf", "nympho", "exhibitionist", "voyeur", "flasher", "zoophilia", "necrophilia", "pedophile", "sodomy", "sodomize", "bukkake", "cuckold"],
+    "prefix": ["porn", "pornograph", "pedo", "pedophil", "molest", "pussy", "masturbat", "whore", "slut", "prostitut", "necrophil", "zoophil", "exhibitionis", "sadis", "masochis", "nympho", "sodom"],
+    "contains": ["porn", "pedo", "molest", "necrophil", "zoophil", "bestial", "hentai"],
+    "regex": []
+  },
+  "profanity": {
+    "exact": ["fuck", "shit", "bitch", "asshole", "bastard", "cunt", "prick", "douche", "damn", "crap", "bullshit", "dickhead", "arse", "ass", "bollocks", "bugger", "douchebag", "goddamn", "jackass", "motherfucker", "piss", "pissed", "twat", "wanker", "fucker", "fucking", "shitty"],
+    "prefix": ["fuck", "shit", "bitch", "motherfuck", "cocksuck", "asshol"],
+    "contains": [],
+    "regex": []
+  },
+  "drug": {
+    "exact": ["cocaine", "heroin", "meth", "methamphetamine", "crack", "ketamine", "mdma", "ecstasy", "lsd", "psilocybin", "shrooms", "fentanyl", "opioid", "oxycodone", "codeine", "morphine", "cannabis", "marijuana", "weed", "hashish", "amphetamine", "xanax", "ghb", "pcp", "dxm", "dmt", "ayahuasca", "drug", "drugs", "drugged", "coke", "smack", "adderall", "ritalin", "molly", "xtc", "ganja", "kush", "thc", "oxy", "percocet", "vicodin", "hydrocodone", "valium", "benzo", "keta", "peyote", "mescaline", "narcotic"],
+    "prefix": ["cocaine", "amphetamin", "methamphetamin", "opioid", "cannabi", "psilocyb", "ayahuasc", "narcotic"],
+    "contains": [],
+    "regex": []
+  },
+  "selfharm": {
+    "exact": ["suicide", "suicidal", "self-harm", "selfharm", "kys", "selfmutilation", "self-mutilation", "kill myself", "kill yourself", "end my life", "end it all"],
+    "prefix": ["suicid"],
+    "contains": [],
+    "regex": []
+  },
+  "slur": {
+    "exact": ["fag", "faggot", "fagot", "retard", "tranny", "dyke", "chink", "kike", "spic", "wetback", "beaner", "coon", "darkie", "darky", "redskin", "retarded", "spastic", "spaz", "gyp", "paki", "raghead", "towelhead", "gook", "slope", "honky", "whitey", "sambo", "pickaninny", "halfbreed", "cripple", "mongoloid"],
+    "prefix": ["nigg", "retard"],
+    "contains": ["nigg"],
+    "regex": []
+  },
+  "sex": {
+    "exact": [],
+    "prefix": ["sex"],
+    "contains": [],
+    "regex": []
+  },
+  "violence": {
+    "exact": ["kill", "killed", "killing", "murder", "murderer", "death", "dead", "die", "dying", "gun", "torture", "blood", "gore", "abuse", "violence", "violent", "killer", "killers", "murdered", "murdering", "murderous", "massacre", "slaughter", "decapitate", "decapitation", "behead", "beheading", "guillotine", "execute", "execution", "executioner", "assassinate", "assassination", "assassin", "terror", "terrorism", "terrorist", "bomb", "bombing", "bomber", "explode", "explosion", "explosive", "shoot", "shooting", "shooter", "firearm", "rifle", "pistol", "revolver", "shotgun", "ammo", "ammunition", "weapon", "weaponry", "stab", "stabbing", "slay", "slaying", "strangle", "strangulation", "choke", "choking", "tortured", "torturer", "gory", "mutilate", "mutilation", "dismember", "dismemberment", "abusive", "assault", "genocide", "holocaust", "lynching", "stoning", "crucify", "crucifixion", "immolate", "arson", "arsonist", "maim", "manslaughter", "homicide"],
+    "prefix": ["kill", "murder", "massacr", "slaught", "behead", "decapitat", "assassinat", "terror", "shoot", "strangl", "tortur", "mutilat", "dismember", "lynch", "crucif", "immolat", "arson", "homicid", "genocid"],
+    "contains": [],
+    "regex": []
+  },
+  "hate": {
+    "exact": ["nazi", "hitler", "nazism", "neonazi", "neo-nazi", "adolf", "fascist", "fascism", "swastika", "kkk", "white power", "white supremacy", "white supremacist", "supremacist", "skinhead", "antisemitism", "anti-semitism", "ethnic cleansing", "racist", "racism", "bigot", "bigotry", "xenophobia", "xenophobic", "homophobia", "homophobic", "misogyny", "misogynist", "jihad", "jihadist", "taliban", "isis", "isil", "al-qaeda", "alqaeda", "hezbollah", "hamas", "boko haram"],
+    "prefix": ["nazi", "fascis", "supremacis", "jihad", "terroris", "misogyn", "xenophob", "homophob", "antisemit", "racist", "bigot"],
+    "contains": [],
+    "regex": []
+  },
+  "weapons": {
+    "exact": ["gun", "guns", "handgun", "rifle", "pistol", "revolver", "shotgun", "ammo", "ammunition", "weapon", "weaponry", "grenade", "explosive", "dynamite", "c4", "semiautomatic", "silencer", "suppressor", "firearm", "musket", "bazooka", "rpg", "landmine"],
+    "prefix": [],
+    "contains": [],
+    "regex": []
+  },
+  "gambling": {
+    "exact": ["casino", "gambling", "gamble", "gambler", "betting", "bet", "bets", "wager", "poker", "blackjack", "roulette", "slot machine", "slots", "jackpot", "lottery", "bingo", "sportsbook", "bookmaker", "bookie", "craps", "baccarat"],
+    "prefix": ["gambl", "wager", "bookmak"],
+    "contains": [],
+    "regex": []
+  },
+  "fraud": {
+    "exact": ["scam", "scammer", "scamming", "fraud", "fraudster", "fraudulent", "phishing", "phish", "counterfeit", "counterfeiting", "forgery", "launder", "laundering", "embezzle", "embezzlement", "bribe", "bribery", "extortion", "extortionist", "blackmail", "blackmailer", "smuggle", "smuggling", "trafficking", "ransomware", "malware", "botnet", "keylogger", "spyware", "identity theft", "ponzi", "pyramid scheme", "money laundering", "insider trading", "heist", "robbery", "robber", "burglar", "burglary", "theft", "thief", "shoplift"],
+    "prefix": ["scam", "fraud", "phish", "counterfei", "embezzl", "brib", "extort", "blackmail", "smugg", "traffick", "ransomware", "malwar", "botnet", "keylogg", "spyware", "heist", "robber", "burglar", "shoplift"],
+    "contains": [],
+    "regex": []
+  },
+  "piracy": {
+    "exact": ["magnet", "the pirate bay", "piratebay", "1337x", "rarbg", "yts", "yify", "kickass", "demonoid", "nyaa", "eztv", "putlocker", "123movies", "fmovies", "soap2day", "primewire", "watchseries", "warez", "keygen"],
+    "prefix": ["torrent", "warez", "keygen"],
+    "contains": [],
+    "regex": []
+  },
+  "pii": {
+    "exact": [],
+    "prefix": [],
+    "contains": [],
+    "regex": [
+      "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}\\b",
+      "\\b\\d{3}\\.\\d{3}\\.\\d{3}-\\d{2}\\b",
+      "\\b\\d{2}\\.\\d{3}\\.\\d{3}/\\d{4}-\\d{2}\\b",
+      "\\b\\d{3}-\\d{2}-\\d{4}\\b",
+      "\\b(?:\\+?\\d{1,3}[-.\\s]?)?\\(?\\d{2,3}\\)?[-.\\s]?\\d{4,5}[-.\\s]?\\d{4}\\b",
+      "\\b(?:\\d[ -]?){13,16}\\b",
+      "\\b(?:\\d{1,3}\\.){3}\\d{1,3}\\b"
+    ]
+  }
+}

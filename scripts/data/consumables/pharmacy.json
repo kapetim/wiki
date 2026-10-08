@@ -1,0 +1,8 @@
+[
+  { "name": "Multivitamin", "section": "supplements" },
+  { "name": "Calcium + D3", "section": "supplements" },
+  { "name": "Eye drops", "section": "regulars" },
+  { "name": "Inhaler solution", "section": "regulars" },
+  { "name": "Anti-allergic", "section": "on-call" },
+  { "name": "Anti-inflammatory", "section": "on-call" }
+]

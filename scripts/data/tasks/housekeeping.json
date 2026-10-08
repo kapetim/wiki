@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cleaning",
+    "title": "🧹 cleaning",
+    "tag": "housekeeping",
+    "labels": [
+      "housekeeping"
+    ],
+    "recurrence": "weeks",
+    "interval": 1,
+    "priority": 3,
+    "steps": "Multipurpose cleaner covers kitchen, toilet, and floor.\n\n1. **Kitchen — eating** — clear, wipe, and degrease with the multipurpose cleaner:\n   - **Trash** — tie every full sack; carry all out together; fresh liner in every bin.\n   - **Dishes** — sink empty; wash by hand.\n   - **Sink and tap** — scrub basin and faucet.\n   - **Table and counters** — clear, wipe; crumbs can go toward the floor.\n   - **Stove** — wipe cooktop; degrease burners and surrounding area.\n   - **Oven** — wipe exterior; clean interior spills when due.\n   - **Fridge** — scan dates; purge expired food; wipe shelves and drawers.\n2. **Bathroom — hygiene** — multipurpose cleaner for toilet, shower, sink, and mirror:\n   - **Toilet** — cleaner under rim; scrub with dedicated brush; wipe seat, lid, tank, and base; flush; rinse brush.\n   - **Shower / tub** — spray, scrub, rinse; squeegee glass doors.\n   - **Sink and counter** — spray, wipe, scrub drain; clear toiletries back onto ledges.\n   - **Mirror** — multipurpose cleaner or damp microfiber.\n   - **Air out** — fan or open window briefly.\n3. **Floor — always dirty** — last pass; wipes up what the rooms dropped:\n   - **Clear** — put loose clutter back where it belongs.\n   - **Rod + thick wet cloth** — multipurpose cleaner on cloth; start far corner, work toward exit in one wet pass.\n   - **Collect dust** — push crumbs and dust to one zone. Wet clump: grab with folded toilet paper and discard in the toilet. Light dry dust: brief settle or second rod stroke.\n   - **Touch-dry** — high-traffic paths before normal walking.\n4. **Set aside cloths** — kitchen, bathroom, and floor cloths for the cleaning-cloth laundry load (no softener).",
+    "done_when": "- Kitchen: bins fresh-lined, trash out; sink empty; counters and stove wiped; fridge scanned\n- Bathroom: toilet, shower, sink, and mirror clean\n- Floor: whole home wiped once, dust collected\n- Cleaning cloths queued for the separate cleaning-cloth wash",
+    "summary": "Kitchen — eating — clear, wipe, and degrease with the multipurpose cleaner:"
+  },
+  {
+    "id": "ecommerce",
+    "title": "🛒 e-commerce stock",
+    "tag": "housekeeping",
+    "labels": [
+      "housekeeping"
+    ],
+    "recurrence": "months",
+    "interval": 1,
+    "priority": 3,
+    "steps": "1. **Shelf scan** — skip anything that still covers the rest of the month.\n2. **Order** the monthly stock; prefer delivery or single pickup.\n3. **Unpack** — group by section; note anything that ran out early.\n4. **Update prices** if they shifted.\n\nRestock per the consumables lists (cleaning · hygiene · grocery).",
+    "done_when": "- Monthly stock order covers ~30 days (or shelf already full)\n- Receipt prices updated on the buy plans",
+    "summary": "Shelf scan — skip anything that still covers the rest of the month."
+  },
+  {
+    "id": "laundry",
+    "title": "👕 laundry",
+    "tag": "housekeeping",
+    "labels": [
+      "housekeeping"
+    ],
+    "recurrence": "weeks",
+    "interval": 1,
+    "priority": 3,
+    "steps": "1. **Clothing load** — wearables, towels, bed linen; sort darks vs lights; normal detergent; softener optional on towels.\n2. **Start washer** — run the clothing cycle to completion (wash + dry).\n3. **Cleaning-cloth load** — bathroom, kitchen, and floor cloths only; **never** in the same drum as clothing.\n4. **No softener** on the cleaning-cloth load — keeps absorbency for floor passes.\n5. **Dry** — hang or machine-dry per fabric; put cloths back at their stations.",
+    "done_when": "- Clothing and towels are clean and dry\n- Cleaning cloths washed separately without softener\n- No mixed clothing + floor-cloth load",
+    "summary": "Clothing load — wearables, towels, bed linen; sort darks vs lights; normal detergent; so…"
+  },
+  {
+    "id": "perishable",
+    "title": "🥬 perishable groceries",
+    "tag": "housekeeping",
+    "labels": [
+      "housekeeping"
+    ],
+    "recurrence": "weeks",
+    "interval": 1,
+    "priority": 2,
+    "steps": "1. **Fridge scan** — skip rows still in stock.\n2. **Shop** the grocery list in alphabetical order.\n3. **Unpack** — freeze what needs freezing.\n4. **Cook** — prep for the week.\n5. **Update prices** if they shifted.\n\nRestock per the consumables list (grocery).",
+    "done_when": "- Core list bought; no sugar or prize food\n- Liver scheduled; chicken portioned",
+    "summary": "Fridge scan — skip rows still in stock."
+  },
+  {
+    "id": "upload-backup",
+    "title": "☁️ upload backup",
+    "tag": "housekeeping",
+    "labels": [
+      "housekeeping"
+    ],
+    "recurrence": "weeks",
+    "interval": 2,
+    "priority": 2,
+    "steps": "1. **Export** — build/refresh the backup per the repository backup methodology (`code/repository/backup.md`).\n2. **Check caps** — total and per-repo within the caps.\n3. **Prune** — delete the oldest archives first; never drop a repo's latest tag.\n4. **USB** — copy the tree; verify count and size.\n5. **Drives** — sync to the cloud drives; wait for uploads to idle; eject safely.",
+    "done_when": "- Vault archive is encrypted-only; one archive per public repo\n- Total within cap and every repo within its cap\n- Both FAT32 USB sticks updated and date-labeled\n- All cloud drives show the same recent sync\n- No file on any destination exceeds 4 GB",
+    "summary": "Export — build/refresh the backup per the repository backup methodology."
+  }
+]

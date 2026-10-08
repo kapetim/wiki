@@ -1,0 +1,872 @@
+[
+  {
+    "path": "src/playlists/games/boardgame/checkers.md",
+    "blocks": [
+      {
+        "md": "# ⬛ Checkers\n\n**The jumping game.** Empty the board of enemy pieces — the lesson is trades and positioning.\n\n## 🧠 Meaning\n\nA capture is a trade; the player who controls the trade count wins.\n\n## 🗝️ Beat it with ease\n\n- **Keep the back row intact.** Moving a back-row piece early exposes your rear — leave it until forced.\n- **Trade when ahead.** Up one piece, every even exchange closes the game; down one piece, refuse all trades.\n- **Force captures with a sacrifice.** Leave a piece as bait, then take two on the return jump.\n- **Get to the kings row.** The first player to make kings has a runaway advantage — push the side of the board your opponent has abandoned.\n- **Control the center.** Side pieces are boxed in; central pieces jump in four directions.\n- **Watch the double jump.** Before any capture, count your opponent's landing square — a land in the middle often buys a follow-up jump.\n\n## 🎲 Played\n"
+      },
+      {
+        "table": [
+          "| Opponent | Result |",
+          "| --- | --- |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/boardgame/chess.md",
+    "blocks": [
+      {
+        "md": "# ♟️ Chess\n\n**The strategy game.** Control the center and convert — the lesson is pattern memory and calculation.\n\n## 🧠 Meaning\n\nEvery move is a question about the board; the grind is seeing one move deeper each time.\n\n## 🗝️ Beat it with ease\n\n- **Control the center.** Occupy or pressure e4/d4/e5/d5; a pawn in the middle outposts your pieces.\n- **Develop before attacking.** Knights out, bishops out, castle early. Pieces on their first rank defend nothing.\n- **Every move has a purpose.** Don't push pawns that don't fight for space or open lines.\n- **Don't grab free pawns blindly.** Queens and rooks in the open get hunted — count attackers and defenders first.\n- **Trade when ahead, simplify when winning.** Fewer pieces makes a material lead decisive.\n- **Endgame shortcut: opposition and the rook.** In king-pawn endgames, shoulder the enemy king; rook endgames want the rook behind the passed pawn.\n- **Tempo is a resource.** A check that forces a move gives you two moves in a row — use it to win the race.\n\n## 🎲 Played\n"
+      },
+      {
+        "table": [
+          "| Opponent | Result |",
+          "| --- | --- |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/boardgame/connect-four.md",
+    "blocks": [
+      {
+        "md": "# 🔴 Connect 4\n\n**The drop game.** Line up four first — the lesson is threat reading and zugzwang.\n\n## 🧠 Meaning\n\nThe board is decided by threats, not moves; whoever forces a pattern wins.\n\n## 🗝️ Beat it with ease\n\n- **Take the center column.** It's in every diagonal and horizontal — the only spot that can threaten from the first move.\n- **Create double threats.** A move that sets up two winning lines at once is unstoppable — your opponent can block only one.\n- **Block, then extend.** After blocking, always check if your blocking piece itself creates a new threat.\n- **Force the opponent to fill columns.** If you can make the third move in a column, the fourth is yours or a threat.\n- **Zugzwang is the win.** When every column is bad for the opponent, their forced move opens your win — play to exhaust their safe columns.\n- **Mirror the center early.** Don't let the opponent own the middle; respond in the center column immediately.\n\n## 🎲 Played\n"
+      },
+      {
+        "table": [
+          "| Opponent | Result |",
+          "| --- | --- |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/boardgame/dominoes.md",
+    "blocks": [
+      {
+        "md": "# 🁢 Dominoes\n\n**The blocking game.** Empty your hand and read the table — the lesson is counting and control.\n\n## 🧠 Meaning\n\nWhoever controls the open ends controls the game; counting tiles turns luck into math.\n\n## 🗝️ Beat it with ease\n\n- **Count the pips.** Track every tile played and the numbers remaining in hand; the open ends are the whole game.\n- **Feed the suit you hold.** Play the number you still carry tiles for, so you never get stuck without a match.\n- **Block the heavy suit.** If the opponent is holding doubles of a number, keep that suit closed on the table.\n- **Empty your high tiles first.** The double-six is dead weight at the end — shed it while the table is open.\n- **Force the draw.** If your play leaves the opponent unmatched, they pay — pick plays that close their options.\n- **Endgame: keep one of each.** Holding both open numbers late means you always have a move; the opponent stalls first.\n\n## 🎲 Played\n"
+      },
+      {
+        "table": [
+          "| Opponent | Result |",
+          "| --- | --- |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/boardgame/guess-who.md",
+    "blocks": [
+      {
+        "md": "# 🕵️ Guess Who?\n\n**Cara a Cara.** The investigation game — ask questions to eliminate faces until only theirs remains.\n\n## 🧠 Meaning\n\nThe game is information gathering. Every question should cut the remaining faces roughly in half.\n\n## 🗝️ Beat it with ease\n\n- **Split the board, not the people.** Ask about the most common feature first — hair color, glasses, facial hair — so the largest group flips down.\n- **Always binary search.** After each answer, the field should shrink by ~50%; if a question only removes two faces, it was wasted.\n- **Ask about big categories early.** \"Does your person have glasses?\" is often better than \"Is your person Sam?\" — never guess a name until the field is tiny.\n- **Ride the biggest flip.** If a question answers your way, follow with the next most common feature in that surviving group.\n- **Keep a mental shortlist.** Track the faces still standing; guess only when you have one or two left.\n\n## 🎲 Played\n"
+      },
+      {
+        "table": [
+          "| Opponent | Result |",
+          "| --- | --- |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/boardgame/jenga.md",
+    "blocks": [
+      {
+        "md": "# 🗼 Jenga\n\n**The stacking game.** Pull blocks and keep the tower standing — the lesson is steady hands and nerve.\n\n## 🧠 Meaning\n\nThe tower falls for the player who rushes. Slow wins.\n\n## 🗝️ Beat it with ease\n\n- **Pull from the middle rows.** Mid-tower bricks are loosest and least risky to free.\n- **Never the top finished row.** Completed rows settle — disturb them last.\n- **Steady two-finger pull.** Flick it out with a fast clean motion; hesitation wobbles the whole stack.\n- **Watch the loose brick.** If a brick visibly sticks out, it comes out easily — but check it's not load-bearing first.\n- **Don't let the tower lean.** Push back gently toward the side you haven't weakened; a straight tower survives longer.\n- **Patience is the weapon.** Let the opponent play faster; their mistakes are your win.\n\n## 🎲 Played\n"
+      },
+      {
+        "table": [
+          "| Opponent | Result |",
+          "| --- | --- |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/boardgame/monopoly.md",
+    "blocks": [
+      {
+        "md": "# 🏢 Monopoly\n\n**The money game.** Buy, build, and bleed opponents dry — the lesson is cash management under pressure.\n\n## 🧠 Meaning\n\nOwnership is a machine; houses are the throttle. Never let the machine stall for lack of rent.\n\n## 🗝️ Beat it with ease\n\n- **Buy orange and red first.** Most landed-on squares of the board; the orange set is the highest-value cheap purchase.\n- **Houses over hotels.** Three houses on a set earn more than one hotel for the same cash; build wide before building tall.\n- **Never break your cash reserve.** Keep enough to pay rent; bankrupting yourself on a single roll is the real loss.\n- **Trade to complete sets.** Two useless properties are worth one complete set to someone else — swap for the third piece.\n- **Jail is a parking lot.** Mid-game, staying in jail avoids the expensive tail of the board — don't rush to pay bail.\n- **Count the doubles.** You roll out of jail on a double; know when the exit is forced and which squares that exposes.\n\n## 🎲 Played\n"
+      },
+      {
+        "table": [
+          "| Opponent | Result |",
+          "| --- | --- |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/boardgame/uno.md",
+    "blocks": [
+      {
+        "md": "# 🃏 UNO\n\n**The shedding game.** Empty your hand first — the lesson is card counting and timing.\n\n## 🧠 Meaning\n\nThe player who burns their hand fastest wins; hold the control cards for the right moment.\n\n## 🗝️ Beat it with ease\n\n- **Count the colors.** Track roughly how many cards each player plays per color; lead into the color they lack.\n- **Hold skips and reverses.** They end the turn of the player about to win — don't waste them early.\n- **Save the wild +4 for the kill.** When an opponent has one card left, the +4 is a win button — never spend it on a boring turn.\n- **Keep a matching color.** Against a +2, always hold at least one card in a color you can play so you don't draw.\n- **Go out on +cards.** A +2 or +4 as your final card stops the next player — the perfect finisher.\n- **Draw the deck, not your opponent.** When stuck, match the pile color you already hold the most of.\n\n## 🎲 Played\n"
+      },
+      {
+        "table": [
+          "| Opponent | Result |",
+          "| --- | --- |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/adventure.md",
+    "blocks": [
+      {
+        "md": "# 🧭 Adventure\n\n## 🧠 Meaning\n\nEnjoy the lore and figure things out yourself. The fun is playing, not collecting — collect-a-thon grinds make it boring. Story and drive over mechanical punishment.\n\n## 🎮 BioShock\n\n**Why to play:** a story-driven underwater world where choices and consequences carry weight.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Beat it without a guide | 🔒 not yet |",
+          "| Reach a story ending you didn't expect | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Dishonored\n\n**Why to play:** immersive sim adventure — supernatural powers, multiple paths, consequence for how you play.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Finish a clean-hands playthrough | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Prey\n\n**Why to play:** a station-scale adventure — mystery, survival, and tools that open new paths.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Solve a station riddle without hints | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Half-Life 2\n\n**Why to play:** the classic adventure drive — physics, story, and momentum through a dystopia.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Finish without a guide | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 A Plague Tale\n\n**Why to play:** a narrative adventure about protecting someone through horror-lite worlds — story over difficulty.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Keep the companion safe through the story | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/chill.md",
+    "blocks": [
+      {
+        "md": "# 🧊 Chill\n\n## 🧠 Meaning\n\nRelax — go forward without much worry. Lego-style games: cozy, low-stakes, the journey is the point. One chase allowed — completing the full Lego collection.\n\n## 🎯 100% Pursuit\n\nCollect every Lego title on this page — the franchise is the collectible.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| 25% — 6 titles | ✅ done |",
+          "| 50% — 12 titles | ✅ done |",
+          "| 75% — 18 titles | 🔒 not yet |",
+          "| 100% — every title on this page | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Star Wars\n\n**Why to play:** the classic saga retold in brick form — pickup-and-play story beats, co-op friendly.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Complete Saga | ✅ done |",
+          "| The Skywalker Saga | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Harry Potter\n\n**Why to play:** Hogwarts as a brick playground — spells, secrets, and the school year as the level.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| Years 1–4 | ✅ done |",
+          "| Years 5–7 | ✅ done |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Pirates of the Caribbean\n\n**Why to play:** the film trilogy as swashbuckling brick quests — ships, islands, and treasure hunts.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | ✅ done |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego The Lord of the Rings\n\n**Why to play:** Middle-earth in bricks — the whole journey from the Shire to the Black Gate.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | ⏳ pursuing (50%) |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego The Hobbit\n\n**Why to play:** the unexpected journey as a brick adventure — treasure, dwarves, and dragon fire.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | ✅ done |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Marvel Super Heroes\n\n**Why to play:** the Marvel roster in bricks — open-world New York and every hero as a toy.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| Super Heroes | ✅ done |",
+          "| Super Heroes 2 | ✅ done |",
+          "| Marvel's Avengers | ✅ done |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Batman\n\n**Why to play:** Gotham in bricks — the caped crusader across his own trilogy.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| Batman | ✅ done |",
+          "| Batman 2: DC Super Heroes | ✅ done |",
+          "| Batman 3: Beyond Gotham | ✅ done |",
+          "| DC Super-Villains | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Indiana Jones\n\n**Why to play:** the adventures of Indy as brick escapades — temples, chase scenes, and artifacts.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| Indiana Jones: The Original Adventures | ✅ done |",
+          "| Indiana Jones 2: The Adventure Continues | ✅ done |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego The Movie\n\n**Why to play:** the movie's world as a brick sandbox — everything is awesome, everything is buildable.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Movie Videogame | ✅ done |",
+          "| The Movie Videogame 2 | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Jurassic World\n\n**Why to play:** the park in bricks — dinosaurs, chaos, and the films as playable levels.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego City Undercover\n\n**Why to play:** an open-world city story in bricks — undercover cop chase with co-op.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Ninjago Movie Video Game\n\n**Why to play:** ninja training as a brick playground — spinjitzu, combat, and the movie's world.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Worlds\n\n**Why to play:** a brick sandbox to explore and build — the franchise's creativity turned loose.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego Bricktales\n\n**Why to play:** puzzle building with real brick logic — solve by constructing, cozy and creative.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Lego 2K Drive\n\n**Why to play:** open-world racing in bricks — drive, drift, and rebuild your vehicle.\n"
+      },
+      {
+        "table": [
+          "| Title | Status |",
+          "| --- | --- |",
+          "| The Video Game | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/hard.md",
+    "blocks": [
+      {
+        "md": "# 💀 Hard\n\n## 🧠 Meaning\n\nThe game is already the challenge — stay grounded and remember you're not perfect. Death is a teacher; the grind is the lesson, not a list to fill.\n\n## 🎮 Souls-like\n\n**Why to play:** combat as a lesson — every death teaches you something across multiple runs and challenge tiers.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Beat the series without summons | 🔒 not yet |",
+          "| SL1 run of one entry | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Cuphead\n\n**Why to play:** boss rush as reflex training — pattern memory and perfect execution, run after run.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Clear a boss on expert | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Super Meat Boy\n\n**Why to play:** precision platforming — the tutorial is hard and it only ramps up.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Clear a world without dying | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/horror.md",
+    "blocks": [
+      {
+        "md": "# 😱 Horror\n\n## 🧠 Meaning\n\nConfront uncomfortable situations on purpose — sit inside dread and keep going. Builds psychological stamina; the game is a safe arena for fear.\n\n## 🎮 Resident Evil\n\n**Why to play:** resource scarcity under pressure — every zombie is a budget decision.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Clear a title on the hardest unlocked mode | 🔒 not yet |",
+          "| No-save ink-ribbon run | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Silent Hill\n\n**Why to play:** dread plus disorientation — fog, darkness, and a map that is part of the fear.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Finish a title without leaning on the map | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Manhunt\n\n**Why to play:** stealth violence as a gauntlet — hunted while hunting, escalating brutality.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Finish a run at the max brutality rating | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Outlast\n\n**Why to play:** no combat, only running and hiding — pure fear without tools to fight back.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Complete the asylum in one sitting | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Amnesia\n\n**Why to play:** sanity as a resource — darkness and fear drain you while you solve puzzles.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Keep sanity high through a full chapter | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Dead Space\n\n**Why to play:** dismemberment as survival math — aim at limbs under pressure, starved of resources.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Clear a run aiming only at limbs | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/management.md",
+    "blocks": [
+      {
+        "md": "# 🏗️ Management\n\n## 🧠 Meaning\n\nPlay to discover what's hard — the game's achievement list is only guidance. Chase the challenges you actually like, not the ones the checklist hands you.\n\n## 🎮 Roller Coaster Tycoon\n\n**Why to play:** park economy as a pressure system — rides, prices, staff, and guest happiness competing for the same budget.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Finish a scenario at max park rating | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Civilization\n\n**Why to play:** turn-based empire management — science, culture, war, and diplomacy fighting for the same turns.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Win on a difficulty above your comfort | ⏳ pursuing |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Cities: Skylines\n\n**Why to play:** city-scale traffic and service pressure — zones, roads, budgets, and public opinion colliding.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Fix gridlock in a growing city | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Factorio\n\n**Why to play:** factory automation as pure throughput pressure — every bottleneck is a puzzle.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Launch the rocket without blueprint crutches | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Stellaris\n\n**Why to play:** grand-strategy empire in space — economy, fleets, tech, and diplomacy under event pressure.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Survive a mid-game crisis | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Oxygen Not Included\n\n**Why to play:** colony survival as closed-system pressure — oxygen, heat, food, and morale all draining unless you engineer around them.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Close the loop — self-sustained oxygen and food | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/nintendo/mario.md",
+    "blocks": [
+      {
+        "md": "# 🍄 Mario\n\n## 🧠 Meaning\n\nThe jump-and-run toybox — movement mastery as the whole product, story as an excuse for a new verb. Played heavily up to the Wii; the mainline loop started feeling routine, and enjoyment faded at the\nWii U era.\n\n> 🚪 **Retired from Nintendo from the Wii U era onward** — titles marked 🔒 **launched after** the Wii and were not played.\n\n## 🍄 Super Mario Bros — mainline\n\n**Why to play:** the core platforming lane — every entry teaches a new verb.\n"
+      },
+      {
+        "table": [
+          "| Title | Year | Platform | Played | Completed |",
+          "| --- | --- | --- | --- | --- |",
+          "| *Super Mario Bros. Wonder* | 2023 | Switch | 🔒 launched after | — |",
+          "| *Super Mario Odyssey* | 2017 | Switch | 🔒 launched after | — |",
+          "| *Super Mario 3D World* | 2013 | Wii U | 🔒 launched after | — |",
+          "| *New Super Mario Bros. U* | 2012 | Wii U | 🔒 launched after | — |",
+          "| *Super Mario 3D Land* | 2011 | 3DS | 🔒 launched after | — |",
+          "| *Super Mario Galaxy 2* | 2010 | Wii | ✅ | ⏳ |",
+          "| *New Super Mario Bros. Wii* | 2009 | Wii | ✅ | ⏳ |",
+          "| *Super Mario Galaxy* | 2007 | Wii | ✅ | ⏳ |",
+          "| *New Super Mario Bros.* | 2006 | DS | ✅ | ⏳ |",
+          "| *Super Mario Sunshine* | 2002 | GameCube | ✅ | ✅ |",
+          "| *Super Mario 64* | 1996 | N64 | ✅ | ✅ |",
+          "| *Super Mario World* | 1990 | SNES | ✅ | ✅ |",
+          "| *Super Mario Land* | 1989 | Game Boy | ✅ | 🔒 |"
+        ]
+      },
+      {
+        "md": "\n## 🏎️ Mario Kart\n\n**Why to play:** the racing lane — item chaos as the skill floor, cups as the session goal.\n"
+      },
+      {
+        "table": [
+          "| Title | Year | Platform | Played | Completed |",
+          "| --- | --- | --- | --- | --- |",
+          "| *Mario Kart 8 Deluxe* | 2017 | Switch | 🔒 launched after | — |",
+          "| *Mario Kart 8* | 2014 | Wii U | 🔒 launched after | — |",
+          "| *Mario Kart 7* | 2011 | 3DS | 🔒 launched after | — |",
+          "| *Mario Kart Wii* | 2008 | Wii | ✅ | ⏳ session game |",
+          "| *Mario Kart DS* | 2005 | DS | ✅ | ⏳ session game |",
+          "| *Mario Kart: Double Dash!!* | 2003 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Kart 64* | 1996 | N64 | ✅ | ⏳ session game |"
+        ]
+      },
+      {
+        "md": "\n## 🎲 Mario Party\n\n**Why to play:** the board-game lane — dice and mini-games as the social glue.\n"
+      },
+      {
+        "table": [
+          "| Title | Year | Platform | Played | Completed |",
+          "| --- | --- | --- | --- | --- |",
+          "| *Mario Party Superstars* | 2021 | Switch | 🔒 launched after | — |",
+          "| *Super Mario Party* | 2018 | Switch | 🔒 launched after | — |",
+          "| *Mario Party 10* | 2015 | Wii U | 🔒 launched after | — |",
+          "| *Mario Party 9* | 2012 | Wii | 🔒 launched after | — |",
+          "| *Mario Party 8* | 2007 | Wii | ✅ | ⏳ session game |",
+          "| *Mario Party 7* | 2005 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Party 6* | 2004 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Party 5* | 2003 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Party 4* | 2002 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Party 3* | 2000 | N64 | ✅ | ⏳ session game |",
+          "| *Mario Party 2* | 1999 | N64 | ✅ | ⏳ session game |",
+          "| *Mario Party* | 1998 | N64 | ✅ | ⏳ session game |"
+        ]
+      },
+      {
+        "md": "\n## ⚽ Mario sports\n\n**Why to play:** the sport lane — same cast, quick matches, no commitment.\n"
+      },
+      {
+        "table": [
+          "| Title | Year | Platform | Played | Completed |",
+          "| --- | --- | --- | --- | --- |",
+          "| *Mario Strikers: Battle League* | 2022 | Switch | 🔒 launched after | — |",
+          "| *Mario Golf: Super Rush* | 2021 | Switch | 🔒 launched after | — |",
+          "| *Mario Tennis Aces* | 2018 | Switch | 🔒 launched after | — |",
+          "| *Mario Sports Mix* | 2010 | Wii | ✅ | ⏳ session game |",
+          "| *Mario Strikers Charged* | 2007 | Wii | ✅ | ⏳ session game |",
+          "| *Mario Superstar Baseball* | 2005 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Strikers* | 2005 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Power Tennis* | 2004 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Golf: Toadstool Tour* | 2003 | GameCube | ✅ | ⏳ session game |",
+          "| *Mario Tennis* | 2000 | N64 | ✅ | ⏳ session game |",
+          "| *Mario Golf* | 1999 | N64 | ✅ | ⏳ session game |"
+        ]
+      },
+      {
+        "md": "\n## 🏅 Mario & Sonic — Olympic Games\n\n**Why to play:** the crossover sport lane — the Nintendo and Sega rosters competing in real Olympic events.\n"
+      },
+      {
+        "table": [
+          "| Title | Year | Platform | Played | Completed |",
+          "| --- | --- | --- | --- | --- |",
+          "| *Mario & Sonic at the Olympic Games Tokyo 2020* | 2019 | Switch | 🔒 launched after | — |",
+          "| *Mario & Sonic at the Rio 2016 Olympic Games* | 2016 | 3DS / Wii U | 🔒 launched after | — |",
+          "| *Mario & Sonic at the Sochi 2014 Olympic Winter Games* | 2013 | Wii U | 🔒 launched after | — |",
+          "| *Mario & Sonic at the London 2012 Olympic Games* | 2011 | Wii | ✅ | ⏳ session game |",
+          "| *Mario & Sonic at the Olympic Winter Games* | 2009 | Wii | ✅ | ⏳ session game |",
+          "| *Mario & Sonic at the Olympic Games* | 2007 | Wii | ✅ | ⏳ session game |"
+        ]
+      },
+      {
+        "md": "\n## 📄 Paper Mario\n\n**Why to play:** the RPG lane — partners and badges instead of jump timing, still the same avatar.\n"
+      },
+      {
+        "table": [
+          "| Title | Year | Platform | Played | Completed |",
+          "| --- | --- | --- | --- | --- |",
+          "| *The Origami King* | 2020 | Switch | 🔒 launched after | — |",
+          "| *Color Splash* | 2016 | Wii U | 🔒 launched after | — |",
+          "| *Sticker Star* | 2012 | 3DS | 🔒 launched after | — |",
+          "| *Super Paper Mario* | 2007 | Wii | ✅ | ⏳ |",
+          "| *The Thousand-Year Door* | 2004 | GameCube | ✅ | ✅ |",
+          "| *Paper Mario* | 2000 | N64 | ✅ | ⏳ |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/nintendo/other.md",
+    "blocks": [
+      {
+        "md": "# 🎮 Nintendo\n\n## 🧠 Meaning\n\nBreadth-first, fun-first franchise lane — the Nintendo board is a **played catalog**, not a genre rulebook. The era was heavy on N64, GameCube, and Wii; a wide catalog played, only some finished.\n\n> 🚪 **Retired from Nintendo from the Wii U era onward** — everything on this page is up to the Wii. Titles marked 🔒 **launched after** the Wii and were not played.\n\nFranchise pages: [mario.md](./mario.md) · [pokemon.md](./pokemon.md)\n\n## ⚔️ Zelda\n\n**Why to play:** adventure-puzzle dungeons — progression gated by tools and knowledge, not just stats.\n"
+      },
+      {
+        "table": [
+          "| Title | Platform | Played | Completed |",
+          "| --- | --- | --- | --- |",
+          "| *The Legend of Zelda: Twilight Princess* | GameCube / Wii | ✅ | ⏳ |",
+          "| *Skyward Sword* | Wii | 🔒 launched after | — |",
+          "| *Breath of the Wild* | Switch | 🔒 launched after | — |",
+          "| *Tears of the Kingdom* | Switch | 🔒 launched after | — |"
+        ]
+      },
+      {
+        "md": "\nSoundtrack interest: Zelda piano medleys.\n\n## 🥊 Super Smash Bros\n\n**Why to play:** the Nintendo roster as a party brawler — easy pickup, endless group sessions, no completion to chase.\n"
+      },
+      {
+        "table": [
+          "| Title | Platform | Played | Completed |",
+          "| --- | --- | --- | --- |",
+          "| *Super Smash Bros.* | N64 | ✅ | ⏳ party game |",
+          "| *Melee* | GameCube | ✅ | ⏳ party game |",
+          "| *Brawl* | Wii | ✅ | ⏳ party game |",
+          "| *Super Smash Bros. for 3DS / Wii U* | 3DS / Wii U | 🔒 launched after | — |",
+          "| *Ultimate* | Switch | 🔒 launched after | — |"
+        ]
+      },
+      {
+        "md": "\n## 🎲 Other Nintendo\n\n**Why to play:** the rest of the first-party bench — collect-a-thon platformers, racers, and classics that filled the same fun-first lane.\n"
+      },
+      {
+        "table": [
+          "| Title | Platform | Played | Completed |",
+          "| --- | --- | --- | --- |",
+          "| *Donkey Kong Country* | SNES | ✅ | ⏳ |",
+          "| *Donkey Kong 64* | N64 | ✅ | ⏳ |",
+          "| *Star Fox* | N64 | ✅ | ⏳ |",
+          "| *F-Zero* | GX / SNES | ✅ | ⏳ |",
+          "| *Wario Ware* | GBA / Wii | ✅ | ⏳ |",
+          "| *Wario: Shake It!* | Wii | ✅ | ⏳ |",
+          "| *GoldenEye 007* / *Banjo-Kazooie* | N64 (Rare) | ✅ | ⏳ |",
+          "| Retro NES classics (Punch-Out, Excitebike, Dr. Mario…) | NES | ✅ | ⏳ |"
+        ]
+      },
+      {
+        "md": "\n## 🏠 Wii-era system games\n\n**Why to play:** the retirement-era closer — system sellers built for pick-up fun with anyone, no commitment.\n"
+      },
+      {
+        "table": [
+          "| Title | Played | Completed |",
+          "| --- | --- | --- |",
+          "| *Wii Sports* | ✅ | ⏳ session game |",
+          "| *Wii Fit* | ✅ | ⏳ session game |",
+          "| *Wii Party* | ✅ | ⏳ session game |",
+          "| *Wii Play* | ✅ | ⏳ session game |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/nintendo/pokemon.md",
+    "blocks": [
+      {
+        "md": "# ⚔️ Pokémon\n\n## 🧠 Meaning\n\nCatch, build, battle — the team and the competition are the point, not the checklist. Competing against strong teams is the endless pursuit; the grind (dex tail, brute-force shiny) is the trap.\n\n> 🚪 **Retired from Nintendo from the Wii U era onward** — titles marked 🔒 **launched after** the Wii era and were not played. Story done through Gen IV, dex ~80%.\n\n## 🎮 Mainline games\n\n**Why to play:** the region-journey lane — catch, train, gyms, League; player canon, not Ash canon.\n"
+      },
+      {
+        "table": [
+          "| Game | Gen | Played | Completed |",
+          "| --- | --- | --- | --- |",
+          "| *FireRed* / *LeafGreen* | III (Kanto remakes) | ✅ | ✅ |",
+          "| *Emerald* | III | ✅ | ✅ |",
+          "| *Diamond* / *Pearl* | IV | ✅ | ✅ |",
+          "| *Platinum* | IV | ✅ | ✅ |",
+          "| *Black* / *White* | V | 🔒 launched after | — |",
+          "| *Black 2* / *White 2* | V | 🔒 launched after | — |",
+          "| *X* / *Y* | VI | 🔒 launched after | — |",
+          "| *Sun* / *Moon* | VII | 🔒 launched after | — |",
+          "| *Sword* / *Shield* | VIII | 🔒 launched after | — |",
+          "| *Scarlet* / *Violet* | IX | 🔒 launched after | — |"
+        ]
+      },
+      {
+        "md": "\n## 📓 Retrospective\n\nNotes from the runs — what worked, what to drop.\n"
+      },
+      {
+        "table": [
+          "| Keep | Drop |",
+          "| --- | --- |",
+          "| All-HM adventure team — navigate the whole game without swapping mid-run | Full-dex completion (the 80→100% tail ate all your time) |",
+          "| Balanced type coverage + swap-to-weakness — beat any gym without a roster swap | Fishing / pokedex hunting as a grind — repetition with no luck |",
+          "| Items only as emergency (revive), Elite League with no items | Contests and berry customization — never clicked |",
+          "| Breeding / Ditto — IV propagation curiosity | Competition that gets easy once the team is strong (repetitive) |",
+          "| Team-building against strong opponents — the infinite pursuit | Pure-random shiny script — 4k+ run/repeat, easy to miss the target |",
+          "| Shiny hunting — awesome, but needs a method, not brute force | |"
+        ]
+      },
+      {
+        "md": "\n### 🎮 Milestones\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Beat Platinum with a single team | ✅ done |",
+          "| Beat Emerald | ✅ done |",
+          "| Beat the Elite League without items | 🔒 not yet |",
+          "| Beat the Battle Frontier (Emerald) | 🔒 not yet |",
+          "| Complete a dex | 🔒 ~80% |",
+          "| Catch a shiny | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🧠 What the games taught\n\n- **Type chart** — super effective (2×), not very effective (0.5×), immunities (0×). The whole fight loop is **swap to the weakness** while managing resources.\n- **HM coverage** — a team built to carry the required moves navigates the entire game; no mid-run swaps needed.\n- **EVs** — effort values summarize what a Pokémon actually experienced in battle; training focus shapes stats.\n- **Resource discipline** — items are an emergency lane, not a crutch; the no-item Elite League is the real test.\n\n## 🥚 Breeding\n\n**Ditto** breeds with almost any egg group — eggs inherit an IV spread from the parents, so Ditto plus a good partner propagates stats. Perfect IVs are the competitive breeding target.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Hatch a bred egg | ✅ done |",
+          "| Breed a targeted IV spread | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## ✨ Shiny hunting\n\nDifferent palette, very rare — ~1/8192 in Gen III–IV wild encounters; **Masuda method** improves the odds via breeding. The fun is real, but pure random encounter + run repeats 4k+ times and is easy\nto miss the target — use a method next time.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Catch a shiny | 🔒 not yet |",
+          "| Catch one with a method, not brute force | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎭 Contests & berries\n\nPokémon contests and berry customization never entertained — didn't understand the appeal of dressing up and performing with creatures built to fight. Skipped, and that was the right call.\n"
+      }
+    ]
+  },
+  {
+    "path": "src/playlists/games/videogame/survival.md",
+    "blocks": [
+      {
+        "md": "# 🧟 Survival\n\n## 🧠 Meaning\n\nHandle scarcity while being hunted — under-supplied and something is trying to kill you. Managing resources under threat is the test.\n\n## 🎮 Dead Rising\n\n**Why to play:** a mall of zombies on a clock — time management plus resource pressure while the horde never stops.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Save the survivors on the clock | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Dead Island\n\n**Why to play:** open-world zombie survival with crafting — scavenge, repair, and survive a resort overrun.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Craft a full kit before nightfall | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Dying Light\n\n**Why to play:** parkour survival at night — the dark turns the city into a threat you must outrun.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Outrun a night hunter across the city | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 The Forest\n\n**Why to play:** survival against cannibals — build, defend, and manage resources while being hunted.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Survive a full season cycle | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": "\n## 🎮 Green Hell\n\n**Why to play:** the ultimate resource pressure — hunger, thirst, injury, infection, and sanity in the jungle.\n"
+      },
+      {
+        "table": [
+          "| Milestone | Status |",
+          "| --- | --- |",
+          "| Beat the story on the hardest settings | 🔒 not yet |"
+        ]
+      },
+      {
+        "md": ""
+      }
+    ]
+  }
+]

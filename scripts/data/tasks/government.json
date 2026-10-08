@@ -1,0 +1,128 @@
+[
+  {
+    "id": "election-general-turn-1",
+    "title": "🗳️ general election — 1st turn",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "years",
+    "interval": 4,
+    "priority": 2,
+    "steps": "1. Vote in the 1st turn (president, governors, senators, federal/state deputies) — expect **(scheduled)**; confirm the official date.\n2. Follow the voting routine — e-Titulo, in-person vote, or justificativa.",
+    "done_when": "- Voted in 1st turn, or justified absence in e-Titulo\n- Deadline bumped to next cycle ((next due))",
+    "summary": "Vote in the 1st turn (president, governors, senators, federal/state deputies) — expect (…"
+  },
+  {
+    "id": "election-general-turn-2",
+    "title": "🗳️ general election — 2nd turn",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "years",
+    "interval": 4,
+    "priority": 2,
+    "steps": "1. If no majority in the 1st turn, vote in the runoff (president / governor) — expect **(scheduled)**; confirm the official date. If no 2nd turn is needed, mark done and disable.\n2. Follow the voting routine — e-Titulo, in-person vote, or justificativa.",
+    "done_when": "- Voted in 2nd turn, or justified absence, or confirmed no 2nd turn needed\n- Deadline bumped to next cycle ((next due))",
+    "summary": "If no majority in the 1st turn, vote in the runoff (president / governor) — expect (sche…"
+  },
+  {
+    "id": "election-municipal-turn-1",
+    "title": "🗳️ municipal election — 1st turn",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "years",
+    "interval": 4,
+    "priority": 2,
+    "steps": "1. Vote in the 1st turn (mayor, vice, councilors) — expect **(scheduled)**; confirm the official date.\n2. Follow the voting routine — e-Titulo, in-person vote, or justificativa.",
+    "done_when": "- Voted in 1st turn, or justified absence in e-Titulo\n- Deadline bumped to next cycle ((next due))",
+    "summary": "Vote in the 1st turn (mayor, vice, councilors) — expect (scheduled); confirm the officia…"
+  },
+  {
+    "id": "election-municipal-turn-2",
+    "title": "🗳️ municipal election — 2nd turn",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "years",
+    "interval": 4,
+    "priority": 2,
+    "steps": "1. If no majority in the 1st turn, vote in the mayoral runoff (cities >200k voters) — expect **(scheduled)**; confirm the official date. If no 2nd turn is needed, mark done and disable.\n2. Follow the voting routine — e-Titulo, in-person vote, or justificativa.",
+    "done_when": "- Voted in 2nd turn, or justified absence, or confirmed no 2nd turn needed\n- Deadline bumped to next cycle ((next due))",
+    "summary": "If no majority in the 1st turn, vote in the mayoral runoff (cities >200k voters) — expec…"
+  },
+  {
+    "id": "identity",
+    "title": "🪪 identity renewal",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "years",
+    "interval": 10,
+    "priority": 3,
+    "steps": "1. Follow the identity renewal procedure — check expiry, gather documents, book, store securely.",
+    "done_when": "- Valid ID issued or renewal in progress with proof",
+    "summary": "Follow the identity renewal procedure — check expiry, gather documents, book, store secu…"
+  },
+  {
+    "id": "irpf",
+    "title": "🧾 IRPF declaration",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "years",
+    "interval": 1,
+    "priority": 1,
+    "steps": "1. File the declaration per the IRPF procedure — collect informes, open PGD, review, transmit before the deadline.",
+    "done_when": "- Informe for each institution with the year-end balance\n- Declaration transmitted and filed\n- Board last-done set to that year's opening day; forced status cleared after transmit",
+    "summary": "File the declaration per the IRPF procedure — collect informes, open PGD, review, transm…"
+  },
+  {
+    "id": "passport",
+    "title": "🛂 passport renewal",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "years",
+    "interval": 10,
+    "priority": 2,
+    "steps": "1. Follow the passport renewal procedure — check expiry, gather documents, book, track.",
+    "done_when": "- Valid passport in hand or renewal submitted with tracking",
+    "summary": "Follow the passport renewal procedure — check expiry, gather documents, book, track."
+  },
+  {
+    "id": "sync-expenses",
+    "title": "💰 expenses sync",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "months",
+    "interval": 1,
+    "priority": 2,
+    "steps": "1. Run the monthly expenses routine: read pool balances, distribute income, top up when low, run recharges, reconcile.",
+    "done_when": "- Every pool checked against its target\n- Recharges done — no duplicate subscriptions\n- Card and credit policy reconciled",
+    "summary": "Run the monthly expenses routine: read pool balances, distribute income, top up when low…"
+  },
+  {
+    "id": "sync-savings",
+    "title": "🏦 savings sync",
+    "tag": "government",
+    "labels": [
+      "government"
+    ],
+    "recurrence": "months",
+    "interval": 1,
+    "priority": 2,
+    "steps": "1. File the month's investment records and refresh the holdings section.\n2. Run the monthly savings routine: update balances, reconcile against statements, recompute metrics.",
+    "done_when": "- Month's records filed and reconciled\n- Holdings reflect current positions\n- Savings snapshot refreshed",
+    "summary": "File the month's investment records and refresh the holdings section."
+  }
+]

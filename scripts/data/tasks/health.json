@@ -1,0 +1,114 @@
+[
+  {
+    "id": "cut-feet-nails",
+    "title": "🦶 cut toenails",
+    "tag": "health",
+    "labels": [
+      "health"
+    ],
+    "recurrence": "weeks",
+    "interval": 2,
+    "priority": 4,
+    "steps": "1. Trim nails per the nails routine — clip straight, file edges, clean the clipper.",
+    "done_when": "- Toes trimmed straight; edges filed smooth\n- No sharp corners catching socks; clipper cleaned and dry",
+    "summary": "Trim nails per the nails routine — clip straight, file edges, clean the clipper."
+  },
+  {
+    "id": "dentist",
+    "title": "🦷 dentist",
+    "tag": "health",
+    "labels": [
+      "health"
+    ],
+    "recurrence": "months",
+    "interval": 4,
+    "priority": 3,
+    "steps": "1. Book the dentist per the providers routine.\n2. Attend; note next recommended interval.",
+    "done_when": "- Appointment completed; next visit in calendar",
+    "summary": "Book the dentist per the providers routine."
+  },
+  {
+    "id": "haircut",
+    "title": "💇 haircut",
+    "tag": "health",
+    "labels": [
+      "health"
+    ],
+    "recurrence": "months",
+    "interval": 4,
+    "priority": 4,
+    "steps": "1. Book the barber per the providers routine — thick, curvy hair, trim to eyebrow height, scissors only.",
+    "done_when": "- Cut done; next visit scheduled if needed",
+    "summary": "Book the barber per the providers routine — thick, curvy hair, trim to eyebrow height, s…"
+  },
+  {
+    "id": "health-exams",
+    "title": "🩺 health exams",
+    "tag": "health",
+    "labels": [
+      "health"
+    ],
+    "recurrence": "months",
+    "interval": 12,
+    "priority": 3,
+    "steps": "1. Book the lab appointment per the providers routine (fasting if required).\n2. Attend; collect results when ready; file or note abnormal flags for follow-up.",
+    "done_when": "- Blood draw done; results reviewed or filed",
+    "summary": "Book the lab appointment per the providers routine (fasting if required)."
+  },
+  {
+    "id": "pharmacy",
+    "title": "💊 pharmacy restock",
+    "tag": "health",
+    "labels": [
+      "health"
+    ],
+    "recurrence": "months",
+    "interval": 1,
+    "priority": 3,
+    "steps": "1. Restock per the pharmacy plan — buy the 4 wk column, skip rows on shelf, check on-hand meds lifespan.",
+    "done_when": "- Monthly restock covers ~30 days (or shelf already full)\n- On-hand meds checked; none past lifespan\n- Receipt prices updated on the buy plan",
+    "summary": "Restock per the pharmacy plan — buy the 4 wk column, skip rows on shelf, check on-hand m…"
+  },
+  {
+    "id": "shave",
+    "title": "🪒 shave",
+    "tag": "health",
+    "labels": [
+      "health"
+    ],
+    "recurrence": "weeks",
+    "interval": 1,
+    "priority": 4,
+    "steps": "1. Shave per the shave routine — all zones, rinse between, clean tools after.",
+    "done_when": "- Shave zones done; tools rinsed, dry, stored\n- No nicks, ingrown risk, or dull-blade drag left unaddressed",
+    "summary": "Shave per the shave routine — all zones, rinse between, clean tools after."
+  },
+  {
+    "id": "vaccine",
+    "title": "💉 flu vaccine",
+    "tag": "health",
+    "labels": [
+      "health"
+    ],
+    "recurrence": "years",
+    "interval": 1,
+    "priority": 3,
+    "steps": "1. Get the flu vaccine per the providers routine.\n2. Keep receipt or card if offered.",
+    "done_when": "- Flu vaccine administered this season",
+    "summary": "Get the flu vaccine per the providers routine."
+  },
+  {
+    "id": "weigh-in",
+    "title": "⚖️ weigh-in",
+    "tag": "health",
+    "labels": [
+      "health"
+    ],
+    "recurrence": "weeks",
+    "interval": 2,
+    "priority": 3,
+    "steps": "1. Weigh in — same conditions (morning, before eating), same scale.\n2. Record weight in diet status; refresh intake/deficit if anything drifted.",
+    "done_when": "- Weight recorded; status tables reflect reality\n- Deficit/time-to-goal recomputed if anything moved",
+    "summary": "Weigh in — same conditions (morning, before eating), same scale."
+  }
+]

@@ -1,0 +1,4999 @@
+[
+  {
+    "franchise": "everybody hates chris",
+    "title": "S1",
+    "type": "season · 22 eps",
+    "year": "2005–2006",
+    "runtime": "8h04m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "everybody hates chris",
+    "title": "S2",
+    "type": "season · 22 eps",
+    "year": "2006–2007",
+    "runtime": "8h04m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "everybody hates chris",
+    "title": "S3",
+    "type": "season · 22 eps",
+    "year": "2007–2008",
+    "runtime": "8h04m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "everybody hates chris",
+    "title": "S4",
+    "type": "season · 22 eps",
+    "year": "2008–2009",
+    "runtime": "8h04m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "comedy"
+    ]
+  },
+  {
+    "franchise": "better call saul",
+    "title": "S1",
+    "type": "season · 10 eps",
+    "year": "2015",
+    "runtime": "7h30m",
+    "rating": "8.7 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "better call saul",
+    "title": "S2",
+    "type": "season · 10 eps",
+    "year": "2016",
+    "runtime": "7h30m",
+    "rating": "8.9 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s2",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "better call saul",
+    "title": "S3",
+    "type": "season · 10 eps",
+    "year": "2017",
+    "runtime": "7h30m",
+    "rating": "9.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s3",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "better call saul",
+    "title": "S4",
+    "type": "season · 10 eps",
+    "year": "2018",
+    "runtime": "7h30m",
+    "rating": "9.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s4",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "better call saul",
+    "title": "S5",
+    "type": "season · 10 eps",
+    "year": "2020",
+    "runtime": "7h30m",
+    "rating": "9.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s5",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "better call saul",
+    "title": "S6",
+    "type": "season · 13 eps",
+    "year": "2022",
+    "runtime": "9h45m",
+    "rating": "9.2 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s6",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "breaking bad",
+    "title": "S1",
+    "type": "season · 7 eps",
+    "year": "2008",
+    "runtime": "5h15m",
+    "rating": "8.9 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "breaking bad",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2009",
+    "runtime": "9h45m",
+    "rating": "9.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s2",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "breaking bad",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2010",
+    "runtime": "9h45m",
+    "rating": "9.4 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s3",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "breaking bad",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2011",
+    "runtime": "9h45m",
+    "rating": "9.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s4",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "breaking bad",
+    "title": "S5",
+    "type": "season · 16 eps",
+    "year": "2012–2013",
+    "runtime": "12h",
+    "rating": "9.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s5",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "narcos",
+    "title": "S1",
+    "type": "season · 10 eps",
+    "year": "2015",
+    "runtime": "8h20m",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "narcos",
+    "title": "S2",
+    "type": "season · 10 eps",
+    "year": "2016",
+    "runtime": "8h20m",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "narcos",
+    "title": "S3",
+    "type": "season · 10 eps",
+    "year": "2017",
+    "runtime": "8h20m",
+    "rating": "8.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "prison break",
+    "title": "S1",
+    "type": "season · 22 eps",
+    "year": "2005–2006",
+    "runtime": "16h08m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "prison break",
+    "title": "S2",
+    "type": "season · 22 eps",
+    "year": "2006–2007",
+    "runtime": "16h08m",
+    "rating": "8.1 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "prison break",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2007–2008",
+    "runtime": "9h32m",
+    "rating": "7.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "prison break",
+    "title": "S4",
+    "type": "season · 24 eps",
+    "year": "2008–2009",
+    "runtime": "17h36m",
+    "rating": "7.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "prison break",
+    "title": "S5",
+    "type": "season · 9 eps",
+    "year": "2017",
+    "runtime": "6h36m",
+    "rating": "7.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "sherlock",
+    "title": "S1",
+    "type": "season · 3 eps",
+    "year": "2010",
+    "runtime": "4h30m",
+    "rating": "9.1 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "sherlock",
+    "title": "S2",
+    "type": "season · 3 eps",
+    "year": "2012",
+    "runtime": "4h30m",
+    "rating": "9.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "sherlock",
+    "title": "S3",
+    "type": "season · 3 eps",
+    "year": "2014",
+    "runtime": "4h30m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "sherlock",
+    "title": "The Abominable Bride",
+    "type": "season · 1 eps",
+    "year": "2017",
+    "runtime": "1h30m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "the-abominable-bride",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "sherlock",
+    "title": "S4",
+    "type": "season · 3 eps",
+    "year": "2017",
+    "runtime": "4h30m",
+    "rating": "7.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "crime"
+    ]
+  },
+  {
+    "franchise": "the bear",
+    "title": "S1",
+    "type": "season · — eps",
+    "year": "",
+    "runtime": "—",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S1",
+    "type": "season · 12 eps",
+    "year": "2011",
+    "runtime": "8h24m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S2",
+    "type": "season · 16 eps",
+    "year": "2012–2013",
+    "runtime": "11h12m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S3",
+    "type": "season · 16 eps",
+    "year": "2013–2014",
+    "runtime": "11h12m",
+    "rating": "8.1 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S4",
+    "type": "season · 16 eps",
+    "year": "2014–2015",
+    "runtime": "11h12m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S5",
+    "type": "season · 16 eps",
+    "year": "2015–2016",
+    "runtime": "11h12m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S6",
+    "type": "season · 16 eps",
+    "year": "2016–2017",
+    "runtime": "11h12m",
+    "rating": "7.7 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S7",
+    "type": "season · 16 eps",
+    "year": "2017–2018",
+    "runtime": "11h12m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S8",
+    "type": "season · 16 eps",
+    "year": "2018–2019",
+    "runtime": "11h12m",
+    "rating": "7.1 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "suits",
+    "title": "S9",
+    "type": "season · 10 eps",
+    "year": "2019",
+    "runtime": "7h00m",
+    "rating": "7.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s9",
+    "domains": [
+      "drama"
+    ]
+  },
+  {
+    "franchise": "black mirror",
+    "title": "S1",
+    "type": "season · 3 eps",
+    "year": "2011",
+    "runtime": "3h",
+    "rating": "8.7 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "black mirror",
+    "title": "S2",
+    "type": "season · 3 eps",
+    "year": "2013",
+    "runtime": "3h",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s2",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "black mirror",
+    "title": "S3",
+    "type": "season · 6 eps",
+    "year": "2016",
+    "runtime": "6h",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s3",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "black mirror",
+    "title": "S4",
+    "type": "season · 6 eps",
+    "year": "2017",
+    "runtime": "6h",
+    "rating": "8.2 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s4",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "black mirror",
+    "title": "S5",
+    "type": "season · 3 eps",
+    "year": "2019",
+    "runtime": "3h",
+    "rating": "7.2 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s5",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "black mirror",
+    "title": "S6",
+    "type": "season · 5 eps",
+    "year": "2023",
+    "runtime": "5h",
+    "rating": "7.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s6",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "black mirror",
+    "title": "S7",
+    "type": "season · 6 eps",
+    "year": "2025",
+    "runtime": "6h",
+    "rating": "6.7 😐",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s7",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "limitless",
+    "title": "S1",
+    "type": "season · 22 eps",
+    "year": "2015–2016",
+    "runtime": "16h08m",
+    "rating": "7.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "sci_fi"
+    ]
+  },
+  {
+    "franchise": "arrow",
+    "title": "S1",
+    "type": "season · 23 eps",
+    "year": "2012–2013",
+    "runtime": "16h06m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "arrow",
+    "title": "S2",
+    "type": "season · 23 eps",
+    "year": "2013–2014",
+    "runtime": "16h06m",
+    "rating": "8.2 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "arrow",
+    "title": "S3",
+    "type": "season · 23 eps",
+    "year": "2014–2015",
+    "runtime": "16h06m",
+    "rating": "7.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "arrow",
+    "title": "S4",
+    "type": "season · 23 eps",
+    "year": "2015–2016",
+    "runtime": "16h06m",
+    "rating": "6.8 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "arrow",
+    "title": "S5",
+    "type": "season · 23 eps",
+    "year": "2016–2017",
+    "runtime": "16h06m",
+    "rating": "7.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "arrow",
+    "title": "S6",
+    "type": "season · 23 eps",
+    "year": "2017–2018",
+    "runtime": "16h06m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "arrow",
+    "title": "S7",
+    "type": "season · 22 eps",
+    "year": "2018–2019",
+    "runtime": "15h24m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "arrow",
+    "title": "S8",
+    "type": "season · 10 eps",
+    "year": "2019–2020",
+    "runtime": "7h00m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "superhero"
+    ]
+  },
+  {
+    "franchise": "mr. robot",
+    "title": "S1",
+    "type": "season · 10 eps",
+    "year": "2015",
+    "runtime": "8h20m",
+    "rating": "8.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "thriller"
+    ]
+  },
+  {
+    "franchise": "mr. robot",
+    "title": "S2",
+    "type": "season · 12 eps",
+    "year": "2016",
+    "runtime": "10h",
+    "rating": "8.2 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "thriller"
+    ]
+  },
+  {
+    "franchise": "mr. robot",
+    "title": "S3",
+    "type": "season · 10 eps",
+    "year": "2017",
+    "runtime": "8h20m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "thriller"
+    ]
+  },
+  {
+    "franchise": "mr. robot",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2019",
+    "runtime": "10h50m",
+    "rating": "9.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "thriller"
+    ]
+  },
+  {
+    "franchise": "felix the cat — series",
+    "title": "Classic Theatrical Shorts",
+    "type": "season · ~150 eps",
+    "year": "1919–1930s",
+    "runtime": "17h30m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "classic-theatrical-shorts",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "felix the cat — series",
+    "title": "The Twisted Tales of Felix the Cat",
+    "type": "season · 42 eps",
+    "year": "1995–1997",
+    "runtime": "15h24m",
+    "rating": "6.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "the-twisted-tales-of-felix-the-cat",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the flintstones",
+    "title": "S1",
+    "type": "season · 28 eps",
+    "year": "1960–1961",
+    "runtime": "10h16m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the flintstones",
+    "title": "S2",
+    "type": "season · 32 eps",
+    "year": "1961–1962",
+    "runtime": "11h44m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the flintstones",
+    "title": "S3",
+    "type": "season · 26 eps",
+    "year": "1962–1963",
+    "runtime": "9h32m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the flintstones",
+    "title": "S4",
+    "type": "season · 26 eps",
+    "year": "1963–1964",
+    "runtime": "9h32m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the flintstones",
+    "title": "S5",
+    "type": "season · 26 eps",
+    "year": "1964–1965",
+    "runtime": "9h32m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the flintstones",
+    "title": "S6",
+    "type": "season · 28 eps",
+    "year": "1965–1966",
+    "runtime": "10h16m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "he-man",
+    "title": "S1",
+    "type": "season · 65 eps",
+    "year": "1983–1984",
+    "runtime": "24h55m",
+    "rating": "7.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "he-man",
+    "title": "S2",
+    "type": "season · 65 eps",
+    "year": "1984–1985",
+    "runtime": "24h55m",
+    "rating": "7.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the jetsons",
+    "title": "S1",
+    "type": "season · 24 eps",
+    "year": "1962–1963",
+    "runtime": "8h48m",
+    "rating": "7.3 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the jetsons",
+    "title": "S2",
+    "type": "season · ~22 eps",
+    "year": "1985–1986",
+    "runtime": "~8h04m",
+    "rating": "7.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the jetsons",
+    "title": "S3",
+    "type": "season · ~29 eps",
+    "year": "1986–1987",
+    "runtime": "~10h38m",
+    "rating": "7.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "looney tunes",
+    "title": "Classic theatrical shorts",
+    "type": "season · ~1000 eps",
+    "year": "1930–1969",
+    "runtime": "~116h40m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "classic-theatrical-shorts",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "pink panther",
+    "title": "Classic theatrical shorts",
+    "type": "season · ~124 eps",
+    "year": "1964–1980",
+    "runtime": "~14h28m",
+    "rating": "7.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "classic-theatrical-shorts",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "popeye",
+    "title": "Classic theatrical shorts",
+    "type": "season · ~234 eps",
+    "year": "1933–1957",
+    "runtime": "~27h",
+    "rating": "7.2 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "classic-theatrical-shorts",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "scooby-doo",
+    "title": "Scooby-Doo, Where Are You!",
+    "type": "season · 25 eps",
+    "year": "1969–1970",
+    "runtime": "9h10m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "scooby-doo-where-are-you",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "scooby-doo",
+    "title": "The New Scooby-Doo Movies",
+    "type": "season · 24 eps",
+    "year": "1972–1973",
+    "runtime": "8h48m",
+    "rating": "7.3 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-new-scooby-doo-movies",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "scooby-doo",
+    "title": "The Scooby-Doo Show",
+    "type": "season · 40 eps",
+    "year": "1976–1978",
+    "runtime": "14h40m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-scooby-doo-show",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "scooby-doo",
+    "title": "A Pup Named Scooby-Doo",
+    "type": "season · 27 eps",
+    "year": "1988–1991",
+    "runtime": "9h54m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "a-pup-named-scooby-doo",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "scooby-doo",
+    "title": "What's New, Scooby-Doo?",
+    "type": "season · 42 eps",
+    "year": "2002–2006",
+    "runtime": "15h24m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "what-s-new-scooby-doo",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "scooby-doo",
+    "title": "Scooby-Doo! Mystery Incorporated",
+    "type": "season · 52 eps",
+    "year": "2010–2013",
+    "runtime": "19h04m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "scooby-doo-mystery-incorporated",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the simpsons",
+    "title": "Classic (S1–8)",
+    "type": "season · ~178 eps",
+    "year": "1989–1997",
+    "runtime": "~65h16m",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "classic-s1-8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the simpsons",
+    "title": "Golden age (S9–12)",
+    "type": "season · ~88 eps",
+    "year": "1997–2001",
+    "runtime": "~32h16m",
+    "rating": "8.2 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "golden-age-s9-12",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the simpsons",
+    "title": "Long middle (S13–20)",
+    "type": "season · ~176 eps",
+    "year": "2001–2009",
+    "runtime": "~64h32m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "long-middle-s13-20",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the simpsons",
+    "title": "HD era (S21+)",
+    "type": "season · ~359+ eps",
+    "year": "2009–",
+    "runtime": "~131h38m+",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟡",
+    "id": "hd-era-s21",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the smurfs",
+    "title": "Classic run",
+    "type": "season · 256 eps",
+    "year": "1981–1989",
+    "runtime": "~94h",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "classic-run",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "tom and jerry",
+    "title": "Classic theatrical shorts (Hanna-Barbera)",
+    "type": "season · 114 eps",
+    "year": "1940–1958",
+    "runtime": "~13h",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "classic-theatrical-shorts-hanna-barbera",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "tom and jerry",
+    "title": "Revival shorts (Deitch + Jones)",
+    "type": "season · 47 eps",
+    "year": "1961–1967",
+    "runtime": "~5h30m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "revival-shorts-deitch-jones",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "yogi bear",
+    "title": "The Yogi Bear Show",
+    "type": "season · 33 eps",
+    "year": "1961–1962",
+    "runtime": "~12h",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-yogi-bear-show",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S1",
+    "type": "season · 26 eps",
+    "year": "2010–2011",
+    "runtime": "4h46m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S2",
+    "type": "season · 26 eps",
+    "year": "2011–2012",
+    "runtime": "4h46m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S3",
+    "type": "season · 26 eps",
+    "year": "2012–2013",
+    "runtime": "4h46m",
+    "rating": "8.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S4",
+    "type": "season · 26 eps",
+    "year": "2013–2014",
+    "runtime": "4h46m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S5",
+    "type": "season · 52 eps",
+    "year": "2014–2015",
+    "runtime": "9h32m",
+    "rating": "8.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S6",
+    "type": "season · 43 eps",
+    "year": "2015–2016",
+    "runtime": "7h53m",
+    "rating": "8.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S7",
+    "type": "season · 26 eps",
+    "year": "2016–2017",
+    "runtime": "4h46m",
+    "rating": "8.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S8",
+    "type": "season · 27 eps",
+    "year": "2017",
+    "runtime": "4h57m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S9",
+    "type": "season · 14 eps",
+    "year": "2017–2018",
+    "runtime": "2h34m",
+    "rating": "8.7 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s9",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "adventure time",
+    "title": "S10",
+    "type": "season · 16 eps",
+    "year": "2018",
+    "runtime": "2h56m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s10",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "american dad",
+    "title": "S1–6",
+    "type": "season · ~126 eps",
+    "year": "2005–2012",
+    "runtime": "~46h12m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1-6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "american dad",
+    "title": "S7–13",
+    "type": "season · ~133 eps",
+    "year": "2012–2019",
+    "runtime": "~48h46m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s7-13",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "american dad",
+    "title": "S14+",
+    "type": "season · ~120 eps",
+    "year": "2019–",
+    "runtime": "~44h",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟡",
+    "id": "s14",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "avatar: the last airbender",
+    "title": "Water",
+    "type": "season · 20 eps",
+    "year": "2005",
+    "runtime": "7h40m",
+    "rating": "9.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "water",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "avatar: the last airbender",
+    "title": "Earth",
+    "type": "season · 20 eps",
+    "year": "2006",
+    "runtime": "7h40m",
+    "rating": "9.2 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "earth",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "avatar: the last airbender",
+    "title": "Fire",
+    "type": "season · 21 eps",
+    "year": "2007–2008",
+    "runtime": "8h03m",
+    "rating": "9.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "fire",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ben 10",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2005–2006",
+    "runtime": "4h46m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ben 10",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2006",
+    "runtime": "4h46m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ben 10",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2006–2007",
+    "runtime": "4h46m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ben 10",
+    "title": "S4",
+    "type": "season · 10 eps",
+    "year": "2007–2008",
+    "runtime": "3h40m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "billy and mandy",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2003",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "billy and mandy",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2004",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "billy and mandy",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2004–2005",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "billy and mandy",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2005",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "billy and mandy",
+    "title": "S5",
+    "type": "season · 13 eps",
+    "year": "2006",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "billy and mandy",
+    "title": "S6",
+    "type": "season · 13 eps",
+    "year": "2007",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "bob's burgers",
+    "title": "S1–8",
+    "type": "season · ~155 eps",
+    "year": "2011–2018",
+    "runtime": "~56h50m",
+    "rating": "8.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1-8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "bob's burgers",
+    "title": "S9+",
+    "type": "season · ~130 eps",
+    "year": "2018–",
+    "runtime": "~47h40m",
+    "rating": "8.1 👍",
+    "verdict": "?",
+    "status": "🟡",
+    "id": "s9",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "bojack horseman",
+    "title": "S1",
+    "type": "season · 12 eps",
+    "year": "2014",
+    "runtime": "5h",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "bojack horseman",
+    "title": "S2",
+    "type": "season · 12 eps",
+    "year": "2015",
+    "runtime": "5h",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "bojack horseman",
+    "title": "S3",
+    "type": "season · 12 eps",
+    "year": "2016",
+    "runtime": "5h",
+    "rating": "8.9 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "bojack horseman",
+    "title": "S4",
+    "type": "season · 12 eps",
+    "year": "2017",
+    "runtime": "5h",
+    "rating": "9.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "bojack horseman",
+    "title": "S5",
+    "type": "season · 12 eps",
+    "year": "2018",
+    "runtime": "5h",
+    "rating": "9.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "bojack horseman",
+    "title": "S6",
+    "type": "season · 16 eps",
+    "year": "2019–2020",
+    "runtime": "6h40m",
+    "rating": "9.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "camp lazlo",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2005",
+    "runtime": "4h46m",
+    "rating": "6.7 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "camp lazlo",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2005–2006",
+    "runtime": "4h46m",
+    "rating": "6.7 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "camp lazlo",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2006–2007",
+    "runtime": "4h46m",
+    "rating": "6.7 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "camp lazlo",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2007",
+    "runtime": "4h46m",
+    "rating": "6.7 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "camp lazlo",
+    "title": "S5",
+    "type": "season · 9 eps",
+    "year": "2007–2008",
+    "runtime": "3h18m",
+    "rating": "6.7 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "catdog",
+    "title": "S1",
+    "type": "season · 20 eps",
+    "year": "1998",
+    "runtime": "7h40m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "catdog",
+    "title": "S2",
+    "type": "season · 20 eps",
+    "year": "1999–2000",
+    "runtime": "7h40m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "catdog",
+    "title": "S3",
+    "type": "season · 20 eps",
+    "year": "1999–2001",
+    "runtime": "7h40m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "catdog",
+    "title": "S4",
+    "type": "season · 8 eps",
+    "year": "2000–2005",
+    "runtime": "3h04m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "chowder",
+    "title": "S1",
+    "type": "season · 20 eps",
+    "year": "2007–2008",
+    "runtime": "7h20m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "chowder",
+    "title": "S2",
+    "type": "season · 20 eps",
+    "year": "2008–2009",
+    "runtime": "7h20m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "chowder",
+    "title": "S3",
+    "type": "season · 9 eps",
+    "year": "2009–2010",
+    "runtime": "3h18m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "codename: kids next door",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2002–2003",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "codename: kids next door",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2003–2004",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "codename: kids next door",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2004–2005",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "codename: kids next door",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2005–2006",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "codename: kids next door",
+    "title": "S5",
+    "type": "season · 13 eps",
+    "year": "2006–2007",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "codename: kids next door",
+    "title": "S6",
+    "type": "season · 16 eps",
+    "year": "2007–2008",
+    "runtime": "5h52m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "courage the cowardly dog",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "1999–2000",
+    "runtime": "4h46m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "courage the cowardly dog",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2000–2001",
+    "runtime": "4h46m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "courage the cowardly dog",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2001–2002",
+    "runtime": "4h46m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "courage the cowardly dog",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2002",
+    "runtime": "4h46m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "cow and chicken",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "1997–1998",
+    "runtime": "4h46m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "cow and chicken",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "1998",
+    "runtime": "4h46m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "cow and chicken",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "1999",
+    "runtime": "4h46m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "cow and chicken",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "1999",
+    "runtime": "4h46m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "danny phantom",
+    "title": "S1",
+    "type": "season · 20 eps",
+    "year": "2004–2005",
+    "runtime": "7h40m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "danny phantom",
+    "title": "S2",
+    "type": "season · 20 eps",
+    "year": "2005–2006",
+    "runtime": "7h40m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "danny phantom",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2006–2007",
+    "runtime": "4h59m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dexter's laboratory",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "1996–1997",
+    "runtime": "4h46m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dexter's laboratory",
+    "title": "S2",
+    "type": "season · 39 eps",
+    "year": "1997–1998",
+    "runtime": "14h18m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dexter's laboratory",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2001–2002",
+    "runtime": "4h46m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dexter's laboratory",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2002–2003",
+    "runtime": "4h46m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dora the explorer",
+    "title": "S1",
+    "type": "season · 25 eps",
+    "year": "2000–2001",
+    "runtime": "9h10m",
+    "rating": "5.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dora the explorer",
+    "title": "S2",
+    "type": "season · 26 eps",
+    "year": "2002–2003",
+    "runtime": "9h32m",
+    "rating": "5.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dora the explorer",
+    "title": "S3",
+    "type": "season · 21 eps",
+    "year": "2003–2004",
+    "runtime": "7h42m",
+    "rating": "5.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dora the explorer",
+    "title": "S4",
+    "type": "season · 27 eps",
+    "year": "2004–2008",
+    "runtime": "9h54m",
+    "rating": "5.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dora the explorer",
+    "title": "S5",
+    "type": "season · 21 eps",
+    "year": "2008–2010",
+    "runtime": "7h42m",
+    "rating": "5.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dora the explorer",
+    "title": "S6",
+    "type": "season · 18 eps",
+    "year": "2010–2012",
+    "runtime": "6h36m",
+    "rating": "5.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dora the explorer",
+    "title": "S7",
+    "type": "season · 19 eps",
+    "year": "2012–2013",
+    "runtime": "6h58m",
+    "rating": "5.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "dora the explorer",
+    "title": "S8",
+    "type": "season · 20 eps",
+    "year": "2013–2019",
+    "runtime": "7h20m",
+    "rating": "5.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "duck dodgers",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2003–2004",
+    "runtime": "4h46m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "duck dodgers",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2004",
+    "runtime": "4h46m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "duck dodgers",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2005",
+    "runtime": "4h46m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ed, edd n eddy",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "1999",
+    "runtime": "4h46m",
+    "rating": "7.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ed, edd n eddy",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "1999–2000",
+    "runtime": "4h46m",
+    "rating": "7.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ed, edd n eddy",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2001–2002",
+    "runtime": "4h46m",
+    "rating": "7.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ed, edd n eddy",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2002–2004",
+    "runtime": "4h46m",
+    "rating": "7.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ed, edd n eddy",
+    "title": "S5",
+    "type": "season · 13 eps",
+    "year": "2005–2007",
+    "runtime": "4h46m",
+    "rating": "7.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "ed, edd n eddy",
+    "title": "S6",
+    "type": "season · 4 eps",
+    "year": "2008",
+    "runtime": "1h28m",
+    "rating": "7.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "evil con carne",
+    "title": "S1",
+    "type": "season · 7 eps",
+    "year": "2003",
+    "runtime": "2h34m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "evil con carne",
+    "title": "S2",
+    "type": "season · 6 eps",
+    "year": "2004",
+    "runtime": "2h12m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "family guy",
+    "title": "Original (S1–3)",
+    "type": "season · 50 eps",
+    "year": "1999–2002",
+    "runtime": "~18h20m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "original-s1-3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "family guy",
+    "title": "Revival (S4–8)",
+    "type": "season · ~104 eps",
+    "year": "2005–2010",
+    "runtime": "~38h08m",
+    "rating": "7.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "revival-s4-8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "family guy",
+    "title": "Modern (S9+)",
+    "type": "season · ~270 eps",
+    "year": "2010–",
+    "runtime": "~99h",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "modern-s9",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "foster's home for imaginary friends",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2004",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "foster's home for imaginary friends",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2005",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "foster's home for imaginary friends",
+    "title": "S3",
+    "type": "season · 14 eps",
+    "year": "2005–2006",
+    "runtime": "5h08m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "foster's home for imaginary friends",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2006",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "foster's home for imaginary friends",
+    "title": "S5",
+    "type": "season · 13 eps",
+    "year": "2007–2008",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "foster's home for imaginary friends",
+    "title": "S6",
+    "type": "season · 13 eps",
+    "year": "2008–2009",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "futurama",
+    "title": "Fox era (S1–4)",
+    "type": "season · 72 eps",
+    "year": "1999–2003",
+    "runtime": "~26h24m",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "fox-era-s1-4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "futurama",
+    "title": "The Movies",
+    "type": "season · 4 eps",
+    "year": "2007–2009",
+    "runtime": "~5h52m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "the-movies",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "futurama",
+    "title": "Comedy Central (S5–7)",
+    "type": "season · 52 eps",
+    "year": "2010–2013",
+    "runtime": "~19h04m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "comedy-central-s5-7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "futurama",
+    "title": "Hulu revival (S8+)",
+    "type": "season · ~30 eps",
+    "year": "2023–",
+    "runtime": "~11h",
+    "rating": "8.1 👍",
+    "verdict": "?",
+    "status": "🟡",
+    "id": "hulu-revival-s8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hey arnold",
+    "title": "S1",
+    "type": "season · 20 eps",
+    "year": "1996–1997",
+    "runtime": "8h",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hey arnold",
+    "title": "S2",
+    "type": "season · 19 eps",
+    "year": "1997",
+    "runtime": "7h36m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hey arnold",
+    "title": "S3",
+    "type": "season · 20 eps",
+    "year": "1998–1999",
+    "runtime": "8h",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hey arnold",
+    "title": "S4",
+    "type": "season · 19 eps",
+    "year": "1999–2000",
+    "runtime": "7h36m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hey arnold",
+    "title": "S5",
+    "type": "season · 22 eps",
+    "year": "2000–2004",
+    "runtime": "8h48m",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hi hi puffy amiyumi",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2004–2005",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hi hi puffy amiyumi",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2005–2006",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "hi hi puffy amiyumi",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2006",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "i am weasel",
+    "title": "S1",
+    "type": "season · 7 eps",
+    "year": "1997–1998",
+    "runtime": "2h34m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "i am weasel",
+    "title": "S2",
+    "type": "season · 7 eps",
+    "year": "1998–1999",
+    "runtime": "2h34m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "i am weasel",
+    "title": "S3",
+    "type": "season · 7 eps",
+    "year": "1999",
+    "runtime": "2h34m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "i am weasel",
+    "title": "S4",
+    "type": "season · 6 eps",
+    "year": "2000",
+    "runtime": "2h12m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "jimmy neutron",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2002–2003",
+    "runtime": "4h59m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "jimmy neutron",
+    "title": "S2",
+    "type": "season · 19 eps",
+    "year": "2003–2004",
+    "runtime": "7h17m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "jimmy neutron",
+    "title": "S3",
+    "type": "season · 29 eps",
+    "year": "2004–2006",
+    "runtime": "11h07m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny bravo",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "1997–1998",
+    "runtime": "4h46m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny bravo",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "1999–2000",
+    "runtime": "4h46m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny bravo",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2000–2002",
+    "runtime": "4h46m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny bravo",
+    "title": "S4",
+    "type": "season · 28 eps",
+    "year": "2002–2004",
+    "runtime": "10h16m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny test",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2005–2006",
+    "runtime": "4h46m",
+    "rating": "5.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny test",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2006–2007",
+    "runtime": "4h46m",
+    "rating": "5.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny test",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2007–2008",
+    "runtime": "4h46m",
+    "rating": "5.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny test",
+    "title": "S4",
+    "type": "season · 26 eps",
+    "year": "2008–2010",
+    "runtime": "9h32m",
+    "rating": "5.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny test",
+    "title": "S5",
+    "type": "season · 26 eps",
+    "year": "2010–2011",
+    "runtime": "9h32m",
+    "rating": "5.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "johnny test",
+    "title": "S6",
+    "type": "season · 26 eps",
+    "year": "2011–2014",
+    "runtime": "9h32m",
+    "rating": "5.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "king of the hill",
+    "title": "S1–6",
+    "type": "season · ~124 eps",
+    "year": "1997–2002",
+    "runtime": "~45h28m",
+    "rating": "8.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1-6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "king of the hill",
+    "title": "S7–13",
+    "type": "season · 135 eps",
+    "year": "2003–2010",
+    "runtime": "~49h30m",
+    "rating": "8.1 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s7-13",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the marvelous misadventures of flapjack",
+    "title": "S1",
+    "type": "season · 20 eps",
+    "year": "2008–2009",
+    "runtime": "7h20m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the marvelous misadventures of flapjack",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2009",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the marvelous misadventures of flapjack",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2010",
+    "runtime": "4h46m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "mucha lucha",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2002",
+    "runtime": "4h46m",
+    "rating": "6.0 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "mucha lucha",
+    "title": "S2",
+    "type": "season · 26 eps",
+    "year": "2003–2004",
+    "runtime": "9h32m",
+    "rating": "6.0 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "mucha lucha",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2005",
+    "runtime": "4h46m",
+    "rating": "6.0 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "my gym partner's a monkey",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2005–2006",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "my gym partner's a monkey",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2006–2007",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "my gym partner's a monkey",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2007",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "my gym partner's a monkey",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2008",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the penguins of madagascar",
+    "title": "S1",
+    "type": "season · 48 eps",
+    "year": "2008–2009",
+    "runtime": "8h48m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the penguins of madagascar",
+    "title": "S2",
+    "type": "season · 68 eps",
+    "year": "2009–2012",
+    "runtime": "12h28m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the penguins of madagascar",
+    "title": "S3",
+    "type": "season · 33 eps",
+    "year": "2012–2015",
+    "runtime": "6h03m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the powerpuff girls",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "1998–1999",
+    "runtime": "4h46m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the powerpuff girls",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "1999–2000",
+    "runtime": "4h46m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the powerpuff girls",
+    "title": "S3",
+    "type": "season · 12 eps",
+    "year": "2000–2001",
+    "runtime": "4h24m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the powerpuff girls",
+    "title": "S4",
+    "type": "season · 11 eps",
+    "year": "2001–2002",
+    "runtime": "4h02m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the powerpuff girls",
+    "title": "S5",
+    "type": "season · 14 eps",
+    "year": "2002–2004",
+    "runtime": "5h08m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "the powerpuff girls",
+    "title": "S6",
+    "type": "season · 15 eps",
+    "year": "2004–2005",
+    "runtime": "5h30m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "regular show",
+    "title": "S1",
+    "type": "season · 12 eps",
+    "year": "2010",
+    "runtime": "2h12m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "regular show",
+    "title": "S2",
+    "type": "season · 28 eps",
+    "year": "2010–2011",
+    "runtime": "5h08m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "regular show",
+    "title": "S3",
+    "type": "season · 39 eps",
+    "year": "2011–2012",
+    "runtime": "7h09m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "regular show",
+    "title": "S4",
+    "type": "season · 37 eps",
+    "year": "2012–2013",
+    "runtime": "6h47m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "regular show",
+    "title": "S5",
+    "type": "season · 37 eps",
+    "year": "2013–2014",
+    "runtime": "6h47m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "regular show",
+    "title": "S6",
+    "type": "season · 28 eps",
+    "year": "2014–2015",
+    "runtime": "5h08m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "regular show",
+    "title": "S7",
+    "type": "season · 36 eps",
+    "year": "2015–2016",
+    "runtime": "6h36m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "regular show",
+    "title": "S8",
+    "type": "season · 27 eps",
+    "year": "2016–2017",
+    "runtime": "4h57m",
+    "rating": "8.3 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rick and morty",
+    "title": "S1–3",
+    "type": "season · 31 eps",
+    "year": "2013–2017",
+    "runtime": "11h22m",
+    "rating": "9.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s1-3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rick and morty",
+    "title": "S4–6",
+    "type": "season · 31 eps",
+    "year": "2019–2022",
+    "runtime": "11h22m",
+    "rating": "8.7 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s4-6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rick and morty",
+    "title": "S7+",
+    "type": "season · ongoing eps",
+    "year": "2023–",
+    "runtime": "—",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "s7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rocket power",
+    "title": "S1",
+    "type": "season · 20 eps",
+    "year": "1999–2000",
+    "runtime": "8h",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rocket power",
+    "title": "S2",
+    "type": "season · 20 eps",
+    "year": "2000–2004",
+    "runtime": "8h",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rocket power",
+    "title": "S3",
+    "type": "season · 20 eps",
+    "year": "2001–2004",
+    "runtime": "8h",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rocket power",
+    "title": "S4",
+    "type": "season · 11 eps",
+    "year": "2003–2004",
+    "runtime": "4h24m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "1991",
+    "runtime": "4h59m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S2",
+    "type": "season · 26 eps",
+    "year": "1992–1993",
+    "runtime": "9h58m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S3",
+    "type": "season · 26 eps",
+    "year": "1993–1995",
+    "runtime": "9h58m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S4",
+    "type": "season · 15 eps",
+    "year": "1996–1997",
+    "runtime": "5h45m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S5",
+    "type": "season · 14 eps",
+    "year": "1998",
+    "runtime": "5h22m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S6",
+    "type": "season · 36 eps",
+    "year": "1999–2001",
+    "runtime": "13h48m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S7",
+    "type": "season · 15 eps",
+    "year": "2001",
+    "runtime": "5h45m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S8",
+    "type": "season · 13 eps",
+    "year": "2002–2004",
+    "runtime": "4h59m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "rugrats",
+    "title": "S9",
+    "type": "season · 14 eps",
+    "year": "2002–2004",
+    "runtime": "5h22m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s9",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "samurai jack",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2001",
+    "runtime": "4h46m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "samurai jack",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2002",
+    "runtime": "4h46m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "samurai jack",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2003",
+    "runtime": "4h46m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "samurai jack",
+    "title": "S4",
+    "type": "season · 13 eps",
+    "year": "2004",
+    "runtime": "4h46m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "samurai jack",
+    "title": "S5",
+    "type": "season · 10 eps",
+    "year": "2017",
+    "runtime": "3h40m",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "sheep in the big city",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2000–2001",
+    "runtime": "4h46m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "sheep in the big city",
+    "title": "S2",
+    "type": "season · 13 eps",
+    "year": "2001–2002",
+    "runtime": "4h46m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "south park",
+    "title": "Paper cutouts (S1–6)",
+    "type": "season · ~97 eps",
+    "year": "1997–2002",
+    "runtime": "~35h34m",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "paper-cutouts-s1-6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "south park",
+    "title": "HD kids (S7–14)",
+    "type": "season · ~127 eps",
+    "year": "2003–2010",
+    "runtime": "~46h34m",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "hd-kids-s7-14",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "south park",
+    "title": "Streaming era (S15+)",
+    "type": "season · ~105+ eps",
+    "year": "2011–",
+    "runtime": "~38h30m+",
+    "rating": "8.7 👍",
+    "verdict": "?",
+    "status": "🟡",
+    "id": "streaming-era-s15",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S1",
+    "type": "season · 20 eps",
+    "year": "1999–2000",
+    "runtime": "7h20m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S2",
+    "type": "season · 20 eps",
+    "year": "2000–2001",
+    "runtime": "7h20m",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S3",
+    "type": "season · 20 eps",
+    "year": "2001–2002",
+    "runtime": "7h20m",
+    "rating": "8.2 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S4",
+    "type": "season · 20 eps",
+    "year": "2005–2007",
+    "runtime": "7h20m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S5",
+    "type": "season · 20 eps",
+    "year": "2007–2008",
+    "runtime": "7h20m",
+    "rating": "7.2 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S6",
+    "type": "season · 26 eps",
+    "year": "2008–2010",
+    "runtime": "9h32m",
+    "rating": "6.8 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S7",
+    "type": "season · 26 eps",
+    "year": "2010–2011",
+    "runtime": "9h32m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S8",
+    "type": "season · 26 eps",
+    "year": "2011–2012",
+    "runtime": "9h32m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S9",
+    "type": "season · 26 eps",
+    "year": "2012–2017",
+    "runtime": "9h32m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s9",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S10",
+    "type": "season · 11 eps",
+    "year": "2017",
+    "runtime": "4h02m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s10",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S11",
+    "type": "season · 26 eps",
+    "year": "2017–2019",
+    "runtime": "9h32m",
+    "rating": "6.3 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s11",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S12",
+    "type": "season · 26 eps",
+    "year": "2019–2020",
+    "runtime": "9h32m",
+    "rating": "6.3 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s12",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S13",
+    "type": "season · 26 eps",
+    "year": "2021–2022",
+    "runtime": "9h32m",
+    "rating": "6.3 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s13",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S14",
+    "type": "season · 13 eps",
+    "year": "2023",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s14",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S15",
+    "type": "season · 13 eps",
+    "year": "2024",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s15",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S16",
+    "type": "season · 13 eps",
+    "year": "2025",
+    "runtime": "4h46m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s16",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "spongebob squarepants",
+    "title": "S17",
+    "type": "season · — eps",
+    "year": "2026–",
+    "runtime": "—",
+    "rating": "—",
+    "verdict": "?",
+    "status": "🟡",
+    "id": "s17",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S1",
+    "type": "season · 52 eps",
+    "year": "2013–2014",
+    "runtime": "9h32m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S2",
+    "type": "season · 52 eps",
+    "year": "2014–2015",
+    "runtime": "9h32m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S3",
+    "type": "season · 53 eps",
+    "year": "2015–2016",
+    "runtime": "9h43m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S4",
+    "type": "season · 52 eps",
+    "year": "2016–2018",
+    "runtime": "9h32m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S5",
+    "type": "season · 52 eps",
+    "year": "2018–2020",
+    "runtime": "9h32m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S6",
+    "type": "season · 52 eps",
+    "year": "2019–2021",
+    "runtime": "9h32m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S7",
+    "type": "season · 52 eps",
+    "year": "2021–2022",
+    "runtime": "9h32m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S8",
+    "type": "season · 42 eps",
+    "year": "2022–2024",
+    "runtime": "7h42m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "teen titans go",
+    "title": "S9",
+    "type": "season · 52 eps",
+    "year": "2025–",
+    "runtime": "9h32m",
+    "rating": "5.4 😐",
+    "verdict": "?",
+    "status": "🟡",
+    "id": "s9",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "winx club",
+    "title": "S1",
+    "type": "season · 26 eps",
+    "year": "2004",
+    "runtime": "10h24m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "winx club",
+    "title": "S2",
+    "type": "season · 26 eps",
+    "year": "2005",
+    "runtime": "10h24m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "winx club",
+    "title": "S3",
+    "type": "season · 26 eps",
+    "year": "2007",
+    "runtime": "10h24m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "winx club",
+    "title": "S4",
+    "type": "season · 26 eps",
+    "year": "2009",
+    "runtime": "10h24m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s4",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "winx club",
+    "title": "S5",
+    "type": "season · 26 eps",
+    "year": "2012–2013",
+    "runtime": "10h24m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s5",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "winx club",
+    "title": "S6",
+    "type": "season · 26 eps",
+    "year": "2014",
+    "runtime": "10h24m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s6",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "winx club",
+    "title": "S7",
+    "type": "season · 26 eps",
+    "year": "2015",
+    "runtime": "10h24m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s7",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "winx club",
+    "title": "S8",
+    "type": "season · 26 eps",
+    "year": "2019",
+    "runtime": "10h24m",
+    "rating": "6.4 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s8",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "woody woodpecker",
+    "title": "Woody Woodpecker (2018)",
+    "type": "season · 52 eps",
+    "year": "2018",
+    "runtime": "9h32m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "woody-woodpecker-2018",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "xiaolin showdown",
+    "title": "S1",
+    "type": "season · 13 eps",
+    "year": "2003–2004",
+    "runtime": "4h46m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "xiaolin showdown",
+    "title": "S2",
+    "type": "season · 26 eps",
+    "year": "2004–2005",
+    "runtime": "9h32m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "xiaolin showdown",
+    "title": "S3",
+    "type": "season · 13 eps",
+    "year": "2005–2006",
+    "runtime": "4h46m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s3",
+    "domains": [
+      "animation"
+    ],
+    "region": "west"
+  },
+  {
+    "franchise": "death note",
+    "title": "Death Note",
+    "type": "season · 37 eps",
+    "year": "",
+    "runtime": "—",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "death-note",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "Bakugan",
+    "title": "—",
+    "type": "—",
+    "year": "—",
+    "runtime": "—",
+    "rating": "—",
+    "verdict": "👎",
+    "status": "🔴",
+    "id": "",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "bleach",
+    "title": "Bleach",
+    "type": "season · — eps",
+    "year": "",
+    "runtime": "—",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "bleach",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "Digimon",
+    "title": "—",
+    "type": "—",
+    "year": "—",
+    "runtime": "—",
+    "rating": "—",
+    "verdict": "👎",
+    "status": "🔴",
+    "id": "",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "dragon ball",
+    "title": "Dragon Ball",
+    "type": "season · 153 eps",
+    "year": "1986–1989",
+    "runtime": "61h12m",
+    "rating": "8.2 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "dragon-ball",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "dragon ball",
+    "title": "Dragon Ball Z",
+    "type": "season · 291 eps",
+    "year": "1989–1996",
+    "runtime": "116h24m",
+    "rating": "8.8 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "dragon-ball-z",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "dragon ball",
+    "title": "Dragon Ball GT",
+    "type": "season · 64 eps",
+    "year": "1996–1997",
+    "runtime": "25h36m",
+    "rating": "6.8 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "dragon-ball-gt",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "dragon ball",
+    "title": "Dragon Ball Super",
+    "type": "season · 131 eps",
+    "year": "2015–2018",
+    "runtime": "52h24m",
+    "rating": "8.1 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "dragon-ball-super",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "hunter × hunter",
+    "title": "Hunter × Hunter",
+    "type": "season · — eps",
+    "year": "",
+    "runtime": "—",
+    "rating": "8.6 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "hunter-hunter",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "naruto",
+    "title": "Naruto",
+    "type": "season · 220 eps",
+    "year": "2002–2007",
+    "runtime": "88h",
+    "rating": "8.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "naruto",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "naruto",
+    "title": "Naruto Shippuden",
+    "type": "season · 500 eps",
+    "year": "2007–2017",
+    "runtime": "200h",
+    "rating": "8.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "naruto-shippuden",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "naruto",
+    "title": "Boruto: Naruto Next Generations",
+    "type": "season · 293 eps",
+    "year": "2017–2023",
+    "runtime": "117h12m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "boruto-naruto-next-generations",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "one piece",
+    "title": "One Piece",
+    "type": "season · — eps",
+    "year": "",
+    "runtime": "—",
+    "rating": "8.7 👍",
+    "verdict": "?",
+    "status": "🟡",
+    "id": "one-piece",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "one punch man",
+    "title": "S1",
+    "type": "season · 12 eps",
+    "year": "2015",
+    "runtime": "4h48m",
+    "rating": "8.7 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s1",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "one punch man",
+    "title": "S2",
+    "type": "season · 12 eps",
+    "year": "2019",
+    "runtime": "4h48m",
+    "rating": "7.4 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "s2",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "pokémon",
+    "title": "The Original Series",
+    "type": "season · 273 eps",
+    "year": "1997–2002",
+    "runtime": "100h06m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "the-original-series",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "pokémon",
+    "title": "Advanced Generation",
+    "type": "season · 191 eps",
+    "year": "2002–2006",
+    "runtime": "70h02m",
+    "rating": "6.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "advanced-generation",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "pokémon",
+    "title": "Diamond & Pearl",
+    "type": "season · 189 eps",
+    "year": "2006–2010",
+    "runtime": "69h18m",
+    "rating": "7.1 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "diamond-pearl",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "pokémon",
+    "title": "Black & White",
+    "type": "season · 142 eps",
+    "year": "2010–2013",
+    "runtime": "52h04m",
+    "rating": "6.2 😐",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "black-white",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "pokémon",
+    "title": "XY",
+    "type": "season · 141 eps",
+    "year": "2013–2016",
+    "runtime": "51h42m",
+    "rating": "7.5 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "xy",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "pokémon",
+    "title": "Sun & Moon",
+    "type": "season · 145 eps",
+    "year": "2016–2019",
+    "runtime": "53h10m",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "sun-moon",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "pokémon",
+    "title": "Journeys",
+    "type": "season · 144 eps",
+    "year": "2019–2023",
+    "runtime": "52h48m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "journeys",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "pokémon",
+    "title": "Horizons",
+    "type": "season · 143+ eps",
+    "year": "2023–present",
+    "runtime": "52h26m+",
+    "rating": "7.2 👍",
+    "verdict": "?",
+    "status": "🔴",
+    "id": "horizons",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "Duel Monsters",
+    "type": "season · 224 eps",
+    "year": "2000–2004",
+    "runtime": "89h36m",
+    "rating": "7.7 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "duel-monsters",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "Capsule Monsters",
+    "type": "season · 12 eps",
+    "year": "2006",
+    "runtime": "4h48m",
+    "rating": "6.5 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "capsule-monsters",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "GX",
+    "type": "season · 180 eps",
+    "year": "2004–2008",
+    "runtime": "72h",
+    "rating": "7.0 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "gx",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "5D's",
+    "type": "season · 154 eps",
+    "year": "2008–2011",
+    "runtime": "61h36m",
+    "rating": "7.9 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "5d-s",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "Zexal",
+    "type": "season · 146 eps",
+    "year": "2011–2014",
+    "runtime": "58h24m",
+    "rating": "6.9 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "zexal",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "Arc-V",
+    "type": "season · 148 eps",
+    "year": "2014–2017",
+    "runtime": "59h12m",
+    "rating": "6.8 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "arc-v",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "VRAINS",
+    "type": "season · 120 eps",
+    "year": "2017–2019",
+    "runtime": "48h",
+    "rating": "7.1 👍",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "vrains",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "Sevens",
+    "type": "season · 92 eps",
+    "year": "2020–2022",
+    "runtime": "36h48m",
+    "rating": "6.8 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "sevens",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  },
+  {
+    "franchise": "yu-gi-oh",
+    "title": "Go Rush!!",
+    "type": "season · 151 eps",
+    "year": "2022–2025",
+    "runtime": "60h24m",
+    "rating": "6.6 😐",
+    "verdict": "?",
+    "status": "🟢",
+    "id": "go-rush",
+    "domains": [
+      "animation"
+    ],
+    "region": "east"
+  }
+]

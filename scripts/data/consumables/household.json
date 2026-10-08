@@ -1,0 +1,14 @@
+[
+  { "name": "Dish detergent", "section": "cleaning" },
+  { "name": "Dish sponge", "section": "cleaning" },
+  { "name": "Laundry detergent", "section": "cleaning" },
+  { "name": "Multipurpose cleaner", "section": "cleaning" },
+  { "name": "Trash bags", "section": "cleaning" },
+  { "name": "Razor blades", "section": "hygiene" },
+  { "name": "Shampoo", "section": "hygiene" },
+  { "name": "Shaving cream", "section": "hygiene" },
+  { "name": "Solid soap", "section": "hygiene" },
+  { "name": "Toilet paper", "section": "hygiene" },
+  { "name": "Toothbrush", "section": "hygiene" },
+  { "name": "Toothpaste", "section": "hygiene" }
+]

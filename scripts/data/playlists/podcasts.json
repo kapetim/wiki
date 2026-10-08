@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Lex Fridman Podcast",
+    "subs": "5.02M",
+    "avg": "~180 min",
+    "topics": [
+      "tech"
+    ],
+    "link": "https://www.youtube.com/@lexfridman"
+  },
+  {
+    "name": "The Primeagen",
+    "subs": "548K",
+    "avg": "~60 min",
+    "topics": [
+      "tech"
+    ],
+    "link": "https://www.youtube.com/@theprimeagen"
+  },
+  {
+    "name": "Syntax.fm",
+    "subs": "485K",
+    "avg": "~45 min",
+    "topics": [
+      "tech"
+    ],
+    "link": "https://www.youtube.com/@syntaxfm"
+  },
+  {
+    "name": "Darknet Diaries",
+    "subs": "432K",
+    "avg": "~50 min",
+    "topics": [
+      "tech"
+    ],
+    "link": "https://www.youtube.com/@jackrhysider"
+  },
+  {
+    "name": "Acquired",
+    "subs": "319K",
+    "avg": "~120 min",
+    "topics": [
+      "tech"
+    ],
+    "link": "https://www.youtube.com/@acquiredfm"
+  },
+  {
+    "name": "How I Built This (NPR)",
+    "subs": "",
+    "avg": "~60 min",
+    "topics": [
+      "finance"
+    ],
+    "link": "https://www.npr.org/howibuiltthis"
+  },
+  {
+    "name": "We Study Billionaires",
+    "subs": "",
+    "avg": "~50 min",
+    "topics": [
+      "finance"
+    ],
+    "link": "https://www.youtube.com/@westudybillionaires"
+  },
+  {
+    "name": "The Journal (WSJ)",
+    "subs": "",
+    "avg": "~25 min",
+    "topics": [
+      "finance"
+    ],
+    "link": "https://www.wsj.com/podcasts/the-journal"
+  },
+  {
+    "name": "Planet Money (NPR)",
+    "subs": "",
+    "avg": "~20 min",
+    "topics": [
+      "finance"
+    ],
+    "link": "https://www.npr.org/planetmoney"
+  },
+  {
+    "name": "The Daily (NYT)",
+    "subs": "",
+    "avg": "~25 min",
+    "topics": [
+      "news"
+    ],
+    "link": "https://www.nytimes.com/thedaily"
+  },
+  {
+    "name": "Global News Podcast (BBC)",
+    "subs": "",
+    "avg": "~30 min",
+    "topics": [
+      "news"
+    ],
+    "link": "https://www.bbc.co.uk/programmes/p02nq0gn"
+  },
+  {
+    "name": "The Economist Podcast",
+    "subs": "",
+    "avg": "~30 min",
+    "topics": [
+      "news"
+    ],
+    "link": "https://www.economist.com/podcasts"
+  },
+  {
+    "name": "Up First (NPR)",
+    "subs": "",
+    "avg": "~15 min",
+    "topics": [
+      "news"
+    ],
+    "link": "https://www.npr.org/upfirst"
+  },
+  {
+    "name": "Huberman Lab",
+    "subs": "",
+    "avg": "~120 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://www.youtube.com/@hubermanlab"
+  },
+  {
+    "name": "Ologies",
+    "subs": "",
+    "avg": "~75 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://www.youtube.com/@ologies"
+  },
+  {
+    "name": "Radiolab",
+    "subs": "",
+    "avg": "~50 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://radiolab.org"
+  },
+  {
+    "name": "Hidden Brain",
+    "subs": "",
+    "avg": "~50 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://www.npr.org/hiddenbrain"
+  },
+  {
+    "name": "StarTalk",
+    "subs": "",
+    "avg": "~45 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://www.youtube.com/@startalk"
+  },
+  {
+    "name": "Hardcore History",
+    "subs": "",
+    "avg": "~4h",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://dancarlin.com"
+  },
+  {
+    "name": "You're Wrong About",
+    "subs": "",
+    "avg": "~75 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://www.youtube.com/@yourewrongabout"
+  },
+  {
+    "name": "Throughline (NPR)",
+    "subs": "",
+    "avg": "~50 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://www.npr.org/throughline"
+  },
+  {
+    "name": "Tim Ferriss Show",
+    "subs": "",
+    "avg": "~90 min",
+    "topics": [
+      "culture"
+    ],
+    "link": "https://tim.blog/podcast"
+  },
+  {
+    "name": "The Diary Of A CEO",
+    "subs": "",
+    "avg": "~75 min",
+    "topics": [
+      "culture"
+    ],
+    "link": "https://www.youtube.com/@thediaryofaceo"
+  },
+  {
+    "name": "The Gray Area (Vox)",
+    "subs": "",
+    "avg": "~50 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://www.vox.com/gray-area"
+  },
+  {
+    "name": "Philosophy Bites",
+    "subs": "",
+    "avg": "~15 min",
+    "topics": [
+      "learning"
+    ],
+    "link": "https://philosophybites.com"
+  },
+  {
+    "name": "Podpah",
+    "subs": "10M",
+    "avg": "~90 min",
+    "topics": [
+      "culture"
+    ],
+    "link": "https://www.youtube.com/@podpah"
+  },
+  {
+    "name": "Flow Podcast",
+    "subs": "6.16M",
+    "avg": "~150 min",
+    "topics": [
+      "news"
+    ],
+    "link": "https://www.youtube.com/@flowpodcast"
+  },
+  {
+    "name": "Primo Rico",
+    "subs": "~6M",
+    "avg": "~45 min",
+    "topics": [
+      "finance"
+    ],
+    "link": "https://www.youtube.com/@primorico"
+  },
+  {
+    "name": "Inteligencia Ltda.",
+    "subs": "5.74M",
+    "avg": "~90 min",
+    "topics": [
+      "news"
+    ],
+    "link": "https://www.youtube.com/@inteligencialtda"
+  },
+  {
+    "name": "NerdCast",
+    "subs": "2.49M",
+    "avg": "~75 min",
+    "topics": [
+      "culture"
+    ],
+    "link": "https://www.youtube.com/@jovemnerd"
+  },
+  {
+    "name": "Charla Podcast",
+    "subs": "~2M",
+    "avg": "~90 min",
+    "topics": [
+      "sports"
+    ],
+    "link": "https://www.youtube.com/@charlapodcast"
+  },
+  {
+    "name": "Eu Poderia Estar Trabalhando",
+    "subs": "~1.5M",
+    "avg": "~50 min",
+    "topics": [
+      "finance"
+    ],
+    "link": "https://www.youtube.com/@eupoderiaestartrabalhando"
+  },
+  {
+    "name": "Braincast (B9)",
+    "subs": "~500K",
+    "avg": "~60 min",
+    "topics": [
+      "culture"
+    ],
+    "link": "https://b9.com.br/podcasts/braincast"
+  },
+  {
+    "name": "Stock Pickers",
+    "subs": "~400K",
+    "avg": "~50 min",
+    "topics": [
+      "finance"
+    ],
+    "link": "https://www.youtube.com/@stockpickers"
+  },
+  {
+    "name": "Rapaduracast",
+    "subs": "~300K",
+    "avg": "~90 min",
+    "topics": [
+      "culture"
+    ],
+    "link": "https://www.youtube.com/@rapaduracast"
+  },
+  {
+    "name": "Se Regalan Dudas",
+    "subs": "747K YT",
+    "avg": "~45 min",
+    "topics": [
+      "health"
+    ],
+    "link": "https://www.youtube.com/@seregalandudas"
+  },
+  {
+    "name": "La Cotorrisa",
+    "subs": "~400-500K YT",
+    "avg": "~75 min",
+    "topics": [
+      "culture"
+    ],
+    "link": "https://www.youtube.com/@lacotorrisaoficial"
+  },
+  {
+    "name": "Radio Ambulante",
+    "subs": "~5M/yr audio",
+    "avg": "~40 min",
+    "topics": [
+      "news"
+    ],
+    "link": "https://radioambulante.org"
+  },
+  {
+    "name": "El Bueno, la Mala y el Feo",
+    "subs": "radio",
+    "avg": "~75 min",
+    "topics": [
+      "culture"
+    ],
+    "link": "https://ke-buena.com"
+  }
+]

@@ -1,0 +1,972 @@
+{
+  "README.md": [
+    2,
+    2
+  ],
+  "src/achievements/jigsaw-puzzles/readme.md": [
+    2
+  ],
+  "src/achievements/jigsaw-puzzles/timeline.md": [
+    2
+  ],
+  "src/achievements/list.md": [
+    3,
+    3
+  ],
+  "src/achievements/prize/budget.md": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/achievements/prize/obsolete-dreams.md": [
+    2,
+    2
+  ],
+  "src/achievements/prize/platinum.md": [
+    3,
+    3,
+    3,
+    2
+  ],
+  "src/achievements/prize/readme.md": [
+    2
+  ],
+  "src/achievements/prize/returns.md": [
+    4,
+    3,
+    2,
+    3,
+    2
+  ],
+  "src/achievements/readme.md": [
+    2
+  ],
+  "src/code/backup.md": [
+    3
+  ],
+  "src/code/readme.md": [
+    2
+  ],
+  "src/code/repository/readme.md": [
+    2
+  ],
+  "src/code/repository/scripts.md": [
+    3
+  ],
+  "src/consumables/grocery.md": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "src/consumables/household.md": [
+    3,
+    3
+  ],
+  "src/consumables/pharmacy.md": [
+    3,
+    3,
+    3
+  ],
+  "src/consumables/readme.md": [
+    2
+  ],
+  "src/guides/cleanup.md": [
+    2
+  ],
+  "src/guides/readme.md": [
+    2
+  ],
+  "src/observations/breeds.md": [
+    3,
+    6
+  ],
+  "src/observations/framework/balance.md": [
+    4,
+    3,
+    2,
+    3
+  ],
+  "src/observations/framework/born.md": [
+    2,
+    4,
+    3,
+    3,
+    3,
+    2,
+    3
+  ],
+  "src/observations/framework/enjoyment.md": [
+    2
+  ],
+  "src/observations/framework/intra-thoughts.md": [
+    2,
+    3,
+    2
+  ],
+  "src/observations/framework/play.md": [
+    3,
+    2,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2
+  ],
+  "src/observations/framework/possibilities.md": [
+    3,
+    2,
+    5,
+    2,
+    3,
+    2,
+    3,
+    2,
+    3,
+    3,
+    2
+  ],
+  "src/observations/framework/restart.md": [
+    2,
+    3,
+    3,
+    2,
+    2
+  ],
+  "src/observations/framework/structures.md": [
+    3,
+    4,
+    2,
+    2,
+    4,
+    2,
+    2,
+    3
+  ],
+  "src/observations/fundamentals/fear-triage.md": [
+    2,
+    2
+  ],
+  "src/observations/fundamentals/gates.md": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/observations/fundamentals/hard-limit.md": [
+    3,
+    2,
+    2,
+    2
+  ],
+  "src/observations/fundamentals/harm.md": [
+    3,
+    3,
+    3,
+    2
+  ],
+  "src/observations/fundamentals/security.md": [
+    3,
+    3,
+    2,
+    2
+  ],
+  "src/observations/judgement.md": [
+    4,
+    3,
+    2,
+    5,
+    2
+  ],
+  "src/observations/justice/evidence.md": [
+    3,
+    2,
+    2
+  ],
+  "src/observations/justice/fair-game.md": [
+    2,
+    3,
+    3,
+    3,
+    4,
+    3,
+    2
+  ],
+  "src/observations/justice/karma.md": [
+    2,
+    2,
+    3,
+    5,
+    2
+  ],
+  "src/observations/justice/readme.md": [
+    2,
+    3
+  ],
+  "src/observations/masks.md": [
+    3,
+    3,
+    3,
+    3,
+    2,
+    4
+  ],
+  "src/observations/media/aquarium.md": [
+    3,
+    2
+  ],
+  "src/observations/media/cartel-economics.md": [
+    3,
+    2
+  ],
+  "src/observations/media/civilization-ladder.md": [
+    3,
+    4
+  ],
+  "src/observations/media/fiction-pairs.md": [
+    4
+  ],
+  "src/observations/media/live-stream.md": [
+    3,
+    3,
+    2,
+    2
+  ],
+  "src/observations/media/mastery-axis.md": [
+    3,
+    3,
+    3,
+    2,
+    3
+  ],
+  "src/observations/media/patterns.md": [
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    3,
+    5,
+    5,
+    5,
+    2,
+    2
+  ],
+  "src/observations/media/stages.md": [
+    4,
+    2
+  ],
+  "src/observations/media/status-quo.md": [
+    2,
+    2,
+    2
+  ],
+  "src/observations/media/trickster-archetype.md": [
+    3
+  ],
+  "src/observations/media/worlds.md": [
+    2
+  ],
+  "src/observations/monitoring.md": [
+    3,
+    4,
+    5,
+    2,
+    3,
+    2
+  ],
+  "src/observations/prejudice.md": [
+    3
+  ],
+  "src/observations/readme.md": [
+    2,
+    2
+  ],
+  "src/observations/sentiment.md": [
+    4,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2
+  ],
+  "src/observations/society/colors.md": [
+    3,
+    2
+  ],
+  "src/observations/society/cultures.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/observations/society/futures.md": [
+    3,
+    3,
+    4,
+    2,
+    3,
+    3,
+    4,
+    3,
+    3,
+    3,
+    3
+  ],
+  "src/observations/society/ledgers.md": [
+    3,
+    2,
+    2
+  ],
+  "src/observations/society/society.md": [
+    2,
+    3,
+    4,
+    4,
+    4,
+    2,
+    2,
+    3,
+    2,
+    2
+  ],
+  "src/observations/thoughts.md": [
+    2
+  ],
+  "src/playlists/books/finished.md": [
+    2,
+    6
+  ],
+  "src/playlists/books/queue.md": [
+    2,
+    6,
+    4
+  ],
+  "src/playlists/culture/readme.md": [
+    4
+  ],
+  "src/playlists/entertainment/movies/action.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/animation/west.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/comedy.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/crime.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/drama.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/fantasy.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/genius.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/horror.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/rabbit_hole.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/readme.md": [
+    2
+  ],
+  "src/playlists/entertainment/movies/revenge.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/sci_fi.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/serial_killer.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/spiritism.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/stock_market.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/superhero.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/survival.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/thriller.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/time_travel.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/torture.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/movies/wizard.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/music/cover/bass.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/cover/drums.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/cover/flute.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/cover/guitar.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/cover/harmonica.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/cover/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/cover/piano.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/cover/ukulele.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/cover/vocal.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/instrumental/chill.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/instrumental/dance.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/instrumental/dark.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/live/acoustic.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/live/live.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/live/orchestra.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/readme.md": [
+    2
+  ],
+  "src/playlists/entertainment/music/remix/slow-reverb.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/remix/vocal-dance.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/movies/harry-potter.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/movies/lotr.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/movies/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/movies/pirates.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/movies/spider-man.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/movies/transformers.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/tv-series/breaking-bad.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/tv-series/dragon-ball.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/tv-series/mr-robot.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/tv-series/naruto.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/tv-series/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/videogames/banjo.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/videogames/cuphead.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/videogames/gta.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/videogames/mario.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/videogames/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/videogames/skyrim.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/videogames/undertale.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/soundtrack/videogames/zelda.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/blues.md": [
+    11
+  ],
+  "src/playlists/entertainment/music/standard/forro.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/funk.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/hip-hop.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/indie.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/latin.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/mpb.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/other.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/reggae.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/rock/alt-modern.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/rock/classic-metal-grunge.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/samba.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/sertanejo.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/soul-funk.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/music/standard/vocal-dance.md": [
+    11,
+    11
+  ],
+  "src/playlists/entertainment/readme.md": [
+    2
+  ],
+  "src/playlists/entertainment/series/animation/east.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/series/animation/west.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/series/comedy.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/series/crime.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/series/drama.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/series/readme.md": [
+    2
+  ],
+  "src/playlists/entertainment/series/sci_fi.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/series/superhero.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/entertainment/series/thriller.md": [
+    2,
+    3,
+    3,
+    9
+  ],
+  "src/playlists/finance/readme.md": [
+    4
+  ],
+  "src/playlists/games/boardgame/checkers.md": [
+    2
+  ],
+  "src/playlists/games/boardgame/chess.md": [
+    2
+  ],
+  "src/playlists/games/boardgame/connect-four.md": [
+    2
+  ],
+  "src/playlists/games/boardgame/dominoes.md": [
+    2
+  ],
+  "src/playlists/games/boardgame/guess-who.md": [
+    2
+  ],
+  "src/playlists/games/boardgame/jenga.md": [
+    2
+  ],
+  "src/playlists/games/boardgame/monopoly.md": [
+    2
+  ],
+  "src/playlists/games/boardgame/uno.md": [
+    2
+  ],
+  "src/playlists/games/videogame/adventure.md": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/playlists/games/videogame/chill.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/playlists/games/videogame/hard.md": [
+    2,
+    2,
+    2
+  ],
+  "src/playlists/games/videogame/horror.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/playlists/games/videogame/management.md": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/playlists/games/videogame/nintendo/mario.md": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "src/playlists/games/videogame/nintendo/other.md": [
+    4,
+    4,
+    4,
+    3
+  ],
+  "src/playlists/games/videogame/nintendo/pokemon.md": [
+    4,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/playlists/games/videogame/survival.md": [
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "src/playlists/health/readme.md": [
+    4
+  ],
+  "src/playlists/learning/readme.md": [
+    4
+  ],
+  "src/playlists/news/readme.md": [
+    4
+  ],
+  "src/playlists/readme.md": [
+    6,
+    6,
+    11,
+    4
+  ],
+  "src/playlists/sounds/colors.md": [
+    2,
+    4,
+    4,
+    4
+  ],
+  "src/playlists/sounds/natural.md": [
+    2,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "src/playlists/sounds/tools.md": [
+    2,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "src/playlists/sports/readme.md": [
+    4
+  ],
+  "src/playlists/tech/readme.md": [
+    4
+  ],
+  "src/problems/readme.md": [
+    3,
+    4
+  ],
+  "src/problems/solvable/finance.md": [
+    3
+  ],
+  "src/problems/solvable/healthcare.md": [
+    2
+  ],
+  "src/problems/solvable/hunger-fund.md": [
+    3,
+    3,
+    2,
+    3,
+    3,
+    5,
+    4
+  ],
+  "src/problems/solvable/sewage.md": [
+    3,
+    3,
+    3
+  ],
+  "src/problems/solvable/tiny-environment.md": [
+    3,
+    3
+  ],
+  "src/readme.md": [
+    2
+  ],
+  "src/recipes/seasoning.md": [
+    3,
+    3,
+    3
+  ],
+  "src/tasks/government.md": [
+    5
+  ],
+  "src/tasks/health.md": [
+    5
+  ],
+  "src/tasks/housekeeping.md": [
+    5
+  ],
+  "src/tasks/readme.md": [
+    2
+  ],
+  "src/tools/carry/bookmarks.md": [
+    2
+  ],
+  "src/tools/carry/readme.md": [
+    2
+  ],
+  "src/tools/carry/wardrobe.md": [
+    4
+  ],
+  "src/tools/home/cleaning.md": [
+    4
+  ],
+  "src/tools/home/hygiene.md": [
+    4
+  ],
+  "src/tools/home/readme.md": [
+    2
+  ],
+  "src/tools/kitchen/kitchen.md": [
+    4
+  ],
+  "src/tools/kitchen/readme.md": [
+    2
+  ],
+  "src/tools/readme.md": [
+    2
+  ],
+  "src/tools/redundancy.md": [
+    2
+  ]
+}
