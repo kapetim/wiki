@@ -948,6 +948,44 @@
   "src/tools/carry/wardrobe.md": [
     4
   ],
+  "src/tools/devices/consoles.md": [
+    3,
+    3
+  ],
+  "src/tools/devices/desktop.md": [
+    2
+  ],
+  "src/tools/devices/microsd/play/readme.md": [
+    2
+  ],
+  "src/tools/devices/microsd/readme.md": [
+    2,
+    2
+  ],
+  "src/tools/devices/microsd/watch/readme.md": [
+    2
+  ],
+  "src/tools/devices/phone/readme.md": [
+    3
+  ],
+  "src/tools/devices/phone/screens.md": [
+    4,
+    3,
+    3
+  ],
+  "src/tools/devices/portable.md": [
+    3,
+    4
+  ],
+  "src/tools/devices/readme.md": [
+    3
+  ],
+  "src/tools/devices/shoulder-bag.md": [
+    4
+  ],
+  "src/tools/devices/storage.md": [
+    2
+  ],
   "src/tools/home/cleaning.md": [
     4
   ],

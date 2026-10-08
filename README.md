@@ -26,7 +26,7 @@ Personal wiki — observations, guides, playlists, games, tools, instruments, pr
 
 ### 📊 Coverage
 
-**Total: 1290 headings · 1290 with emoji · 100.00% coverage.**
+**Total: 1341 headings · 1341 with emoji · 100.00% coverage.**
 
 Files with headings missing an emoji: none.
 

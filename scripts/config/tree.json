@@ -8,5 +8,15 @@
     "path": "achievements/prize/hacker-cup.jpg",
     "sha256": "a410ad8d1dca0b898061967fccd7faa1dba51270a0ca20011ac2a8746f32e72e",
     "size": 498053
+  },
+  {
+    "path": "tools/devices/phone/iphone.png",
+    "sha256": "c8e84a4748011adae5d1dfcf2c55ac4a8ebd0e3ab03193b6e550d97a1cd34a63",
+    "size": 1654070
+  },
+  {
+    "path": "tools/devices/phone/xiaomi.jpg",
+    "sha256": "881e72fdb1aff473adf429dd7166be8ef66efc3ffc30ce8e13263a75c51dd51b",
+    "size": 1117965
   }
 ]
