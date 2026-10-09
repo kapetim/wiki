@@ -939,14 +939,8 @@
   "src/tasks/readme.md": [
     2
   ],
-  "src/tools/carry/bookmarks.md": [
+  "src/tools/devices/bookmarks.md": [
     2
-  ],
-  "src/tools/carry/readme.md": [
-    2
-  ],
-  "src/tools/carry/wardrobe.md": [
-    4
   ],
   "src/tools/devices/consoles.md": [
     3,
@@ -980,9 +974,6 @@
   "src/tools/devices/readme.md": [
     3
   ],
-  "src/tools/devices/shoulder-bag.md": [
-    4
-  ],
   "src/tools/devices/storage.md": [
     2
   ],
@@ -995,10 +986,11 @@
   "src/tools/home/readme.md": [
     2
   ],
-  "src/tools/kitchen/kitchen.md": [
+  "src/tools/home/wardrobe.md": [
     4
   ],
-  "src/tools/kitchen/readme.md": [
+  "src/tools/onboard.md": [
+    2,
     2
   ],
   "src/tools/readme.md": [
@@ -1006,5 +998,8 @@
   ],
   "src/tools/redundancy.md": [
     2
+  ],
+  "src/tools/street.md": [
+    4
   ]
 }

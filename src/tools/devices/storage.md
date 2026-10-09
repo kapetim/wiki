@@ -17,4 +17,4 @@ Keep the boot drives current; verify each one boots after writing.
 ## 🔗 Related
 
 - [portable.md](portable.md) — phones and power modes
-- [shoulder-bag.md](shoulder-bag.md) — everyday carry
+- [../street.md](../street.md) — everyday carry

@@ -21,7 +21,6 @@
 | 2 | Shampoo | — |
 | 3 | Shaving cream | — |
 | 4 | Solid soap | — |
-| 5 | Toilet paper | — |
-| 6 | Toothbrush | — |
-| 7 | Toothpaste | — |
+| 5 | Toothbrush | — |
+| 6 | Toothpaste | — |
 <!-- end table -->

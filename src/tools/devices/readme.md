@@ -12,7 +12,7 @@
 | [`machines.md`](machines.md) | Machines | the machine setup rules |
 | [`consoles.md`](consoles.md) | Consoles | what to play on, by situation |
 | [`storage.md`](storage.md) | Storage | offline storage and boot pendrives |
-| [`shoulder-bag.md`](shoulder-bag.md) | Shoulder bag | personal carry items that last years |
+| [`bookmarks.md`](bookmarks.md) | Bookmarks | web entry points |
 | [`microsd/`](microsd/readme.md) | microSD | the offline card — play, watch, listen, and backup |
 | [`phone/`](phone/readme.md) | Phone | the home iPhone and the street Xiaomi home screens |
 <!-- end table -->

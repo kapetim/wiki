@@ -13,11 +13,11 @@ Everything under `src/` — the personal wiki.
 | `achievements/` | Achievements — the prize system and the record |
 | `playlists/` | What you watch and listen to — entertainment (films, series, music), games, books, podcasts, sounds |
 | `tasks/` | Recurring task playbooks — government · health · housekeeping |
-| `tools/` | Durable stuff — home gear, carry, and bookmarks |
+| `tools/` | What to own and use — home gear, street carry, the new-home kit, devices |
 | `consumables/` | Recurring home purchases — grocery, pharmacy, household |
 | `instruments/` | Instrument maps |
 | `problems/` | Problems with no easy road — solvable · unsolvable · unknown |
 | `recipes/` | Cooking recipes |
 <!-- end table -->
 
-[tools/carry/bookmarks.md](tools/carry/bookmarks.md) — web entry points.
+[tools/devices/bookmarks.md](tools/devices/bookmarks.md) — web entry points.

@@ -28,4 +28,4 @@ Buy once, replace on wear. The "Own?" and "Replacement signal" columns in the do
 
 ## 🔗 Related
 
-- [kitchen/readme.md](kitchen/readme.md) — kitchen gear
+- [home/readme.md](home/readme.md) — home gear

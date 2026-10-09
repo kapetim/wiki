@@ -8,7 +8,6 @@
   { "name": "Shampoo", "section": "hygiene" },
   { "name": "Shaving cream", "section": "hygiene" },
   { "name": "Solid soap", "section": "hygiene" },
-  { "name": "Toilet paper", "section": "hygiene" },
   { "name": "Toothbrush", "section": "hygiene" },
   { "name": "Toothpaste", "section": "hygiene" }
 ]
