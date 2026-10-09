@@ -13,6 +13,7 @@ owed back), and **fair game** is the **judgement system** (collect evidence, the
 | [evidence.md](evidence.md) | Proof in the AI age — data-on-disk, provenance, and the caught-standard |
 | [self-defense.md](self-defense.md) | The unprovable claim — survival, proof, and the house with no camera |
 | [police.md](police.md) | The enforcement layer — presence as fear, and enforcement as a toll |
+| [police-brazil.md](police-brazil.md) | Brazil enforcement reference — crime ladder, prescription, regime, resolving without prison |
 <!-- end table -->
 
 ## 🧭 Who polices each layer
