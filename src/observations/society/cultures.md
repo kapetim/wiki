@@ -20,6 +20,8 @@
 | **Impression** | High warmth + high friction — bureaucracy and inequality as constant background noise |
 | **Curiosity** | Regional identity stronger than foreign “one Brazil” model (South vs Northeast vs North) |
 | **Open** | Can efficiency culture coexist with jeitinho without corrosion? |
+| **Allowed** | *(fill)* |
+| **Hard no** | Harming a **dog** — animal cruelty is treated as close to unforgivable. |
 <!-- end table -->
 
 ### 🇨🇦 Canada
@@ -30,6 +32,8 @@
 | **Impression** | Process-first civility; weather shapes social calendar hard |
 | **Curiosity** | Bilingual tension is polite on surface, structural underneath |
 | **Open** | Vancouver rain culture vs prairie directness — same flag, different games |
+| **Allowed** | Cannabis legal (30g public · 4 plants/household); alcohol 19+ (18+ in AB/MB/QC); tobacco 18+. |
+| **Hard no** | **Public / street drinking** — draws police fast; otherwise keep a low profile. |
 <!-- end table -->
 
 ### 🇺🇸 United States
@@ -81,6 +85,8 @@
 | --- | --- |
 | **Impression** | Trust in systems correlates with punctual infrastructure |
 | **Curiosity** | How much mood is **light budget** vs policy? |
+| **Allowed** | Netherlands: cannabis tolerated in licensed coffeeshops (5g/person); alcohol 18+; tobacco 18+. |
+| **Hard no** | **Cannabis on the street** (Netherlands) — keep it to licensed coffeeshops. |
 <!-- end table -->
 
 ### 🌍 Eastern Europe
@@ -121,6 +127,8 @@
 | --- | --- |
 | **Impression** | Heterogeneity underrated; “Indian food” is a whole continent on one plate |
 | **Curiosity** | Language politics mirror Brazil but older stack |
+| **Allowed** | *(fill)* |
+| **Hard no** | Harming a **cow** — sacred; the reaction can exceed the one for harming a person. |
 <!-- end table -->
 
 ### 🌏 Southeast Asia
@@ -168,6 +176,33 @@
 
 ---
 
+
+## 🚫 Local hard-nos (personal read)
+
+What is *specifically* bad to do in each place — the local sacred thing, where the social/legal
+reaction is sharpest. Personal read, not a guide.
+
+<!-- begin table -->
+| Country | Hard no |
+| --- | --- |
+| 🇧🇷 Brazil | Harming a **dog** — animal cruelty mobilizes people more than a lot of human harm. |
+| 🇨🇦 Canada | **Public / street drinking**; otherwise keep a low profile. |
+| 🇺🇸 United States | *(fill)* |
+| 🇲🇽 Mexico / Latin America | *(fill)* |
+| 🇵🇹 Portugal | *(fill)* |
+| 🇬🇧 UK | *(fill)* |
+| 🇩🇪 Germany / Netherlands / Nordics | **Cannabis on the street** (Netherlands). |
+| 🌍 Eastern Europe | *(fill)* |
+| 🇯🇵 Japan | *(fill)* |
+| 🇨🇳 China | *(fill)* |
+| 🇮🇳 India | Harming a **cow** — sacred; can outweigh the reaction to harming a person. |
+| 🌏 Southeast Asia | *(fill)* |
+| 🌍 Africa | *(fill)* |
+| 🕌 Middle East | *(fill)* |
+| 🇦🇺 Australia / New Zealand | *(fill)* |
+<!-- end table -->
+
+---
 ## 🔀 Cross-cutting themes (to revisit)
 
 <!-- begin table -->
