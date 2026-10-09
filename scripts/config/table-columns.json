@@ -1007,5 +1007,17 @@
     5,
     2,
     2
+  ],
+  "src/guides/plant/readme.md": [
+    2
+  ],
+  "src/guides/plant/prepare.md": [
+    2,
+    2,
+    3
+  ],
+  "src/guides/plant/grow.md": [
+    3,
+    3
   ]
 }
